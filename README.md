@@ -1,5 +1,7 @@
 # Way! #
 *Who Are You in World of Warcraft*
+
+![Illidan](assets/images/illidan.jpeg)
 ---
 ## UX (User Experience) ##
 ---
@@ -17,4 +19,3 @@ The **goal** for this project is to **entertain** users.
 * As a **user**, I want to have clearly defined **questions** and **answers**.
 * As a **user**, I want to be able to **post** my results to various **social media sites**.
 * As a **user**, I want to be able to **mail** the site owner if I have **questions**, want to **suggest content** or pay a compliment.
- 
