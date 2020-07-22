@@ -10,3 +10,11 @@ The **goal** for this project is to **entertain** users.
 * **Find** out which [World of Warcraft](https://worldofwarcraft.com/en-us/) faction, race, class and spec you are.
 * Be **entertained**.
 * **Find** beautiful **images** of World of Warcraft races and classes.
+
+### User Stories ###
+* As a **user**, I want and **attractive** and **fun** website so I will be **entertained**.
+* As a **user**, I want a **site** that loads fast.
+* As a **user**, I want to have clearly defined **questions** and **answers**.
+* As a **user**, I want to be able to **post** my results to various **social media sites**.
+* As a **user**, I want to be able to **mail** the site owner if I have **questions**, want to **suggest content** or pay a compliment.
+ 
