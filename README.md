@@ -70,4 +70,8 @@ Colors that are used, are based on the World of Warcraft colors.
 * Contact **form**.
 * Social Media **share buttons**.
 
+**Features** that will be **implemented** in the **future:**
+
+
+
 
