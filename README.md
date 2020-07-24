@@ -121,4 +121,32 @@ Colors that are used, are based on the World of Warcraft colors.
 
 ## Deployment ##
 ---
+WAY! was **developed** on **GitPod**, using **git** and **GitHub** to host the repository.
+
+When deploying WAY! using **GitHub Pages** the following steps were made:
+
+* Opened up **GitHub** in the **browser**.
+* Signed in using **username** and **password**.
+* Selected my **repositories**.
+* Navigated to **byIlsa/WAY**.
+* In the top navigation clicked **settings**.
+* Scrolled down to the **GitHub Pages** area.
+* Selected **Master Branch** from the **Source** dropdown menu.
+* Clicked to **confirm** my **selection**.
+* Aloy: from Outcast tot Heroine now **live** on **GitHub Pages**.
+
+**Running WAY! Locally**
+
+**Cloning** WAY! from **GitHub**:
+
+* Navigate to **byIlsa/WAY**.
+* Click the green **Clone or Download** button.
+* **Copy** the url in the **dropdown box**.
+* Using your **favourite IDE** open up your **preferred** terminal.
+* **Navigate** to your **desired** file **location**.
+
+**Copy** the following code and **input** it into your **terminal** to **clone WAY!**.
+
+```git clone https://github.com/byIlsa/Aloy-from-outcast-to-heroine```
+
 
