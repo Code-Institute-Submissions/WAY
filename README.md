@@ -149,4 +149,5 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 
 ```git clone https://github.com/byIlsa/Aloy-from-outcast-to-heroine```
 
+## Credits ##
 
