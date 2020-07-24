@@ -113,3 +113,6 @@ Colors that are used, are based on the World of Warcraft colors.
 * **Results**
 * **Verdict**
 
+## Bugs ##
+---
+
