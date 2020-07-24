@@ -118,3 +118,7 @@ Colors that are used, are based on the World of Warcraft colors.
 **During development**
 **From validation/testing**
 **From peer code review**
+
+## Deployment ##
+---
+
