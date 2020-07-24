@@ -1,4 +1,4 @@
-# Way! #
+# WAY! #
 *Who Are You in World of Warcraft*
 
 The **ultimate quiz** to decide for **once and for all** which faction, race, class and role you belong to in the populair MMORPG [World of Warcraft](https://worldofwarcraft.com/en-us/). 
