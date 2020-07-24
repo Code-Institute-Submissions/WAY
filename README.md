@@ -26,4 +26,10 @@ The **goal** for this project is to **entertain** users.
 * As a **site owner** I want to educate my users.
 * As a **site owner** I want my users to be able to **contact** me.
 
+### User Requirements and Expectations ###
+
+**Requirements**
+* **Navigate** the website using the navbar.
+* Have a **intuitive** layout that is easy to use.
+
 
