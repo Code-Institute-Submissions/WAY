@@ -55,3 +55,6 @@ For titles i've used [Open Sans](https://fonts.google.com/specimen/Open+Sans?que
 **Colors**
 
 ## Wireframing ##
+
+## Features ##
+
