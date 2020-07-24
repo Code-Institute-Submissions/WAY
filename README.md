@@ -57,4 +57,10 @@ For titles i've used [Open Sans](https://fonts.google.com/specimen/Open+Sans?que
 ## Wireframing ##
 
 ## Features ##
+---
+**Features** that have been **implemented:**
+
+* Easy to use **navigation** on all screensizes.
+* Contact **form**.
+* Social Media **share buttons**. 
 
