@@ -79,6 +79,10 @@ Colors that are used, are based on the World of Warcraft colors.
 ---
 **Languages**
 
-*
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [JS](https://nl.wikipedia.org/wiki/JavaScript)
+* [JQuery](https://jquery.com/)
+* [Popper](https://popper.js.org/)
 
 
