@@ -40,4 +40,5 @@ The **goal** for this project is to **entertain** users.
 * Content is **appealing**.
 
 ### Design Choices ###
-
+When **designing** this site, I mainly did a **lot of thinking**. Where **coming up** with the idea wasn't all that hard, the **getting the data structured and usable**, was a whole different ball game.
+I've looked at [**other quizzes**](https://www.zimbio.com/quiz/xB6XYrSQXCE/World+Warcraft+Class) that follow a path that is similar to mine and went from there.
