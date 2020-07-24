@@ -76,5 +76,9 @@ Colors that are used, are based on the World of Warcraft colors.
 * Option to **check** if that **name** is already **taken** (through an API).
 
 ## Technologies used ##
+---
+**Languages**
+
+*
 
 
