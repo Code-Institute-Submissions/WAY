@@ -39,3 +39,5 @@ The **goal** for this project is to **entertain** users.
 * Result is **sharable** through **social media** share buttons at the results location.
 * Content is **appealing**.
 
+### Design Choices ###
+
