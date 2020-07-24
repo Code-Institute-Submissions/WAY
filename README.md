@@ -49,3 +49,5 @@ For titles i've used [Open Sans](https://fonts.google.com/specimen/Open+Sans?que
 
 **Icons**
 **Icons** used where provided by [Font Awesome](https://fontawesome.com/), used in **moderation** and are self explanatory.
+
+**Colors**
