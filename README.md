@@ -87,6 +87,12 @@ Colors that are used, are based on the World of Warcraft colors.
 
 **Tools & Libraries**
 
+* [Git](https://git-scm.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Font-Awesome](https://fontawesome.com/icons?d=gallery)
+* [Google fonts](https://fonts.google.com/)
+* [Gimp](https://www.gimp.org/)
+
 
 
 
