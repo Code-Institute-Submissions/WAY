@@ -97,6 +97,19 @@ Colors that are used, are based on the World of Warcraft colors.
 ---
 **Responsiveness**
 
+* **Implementation**
+* **Results**
+* **Verdict**
 
+**Design**
 
+* **Implementation**
+* **Results**
+* **Verdict**
+
+**Contact form**
+
+* **Implementation**
+* **Results**
+* **Verdict**
 
