@@ -58,6 +58,8 @@ Colors that are used, are based on the World of Warcraft colors.
 * For additional backgrounds: 
 * For text: 
 
+![Color Scheme](https://link)
+
 ## Wireframing ##
 
 ## Features ##
