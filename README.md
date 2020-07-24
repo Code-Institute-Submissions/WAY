@@ -46,7 +46,7 @@ I've looked at [**other quizzes**](https://www.zimbio.com/quiz/xB6XYrSQXCE/World
 
 **Fonts**
 
-For titles i've used [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans) and for the text i've used [Montserrat](https://fonts.google.com/specimen/Montserrat?query=mont) which come pretty close to the fonts BLizzard uses for their World of Warcraft site.
+For titles i've used [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans) and for the text i've used [Montserrat](https://fonts.google.com/specimen/Montserrat?query=mont) which come pretty close to the fonts Blizzard uses for their World of Warcraft site.
 
 **Icons**
 
