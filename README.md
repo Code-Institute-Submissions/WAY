@@ -155,4 +155,6 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 **Images used**
 **Special thanks**
 
+**Site for educational purposes only!**
+
 
