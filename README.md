@@ -34,3 +34,6 @@ The **goal** for this project is to **entertain** users.
 * **Fun questions** that lead to an **equally fun** (and perhaps true) **outcome**.
 * Be able to **share** results on **social media**.
 
+**Expectations**
+
+
