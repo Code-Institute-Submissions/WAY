@@ -93,6 +93,8 @@ Colors that are used, are based on the World of Warcraft colors.
 * [Google fonts](https://fonts.google.com/)
 * [Gimp](https://www.gimp.org/)
 
+## Testing ##
+
 
 
 
