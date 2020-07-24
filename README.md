@@ -75,5 +75,6 @@ Colors that are used, are based on the World of Warcraft colors.
 * **Fantasy name generator**: Let's user generate a **character name** to go with the **outcome of the quizz**.
 * Option to **check** if that **name** is already **taken** (through an API).
 
+## Technologies used ##
 
 
