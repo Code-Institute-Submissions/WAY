@@ -35,5 +35,7 @@ The **goal** for this project is to **entertain** users.
 * Be able to **share** results on **social media**.
 
 **Expectations**
-
+* Quiz is **easy** to use and gives **no errors**.
+* Result is **sharable** through **social media** share buttons at the results location.
+* Content is **appealing**.
 
