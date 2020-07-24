@@ -53,6 +53,10 @@ For titles i've used [Open Sans](https://fonts.google.com/specimen/Open+Sans?que
 **Icons** used where provided by [Font Awesome](https://fontawesome.com/), used in **moderation** and are self explanatory.
 
 **Colors**
+Colors that are used, are based on the World of Warcraft colors.
+* For body background: Black #000000
+* For additional backgrounds: 
+* For text: 
 
 ## Wireframing ##
 
@@ -62,5 +66,6 @@ For titles i've used [Open Sans](https://fonts.google.com/specimen/Open+Sans?que
 
 * Easy to use **navigation** on all screensizes.
 * Contact **form**.
-* Social Media **share buttons**. 
+* Social Media **share buttons**.
+
 
