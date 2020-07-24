@@ -155,6 +155,8 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 **Images used**
 **Special thanks**
 
+For his undying love and support and always being there, my love, you know who you are ;)
+
 **Site for educational purposes only!**
 
 
