@@ -62,6 +62,16 @@ Colors that are used, are based on the World of Warcraft colors.
 
 ## Wireframing ##
 
+For **wireframing** I used [Pencil Prototyping](https://pencil.evolus.vn/).
+
+View my wireframes [here]("https://github.com/byIlsa/WAY/tree/master/wireframes").
+
+To be more precise:
+
+* [Desktop Wireframe]("https://github.com/byIlsa/WAY/tree/master/wireframes/desktop.pdf")
+* [Tablet Wireframe]("https://github.com/byIlsa/WAY/tree/master/wireframes/tablet.pdf")
+* [Mobile Wireframe]("https://github.com/byIlsa/WAY/tree/master/wireframes/mobile.pdf")
+
 ## Features ##
 ---
 **Features** that have been **implemented:**
