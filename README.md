@@ -147,7 +147,7 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 
 **Copy** the following code and **input** it into your **terminal** to **clone WAY!**.
 
-```git clone https://github.com/byIlsa/Aloy-from-outcast-to-heroine```
+```git clone https://github.com/byIlsa/WAY```
 
 ## Credits ##
 ---
