@@ -68,9 +68,9 @@ View my wireframes [here]("https://github.com/byIlsa/WAY/tree/master/wireframes"
 
 To be more precise:
 
-* [Desktop Wireframe]("https://github.com/byIlsa/WAY/tree/master/wireframes/desktop.pdf")
-* [Tablet Wireframe]("https://github.com/byIlsa/WAY/tree/master/wireframes/tablet.pdf")
-* [Mobile Wireframe]("https://github.com/byIlsa/WAY/tree/master/wireframes/mobile.pdf")
+* [Desktop Wireframe]("https://github.com/byIlsa/WAY/blob/master/wireframes/desktop.pdf")
+* [Tablet Wireframe]("https://github.com/byIlsa/WAY/blob/master/wireframes/tablet.pdf")
+* [Mobile Wireframe]("https://github.com/byIlsa/WAY/blob/master/wireframes/mobile.pdf")
 
 ## Features ##
 ---
