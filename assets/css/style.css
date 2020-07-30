@@ -14,5 +14,11 @@ body {
     height: 100vh;
     font-size: 62.5%;
     overflow-x: hidden;
+}
 
+#logo {
+    background-image: url("../images/logo.png");
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: center;
 }
