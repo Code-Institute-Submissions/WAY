@@ -21,29 +21,28 @@ body {
     background-image: url("../images/logo.png");
     display: flex;
     justify-content: center;
-    align-items: center;
     background-repeat: no-repeat;
     background-position: top;
 }
-
-.section-title {
-    font-family: "Open-Sans";
-    color: white;
-    font-size: 4rem;
+#illidan {
+    background-image: url("../images/illidan.jpg");
+    display: flex;
     justify-content: center;
-    
+    background-repeat: no-repeat;
 }
 
 .section-text {
     font-family: "Montserrat";
     color: white;
-    font-size: 2rem;
+    font-size: 1.5rem;
     justify-content: center;
 }
 
 .jumbotron {
-    background: rgba(0, 0, 0, 0.3);
-    display: flex;
-    align-items: center;
+    border: 1px solid #37343d;
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 1rem 1rem;
     justify-content: center;
 }
+
