@@ -20,20 +20,30 @@ body {
 #logo {
     background-image: url("../images/logo.png");
     display: flex;
+    justify-content: center;
+    align-items: center;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top;
 }
 
 .section-title {
     font-family: "Open-Sans";
     color: white;
+    font-size: 4rem;
+    justify-content: center;
+    
 }
 
 .section-text {
     font-family: "Montserrat";
     color: white;
+    font-size: 2rem;
+    justify-content: center;
 }
 
 .jumbotron {
     background: rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
