@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background-image: url("../images/factions.jpg");
+    background-image: url("../images/factions.png");
     background-color: black;
     display: flex;
     background-repeat: no-repeat;
@@ -25,10 +25,11 @@ body {
     background-position: top;
 }
 #illidan {
-    background-image: url("../images/illidan.jpg");
+    /*background-image: url("../images/illidan.jpg");*/
     display: flex;
     justify-content: center;
     background-repeat: no-repeat;
+    width: 100%;
 }
 
 .section-text {
