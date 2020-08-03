@@ -1,100 +1,102 @@
+/* if a then to races, if b, continue*/
+
 {
-   "const myQuestions": [
+   "const sharedQuestions": [
       {
          "question": "Are you an asshole?",
          "answers": {
             "a": "Yes",
             "b": "No"
-         },
-         "correctAnswer": "c"
+         }
+         
       },
       {
          "question": "Are your pants currently ono your head?",
          "answers": {
             "a": "Yes",
             "b": "No"
-         },
-         "correctAnswer": "c"
+         }
+        
       },
       {
          "question": "Is your hard on for Thrall as big as Metzen’s?",
          "answers": {
             "a": "Yes",
             "b": "No"
-         },
-         "correctAnswer": "d"
+         }
+        
       },
       {
          "question": "Are you going through an emo-phase?",
          "answers": {
            "a": "Yes",
             "b": "No"
-         },
-         "correctAnswer": "d"
+         }
+      
       },
       {
          "question": "Do you have an unhealthy obsession for cats?",
          "answers": {
            "a": "Yes",
             "b": "No"
-         },
-         "correctAnswer": "d"
+         }
+        
       },
       {
          "question": "Do you REALLY like shiny gold sparkles?",
          "answers": {
             "a": "Yes",
             "b": "No"
-         },
-         "correctAnswer": "d"
+         }
+         
       },
       {
          "question": "Are you overcompensating for something?",
          "answers": {
             "a": "Yes",
             "b": "No"
-         },
-         "correctAnswer": "d"
+         }
+        
       },
        {
          "question": "Do you have a hero complex?",
          "answers": {
             "a": "Yes",
             "b": "No"
-         },
-         "correctAnswer": "d"
+         }
+       
       },
        {
          "question": "Do you enjoy lightening things on fire when you are drunk?",
          "answers": {
             "a": "Yes",
             "b": "No"
-         },
-         "correctAnswer": "d"
+         }
+         
       },
        {
          "question": "Did you really like that one Kung Fu lesson you took in third grade?",
          "answers": {
             "a": "Yes",
             "b": "No"
-         },
-         "correctAnswer": "d"
+         }
+        
       },
        {
          "question": "Is summoning a girl or boyfriend the only way you would get one?",
          "answers": {
             "a": "Yes",
             "b": "No"
-         },
-         "correctAnswer": "d"
+         }
+         
       },
        {
          "question": "Are you pretty much subbing just for double jump?",
          "answers": {
             "a": "Yes",
             "b": "No"
-         },
-         "correctAnswer": "d"
+         }
+         
       }
    ]
 }
