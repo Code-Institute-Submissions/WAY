@@ -25,11 +25,11 @@ body {
     background-position: top;
 }
 #illidan {
-    /*background-image: url("../images/illidan.jpg");*/
-    display: flex;
-    justify-content: center;
-    background-repeat: no-repeat;
-    width: 100%;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+    
+    
 }
 
 .section-text {
