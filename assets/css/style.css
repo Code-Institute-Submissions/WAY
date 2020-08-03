@@ -24,19 +24,13 @@ body {
     justify-content: center;
     background-repeat: no-repeat;
     background-position: top;
-    
-   
-    
 }
+
 #game-container {
   display: flex;
-  
   justify-content: center;
   align-items: center;
-  
   width: 50vh;
-    
-    
 }
 
 .section-text {
@@ -51,16 +45,20 @@ body {
     border-radius: 1rem;
     background: rgba(0, 0, 0, 0.6);
     justify-content: center;
-    
-   
 }
+ #lead {
+     display: flex;
+  justify-content: center;
+  align-items: center;
+  
+ }
+
 /* Footer */
 .bold-text {
     color: white;
 }
 
 #footer {
- 
     height: 20px;
     margin-bottom: 1rem;
     position: fixed;
