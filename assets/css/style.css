@@ -24,10 +24,11 @@ body {
     background-repeat: no-repeat;
     background-position: top;
 }
-#illidan {
+#game-container {
   justify-content: center;
   align-items: center;
-  position: absolute;
+  position: relative;
+  width: 40vw;
     
     
 }
@@ -42,8 +43,8 @@ body {
 .jumbotron {
     border: 1px solid #37343d;
     border-radius: 1rem;
-    background: rgba(255, 255, 255, 0.8);
-    padding: 1rem 1rem;
+    background: rgba(0, 0, 0, 0.6);
     justify-content: center;
+    position: absolute;
 }
 
