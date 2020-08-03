@@ -2,6 +2,7 @@
 
 html {
     scroll-behavior: smooth;
+    
 }
 
 body {
@@ -23,12 +24,17 @@ body {
     justify-content: center;
     background-repeat: no-repeat;
     background-position: top;
+    
+   
+    
 }
 #game-container {
+  display: flex;
+  
   justify-content: center;
   align-items: center;
-  position: relative;
-  width: 40vw;
+  
+  width: 50vh;
     
     
 }
@@ -45,13 +51,21 @@ body {
     border-radius: 1rem;
     background: rgba(0, 0, 0, 0.6);
     justify-content: center;
-    position: absolute;
+    
+   
 }
-
+/* Footer */
 .bold-text {
     color: white;
 }
 
-.footer-created {
-    color: white;
+#footer {
+ 
+    height: 20px;
+    margin-bottom: 1rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
