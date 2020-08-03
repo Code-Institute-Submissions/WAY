@@ -48,3 +48,10 @@ body {
     position: absolute;
 }
 
+.bold-text {
+    color: white;
+}
+
+.footer-created {
+    color: white;
+}
