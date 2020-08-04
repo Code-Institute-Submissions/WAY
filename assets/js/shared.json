@@ -1,7 +1,25 @@
-/* if a then to races, if b, continue*/
 
 {
-   "const sharedQuestions": [
+    "const factionQuestions": [
+        {
+            "question": "Choose wisely!",
+            "answers": {
+                "a": "Red",
+                "b": "Blue"
+            }
+        }
+    ],
+    "const roleQuestions": [
+        {
+            "question": "What best describes you?",
+            "answers": {
+                "a": "An angel of mercy, flying through the instance, carrying the noobs",
+                "b": "A legendary being who strikes all who oppose him",
+                "c": "A plate or leather wearing demi-god that stops the simple mortals from dying"
+            }
+        }
+    ],
+   "const classQuestions": [
       {
          "question": "Are you an asshole?",
          "answers": {
