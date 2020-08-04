@@ -29,7 +29,7 @@
          
       },
       {
-         "question": "Are your pants currently ono your head?",
+         "question": "Are your pants currently on your head?",
          "answers": {
             "a": "Yes",
             "b": "No"
@@ -44,14 +44,7 @@
          }
         
       },
-      {
-         "question": "Are you going through an emo-phase?",
-         "answers": {
-           "a": "Yes",
-            "b": "No"
-         }
-      
-      },
+            
       {
          "question": "Do you have an unhealthy obsession for cats?",
          "answers": {
@@ -92,14 +85,7 @@
          }
          
       },
-       {
-         "question": "Did you really like that one Kung Fu lesson you took in third grade?",
-         "answers": {
-            "a": "Yes",
-            "b": "No"
-         }
-        
-      },
+      
        {
          "question": "Is summoning a girl or boyfriend the only way you would get one?",
          "answers": {
@@ -107,15 +93,8 @@
             "b": "No"
          }
          
-      },
-       {
-         "question": "Are you pretty much subbing just for double jump?",
-         "answers": {
-            "a": "Yes",
-            "b": "No"
-         }
-         
       }
+      
    ]
 }
 
