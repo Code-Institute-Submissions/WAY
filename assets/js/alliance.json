@@ -3,8 +3,8 @@
         {
             "question": "Which appearance you like best?",
             "answers": {
-                "a": "Human",
-                "b": "Dwarf"
+                "a": "Human image",
+                "b": "Dwarf image"
             }
         }
     ],
@@ -12,8 +12,8 @@
         {
             "question": "Which appearance you like best?",
             "answers": {
-                "a": "Human",
-                "b": "Gnome"
+                "a": "Human image",
+                "b": "Gnome image"
                 
             }
         }
@@ -22,9 +22,9 @@
       {
          "question": "Which appearance you like best?",
          "answers": {
-            "a": "Human",
-            "b": "Dwarf",
-            "c": "Night Elf"
+            "a": "Human image",
+            "b": "Dwarf image",
+            "c": "Night Elf image"
          }
       }
    ],
@@ -32,10 +32,10 @@
       {
          "question": "Which appearance you like best?",
          "answers": {
-            "a": "Human",
-            "b": "Dwarf",
-            "c": "Night Elf",
-            "d": "Gnome"
+            "a": "Human image",
+            "b": "Dwarf image",
+            "c": "Night Elf image",
+            "d": "Gnome image"
          }
       }
       ],   
@@ -43,9 +43,9 @@
       {
          "question": "Which appearance you like best?",
          "answers": {
-            "a": "Human",
-            "b": "Dwarf",
-            "c": "Gnome"
+            "a": "Human image",
+            "b": "Dwarf image",
+            "c": "Gnome image"
             
          }
       }
@@ -54,9 +54,9 @@
       {
          "question": "Which appearance you like best?",
          "answers": {
-            "a": "Human",
-            "b": "Night Elf",
-            "c": "Gnome"
+            "a": "Human image",
+            "b": "Night Elf image",
+            "c": "Gnome image"
          }
       }
       ],   
@@ -64,8 +64,8 @@
       {
          "question": "Which appearance you like best?",
          "answers": {
-            "a": "Dwarf",
-            "b": "Night Elf"
+            "a": "Dwarf image",
+            "b": "Night Elf image"
             
          }
       }
@@ -75,7 +75,7 @@
          "question": "Which appearance you like best?",
          "answers": {
             
-            "a": "Night Elf"
+            "a": "Night Elf image"
             
          }
       }

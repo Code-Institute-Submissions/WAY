@@ -1,0 +1,75 @@
+{
+   
+    "const mageQuestion": [
+        {
+            "question": "Which appearance you like best?",
+            "answers": {
+                "a": "Troll image",
+                "b": "Undead image"
+                
+            }
+        }
+    ],
+   "const priestQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            "a": "Troll image",
+            "b": "Undead image"
+            
+         }
+      }
+   ],
+      "const rogueQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            "a": "Orc image",
+            "b": "Troll image",
+            "c": "Undead image"
+            
+         }
+      }
+      ],   
+     "const warlockQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            "a": "Orc image",
+            "b": "Undead image"
+            
+            
+         }
+      }
+      ],   
+      "const warriorQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            "a": "Human image",
+            "b": "Night Elf image",
+            "c": "Gnome image"
+         }
+      }
+      ],   
+      "const hunterQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            "a": "Dwarf image",
+            "b": "Night Elf image"
+            
+         }
+      }
+      ],   
+      "const druidQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            
+            "a": "Night Elf image"
+            
+         }
+      }
+      ]
+}
