@@ -1,0 +1,83 @@
+{
+    "const paladinQuestion": [
+        {
+            "question": "Which appearance you like best?",
+            "answers": {
+                "a": "Human",
+                "b": "Dwarf"
+            }
+        }
+    ],
+    "const mageQuestion": [
+        {
+            "question": "Which appearance you like best?",
+            "answers": {
+                "a": "Human",
+                "b": "Gnome"
+                
+            }
+        }
+    ],
+   "const priestQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            "a": "Human",
+            "b": "Dwarf",
+            "c": "Night Elf"
+         }
+      }
+   ],
+      "const rogueQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            "a": "Human",
+            "b": "Dwarf",
+            "c": "Night Elf",
+            "d": "Gnome"
+         }
+      }
+      ],   
+     "const warlockQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            "a": "Human",
+            "b": "Dwarf",
+            "c": "Gnome"
+            
+         }
+      }
+      ],   
+      "const warriorQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            "a": "Human",
+            "b": "Night Elf",
+            "c": "Gnome"
+         }
+      }
+      ],   
+      "const hunterQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            "a": "Dwarf",
+            "b": "Night Elf"
+            
+         }
+      }
+      ],   
+      "const druidQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            
+            "a": "Night Elf"
+            
+         }
+      }
+      ]
+}
