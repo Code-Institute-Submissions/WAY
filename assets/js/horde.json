@@ -46,9 +46,10 @@
       {
          "question": "Which appearance you like best?",
          "answers": {
-            "a": "Human image",
-            "b": "Night Elf image",
-            "c": "Gnome image"
+            "a": "Orc image",
+            "b": "Troll image",
+            "c": "Tauren image",
+            "d": "Undead image"
          }
       }
       ],   
@@ -56,8 +57,9 @@
       {
          "question": "Which appearance you like best?",
          "answers": {
-            "a": "Dwarf image",
-            "b": "Night Elf image"
+            "a": "Orc image",
+            "b": "Troll image",
+            "c": "Tauren image"
             
          }
       }
@@ -67,7 +69,19 @@
          "question": "Which appearance you like best?",
          "answers": {
             
-            "a": "Night Elf image"
+            "a": "Tauren image"
+            
+         }
+      }
+      ],
+      "const shamanQuestion": [
+      {
+         "question": "Which appearance you like best?",
+         "answers": {
+            
+            "a": "Orc image",
+            "b": "Troll image",
+            "c": "Tauren image"
             
          }
       }
