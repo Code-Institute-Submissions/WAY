@@ -10,6 +10,8 @@ The **ultimate quiz** to decide for **once and for all** which faction, race, cl
 
 The **goal** for this project is to **entertain** users.
 
+While I at first intended to use all playable classes, races and roles, I soon found out that was a bit to much, so I decided to include all playable classes, races and roles up to and including the [Wrath of The Lich King expansion.](https://en.wikipedia.org/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King)
+
 ### User Goals ###
 * **Find** out which [World of Warcraft](https://worldofwarcraft.com/en-us/) faction, race, class and role you are.
 * Be **entertained**.
