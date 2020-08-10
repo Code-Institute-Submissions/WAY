@@ -26,7 +26,7 @@ While I at first intended to use all playable classes, races and roles, I soon f
 
 ### Site Owner Goals ###
 * As a **site owner** I want to educate my users.
-* As a **site owner** I want my users to be able to **contact** me.
+
 
 ### User Requirements and Expectations ###
 
