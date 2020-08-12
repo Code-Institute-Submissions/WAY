@@ -2,3 +2,11 @@
 $(document).ready(function () {
   $(".question").hide();
 });
+
+
+function startGame() {
+  /***ON CLICK Start Quiz BUTTON HIDE LANDING PAGE AND SHOW QUESTION IN QUIZ***/
+  $("#start-button").click(function () {
+    $("#landing-page").hide("slow");
+    $(".question").show("slow");
+  });
