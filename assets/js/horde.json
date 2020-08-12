@@ -1,6 +1,6 @@
 {
    
-    "const mageQuestion": [
+    "let mageQuestion": [
         {
             "question": "Which appearance you like best?",
             "answers": {
@@ -10,7 +10,7 @@
             }
         }
     ],
-   "const priestQuestion": [
+   "let priestQuestion": [
       {
          "question": "Which appearance you like best?",
          "answers": {
@@ -20,7 +20,7 @@
          }
       }
    ],
-      "const rogueQuestion": [
+      "let rogueQuestion": [
       {
          "question": "Which appearance you like best?",
          "answers": {
@@ -31,7 +31,7 @@
          }
       }
       ],   
-     "const warlockQuestion": [
+     "let warlockQuestion": [
       {
          "question": "Which appearance you like best?",
          "answers": {
@@ -42,7 +42,7 @@
          }
       }
       ],   
-      "const warriorQuestion": [
+      "let warriorQuestion": [
       {
          "question": "Which appearance you like best?",
          "answers": {
@@ -53,7 +53,7 @@
          }
       }
       ],   
-      "const hunterQuestion": [
+      "let hunterQuestion": [
       {
          "question": "Which appearance you like best?",
          "answers": {
@@ -64,7 +64,7 @@
          }
       }
       ],   
-      "const druidQuestion": [
+      "let druidQuestion": [
       {
          "question": "Which appearance you like best?",
          "answers": {
@@ -74,7 +74,7 @@
          }
       }
       ],
-      "const shamanQuestion": [
+      "let shamanQuestion": [
       {
          "question": "Which appearance you like best?",
          "answers": {

@@ -1,6 +1,6 @@
 
 {
-    "const factionQuestions": [
+    "let questions": [
         {
             "question": "Choose wisely!",
             "answers": {
@@ -9,7 +9,7 @@
             }
         }
     ],
-    "const roleQuestions": [
+    "let roleQuestions": [
         {
             "question": "What best describes you?",
             "answers": {
@@ -19,7 +19,7 @@
             }
         }
     ],
-   "const classQuestions": [
+   "let classQuestions": [
       {
          "question": "Are you an asshole?",
          "answers": {
