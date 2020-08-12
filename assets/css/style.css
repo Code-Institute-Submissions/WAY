@@ -19,32 +19,14 @@ body {
 }
 
 
-#game-container {
+#landing-page {
   display: flex;
   justify-content: center;
   align-items: center;
 
 }
 
-.section-text {
-    font-family: "Montserrat";
-    color: white;
-    font-size: 1.5rem;
-    justify-content: center;
-}
 
-.jumbotron {
-    border: 1px solid #37343d;
-    border-radius: 1rem;
-    background: rgba(0, 0, 0, 0.6);
-    justify-content: center;
-}
- #lead {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  
- }
 
 /* Footer */
 .bold-text {
