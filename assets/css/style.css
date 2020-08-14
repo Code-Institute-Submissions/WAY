@@ -2,6 +2,7 @@
 
 html {
     scroll-behavior: smooth;
+    min-height: 100vh;
     
 }
 
@@ -17,28 +18,20 @@ body {
     overflow-x: hidden;
 }
 
-#lich-king-overlay {
-    background-image: url("../images/lichking.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 45vh;
-   /* background: rgba(255,255,255,.5);*/
+.card {
+    background-color: transparent;
+    border: 1px solid #dc3545;
+}
+#question-info {
+    color:white;
 }
 
-/* Footer */
 .bold-text {
     color: white;
+    
 }
 
-#footer {
-    height: 20px;
-    margin-bottom: 1rem;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-}
+
 
 .img-fluid {
     max-width: 50vh;
