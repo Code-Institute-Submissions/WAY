@@ -1,6 +1,6 @@
 
 {
-    "let questions": [
+    "let factionQuestions": [
         {
             "question": "Choose wisely!",
             "answers": {

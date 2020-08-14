@@ -8,7 +8,7 @@ html {
 body {
     background-image: url("../images/factions.png");
     background-color: black;
-    display: flex;
+ /*   display: flex;*/
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -18,7 +18,7 @@ body {
     overflow-x: hidden;
 }
 
-
+/*
 #landing-page {
   display: flex;
   justify-content: center;
