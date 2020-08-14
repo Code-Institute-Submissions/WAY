@@ -6,7 +6,8 @@ $(document).ready(function () {
 
 function startGame() {
   /***ON CLICK Start Quiz BUTTON HIDE LANDING PAGE AND SHOW QUESTION IN QUIZ***/
-  $("#start-button").click(function () {
+  $("#start-btn").click(function () {
     $("#landing-page").hide("slow");
     $(".question").show("slow");
   });
+}
