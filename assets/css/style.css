@@ -17,6 +17,13 @@ body {
     overflow-x: hidden;
 }
 
+#lich-king-overlay {
+    background-image: url("../images/lichking.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 45vh;
+   /* background: rgba(255,255,255,.5);*/
+}
 
 /* Footer */
 .bold-text {
