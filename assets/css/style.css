@@ -37,3 +37,15 @@ body {
     max-width: 50vh;
     height: auto;
 }
+#progressBar {
+    width: 20rem;
+    height: 2rem;
+    border: 1px solid #dc3545;
+    margin-top: 1.5rem;
+}
+
+#progressBarFull {
+    height: 3.4rem;
+    background-color:#dc3545;
+    width: 0%;
+}

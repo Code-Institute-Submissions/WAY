@@ -1,5 +1,6 @@
 const question = document.getElementById('question');
 const quizProgress = document.getElementById('quizProgress');
+const progressBarFull = document.getElementById('progressBarFull');
 
 /***Check if DOM is ready for JavaScript***/
 $(document).ready(function () {
