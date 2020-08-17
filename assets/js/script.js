@@ -11,4 +11,7 @@ function startGame() {
     $(".question").show("slow");
   });
 }
+fetch("../js/shared.json")
+.then(res => res.json())
+.then(data => console.log(data))
 })})
