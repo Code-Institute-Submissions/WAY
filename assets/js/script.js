@@ -16,4 +16,13 @@ function startGame() {
 fetch("../js/shared.json")
 .then(res => res.json())
 .then(data => console.log(data))
-})})
+})
+   .then((loadedQuestions) => {
+        questions = loadedQuestions;
+        startGame();
+    })
+    .catch((err) => {
+        console.error(err);
+    });
+
+})
