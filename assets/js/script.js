@@ -9,16 +9,13 @@ $(document).ready(function () {
   });
 })
 
+async function loadJSON (url) {
+  const res = await fetch(url);
+  return await res.json();
+}
 
-fetch("../js/shared.json")
-.then(res => res.json())
-.then(data => console.log(data))
+loadJSON('shared.JSON').then(data => {
+  console.log(data[0].name);
+});
 
-   .then((loadedQuestions) => {
-        questions = loadedQuestions;
-        startGame();
-    })
-    .catch((err) => {
-        console.error(err);
-    });
 
