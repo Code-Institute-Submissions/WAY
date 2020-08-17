@@ -1,11 +1,11 @@
-const question = document.getElementById('question');
+/*const question = document.getElementById('question');
 const quizProgress = document.getElementById('quizProgress');
-const progressBarFull = document.getElementById('progressBarFull');
+const progressBarFull = document.getElementById('progressBarFull');*/
 
 $(document).ready(function () {
-    $("#landing-page").click(function() {
+    $("#start-btn").click(function() {
          $("#landing-page").hide("slow");
-    $(".question").show("slow");
+    $("#question").show("slow");
   });
 })
 
@@ -14,7 +14,7 @@ async function loadJSON (url) {
   return await res.json();
 }
 
-loadJSON('shared.JSON').then(data => {
+loadJSON('shared.json').then(data => {
   console.log(data[0].name);
 });
 
