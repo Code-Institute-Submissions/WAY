@@ -8,11 +8,10 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
-   $("#question").hide();
+   $("#question").toggle();
   $("#start-btn").click(function(){
-    $("#landing-page").hide();
-    $("#question").show();
-  });
+    $("#landing-page, #question, #answer-btn-3, #answer-btn-4").toggle();
+   });
 });
 /*
 $(document).ready(function () {
