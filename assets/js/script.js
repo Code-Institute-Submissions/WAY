@@ -1,7 +1,9 @@
 /*
 const question = document.getElementById('question');
-
-
+const answerButton4 = document.getElementById('answer-btn-4');
+const answerButton3 = document.getElementById('answer-btn-3');
+const answerButton2 = document.getElementById('answer-btn-2');
+const answerButton1 = document.getElementById('answer-btn-1');
 */
 
 $(document).ready(function () {
