@@ -3,9 +3,6 @@ const question = document.getElementById('question');
 
 
 */
-$(document).ready(function () {
-  fetchData("shared.json");
-});
 
 $(document).ready(function () {
    $("#question").toggle();
