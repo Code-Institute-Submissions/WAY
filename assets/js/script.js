@@ -7,9 +7,10 @@ const answerButton1 = document.getElementById('answer-btn-1');
 */
 
 $(document).ready(function () {
-   $("#question").toggle();
+   $("#question, #result").toggle();
   $("#start-btn").click(function(){
     $("#landing-page, #question, #answer-btn-3, #answer-btn-4").toggle();
+    
    });
 });
 /*

@@ -25,7 +25,10 @@ body {
 #question-info {
     color:white;
 }
-
+#result-info {
+    color: white;
+    
+}
 .bold-text {
     color: white;
     
