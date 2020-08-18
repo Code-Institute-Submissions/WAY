@@ -3,7 +3,6 @@
 html {
     scroll-behavior: smooth;
     min-height: 100vh;
-    
 }
 
 body {
@@ -22,6 +21,7 @@ body {
     background-color: transparent;
     border: 1px solid #dc3545;
 }
+
 #question-info {
     color:white;
 }
@@ -34,11 +34,4 @@ body {
 .img-fluid {
     max-width: 50vh;
     height: auto;
-}
-#progressBar {
-    width: 20rem;
-    height: 2rem;
-    border: 1px solid #dc3545;
-    margin-top: 1.5rem;
-    margin-left: 1.5rem;
 }

@@ -12,5 +12,4 @@ $(document).ready(function () {
     $("#landing-page").hide();
     $("#question").show();
   });
-  
 });
