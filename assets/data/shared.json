@@ -1,13 +1,15 @@
 
-[
-    {
-    "let factionQuestions": [
+
+  {
+      "quiz": [
+          {
+    "factionQuestions": [
         {
             "question1": "Choose wisely!",
             "answera": "Red",
             "answerb": "Blue"
-            }
-        
+            
+        }
     ],
     "let roleQuestions": [
         {
@@ -77,6 +79,5 @@
       
    ]
     }
-]
-
+  ]}
 

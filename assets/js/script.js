@@ -8,6 +8,8 @@ const result = document.getElementById('result');
 
 */
 
+let currentQuestion;
+
 $(document).ready(function () {
    $("#question, #result").toggle();
   $("#start-btn").click(function(){
@@ -17,22 +19,23 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
-  fetch("shared.json")
-  .then(function (response) {
-      return response.json();
-    })
-    .then(function (data) {
-        appendData(data);
-    })
-    .catch(function (err) {
-        console.log(err);
+  fetchData("shared.json");
 });
-function appendData(data) {
-    let question = document.getElementById('question');
-    for (let i = 0; i < data.length; i++) {
-        let div = document.createElement('div');
-        div.innerHTML = 'factionQuestions';
-        question.appendChild(div);
+const fetchData = async () => {
+  try {
+        const res = await fetch(`assets/data/shared.json`);
+        const gameData = await res.json();
+        setGame(gameData.game);
     }
-}
-})
+    catch (err) {
+        return console.log(err);
+    }
+};
+
+const setGame = (_quiz) => {
+
+
+  currentQuestion = currentQuestion.factionQuestions[factionQuestions];
+
+
+  };
