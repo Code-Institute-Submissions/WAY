@@ -5,6 +5,7 @@ const answerButton3 = document.getElementById('answer-btn-3');
 const answerButton2 = document.getElementById('answer-btn-2');
 const answerButton1 = document.getElementById('answer-btn-1');
 const result = document.getElementById('result');
+
 */
 
 $(document).ready(function () {
@@ -14,18 +15,24 @@ $(document).ready(function () {
     
    });
 });
-/*
+
 $(document).ready(function () {
-  fetchData("shared.json");
-});
-
-const fetchData = () => {
-  return fetch(`assets/data/shared.json`)
-    .then((res) => res.json())
-    .then(gameData => {
-      setGame(gameData.game);
+  fetch("shared.json")
+  .then(function (response) {
+      return response.json();
     })
-    .catch((err) => console.log(err));
-};
-*/
-
+    .then(function (data) {
+        appendData(data);
+    })
+    .catch(function (err) {
+        console.log(err);
+});
+function appendData(data) {
+    let question = document.getElementById('question');
+    for (let i = 0; i < data.length; i++) {
+        let div = document.createElement('div');
+        div.innerHTML = 'factionQuestions';
+        question.appendChild(div);
+    }
+}
+})
