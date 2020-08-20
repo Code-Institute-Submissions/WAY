@@ -43,3 +43,9 @@ body {
     color: #f7b10a;
     border-color: #f7b10a;
 }
+
+.btn-outline-danger:hover {
+    color:  #f7b10a;
+    border-color:  #f7b10a;
+    background-color: #ea3012;
+}
