@@ -23,18 +23,23 @@ body {
 }
 
 #question-info {
-    color:white;
+    color: #f7b10a;
 }
 #result-info {
     color: white;
     
 }
 .bold-text {
-    color: white;
+    color: #f7b10a;
     
 }
 
 .img-fluid {
     max-width: 50vh;
     height: auto;
+}
+
+.btn-outline-danger {
+    color: #f7b10a;
+    border-color: #f7b10a;
 }
