@@ -9,6 +9,7 @@ const result = document.getElementById('result');
 */
 
 let currentQuestion;
+let factionQuestions;
 
 $(document).ready(function () {
    $("#question, #result").toggle();
