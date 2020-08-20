@@ -86,6 +86,7 @@ To be more precise:
 
 * **Fantasy name generator**: Let's user generate a **character name** to go with the **outcome of the quizz**.
 * Option to **check** if that **name** is already **taken** (through an API).
+* Option to choose between the **different expansions**.
 
 ## Technologies used ##
 ---
