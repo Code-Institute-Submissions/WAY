@@ -167,6 +167,8 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 **Images used**
 **Special thanks**
 
+As. always, my mentor Simen Daehlin, for his support and Yoda, guidance.
+For her awesome MoneyPot game, that has helped me kick off the JavaScript part of this project, Neringa Bickmore.
 For his undying love and support and always being there, my love, you know who you are ;)
 
 **Site for educational purposes only!**
