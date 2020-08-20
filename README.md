@@ -57,8 +57,8 @@ For titles i've used [Open Sans](https://fonts.google.com/specimen/Open+Sans?que
 **Colors**
 Colors that are used, are based on the World of Warcraft colors.
 * For body background: Black #000000
-* For additional backgrounds: 
-* For text: 
+* For buttons:  Yellow #F7B10A, Blue #009AE4 and Red #EA3012
+* For text: Yellow #F7B10A.
 
 ![Color Scheme](/wireframes/way.png)
 
@@ -168,9 +168,11 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 **Images used**
 **Special thanks**
 
-As. always, my mentor Simen Daehlin, for his support and Yoda, guidance.
-For her awesome MoneyPot game, that has helped me kick off the JavaScript part of this project, Neringa Bickmore.
+As. always, my mentor [Simen Daehlin](https://github.com/Eventyret), for his support and Yoda, guidance.
+For her awesome MoneyPot game, that has helped me kick off the JavaScript part of this project, [Neringa Bickmore](https://github.com/neringabickmore).
 For his undying love and support and always being there, my love, you know who you are ;)
+
+* Everybody at Slack for their support, tips and humor!
 
 **Site for educational purposes only!**
 
