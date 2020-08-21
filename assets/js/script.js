@@ -5,11 +5,8 @@ const answerButton3 = document.getElementById('answer-btn-3');
 const answerButton2 = document.getElementById('answer-btn-2');
 const answerButton1 = document.getElementById('answer-btn-1');
 const result = document.getElementById('result');
+const shared = fetchShared();
 
-
-
-let currentQuestion;
-let factionQuestions;
 
 $(document).ready(function () {
    $("#question, #result").toggle();
@@ -30,7 +27,7 @@ $(document).ready(function () {
     });
 };
 
-const shared = fetchShared();
+
 shared.then((data) => {
     // Pull questions from shared json file in div's //
 });
