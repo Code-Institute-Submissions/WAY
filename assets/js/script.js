@@ -19,6 +19,28 @@ $(document).ready(function () {
    });
 });
 
+/* Fetch for shared questions at start game */
+
+$(document).ready(function () {
+  const fetchShared = () => {
+  return fetch(`assets/data/shared.json`)
+    .then((res) => res.json())
+    .catch(() => {
+      return 'Huston we have a problem 🚀';
+    });
+};
+
+const shared = fetchShared();
+shared.then((data) => {
+    // Pull questions from shared json file in div's //
+});
+
+
+
+
+
+
+/* Fetch for when a side is choosen
 $(document).ready(function () {
   const fetchSide = (side) => {
   return fetch(`assets/data/${side}.json`)
@@ -35,4 +57,6 @@ allianceJSON.then((data) => {
 hordeJSON.then((data) => {
   // do stuff
 });
+})
+*/
 })
