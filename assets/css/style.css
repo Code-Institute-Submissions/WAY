@@ -1,5 +1,7 @@
+/* Google font import link */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:ital,wght@0,400;0,700;1,600&display=swap');
 
+/* General body styling */
 html {
     scroll-behavior: smooth;
     min-height: 100vh;
@@ -17,21 +19,8 @@ body {
     overflow-x: hidden;
 }
 
-.card {
-    background-color: transparent;
-    border: 1px solid #dc3545;
-}
-
-#question-info {
-    color: #f7b10a;
-}
-#result-info {
-    color: white;
-    
-}
 .bold-text {
     color: #f7b10a;
-    
 }
 
 .img-fluid {
@@ -44,3 +33,17 @@ body {
     color: #f7b10a;
     border-color: #f7b10a;
 }
+
+.card {
+    background-color: transparent;
+    border: 1px solid #dc3545;
+}
+
+#question-info {
+    color: #f7b10a;
+}
+
+#result-info {
+    color: white;  
+}
+
