@@ -79,7 +79,6 @@ To be more precise:
 **Features** that have been **implemented:**
 
 * Easy to use **navigation** on all screensizes.
-* Contact **form**.
 * Social Media **share buttons**.
 
 **Features** that will be **implemented** in the **future:**
