@@ -20,23 +20,19 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
-  fetchData("shared.json");
-});
-const fetchData = async () => {
-  try {
-        const res = await fetch(`assets/data/shared.json`);
-        const gameData = await res.json();
-        setGame(gameData.game);
-    }
-    catch (err) {
-        return console.log(err);
-    }
+  const fetchSide = (side) => {
+  return fetch(`assets/data/${side}.json`)
+    .then((res) => res.json())
+    .catch(() => {
+      return 'Huston we have a problem 🚀';
+    });
 };
-
-const setGame = (_quiz) => {
-
-
-  currentQuestion = currentQuestion.factionQuestions[factionQuestions];
-
-
-  };
+const hordeJSON = fetchSide('horde');
+const allianceJSON = fetchSide('alliance');
+allianceJSON.then((data) => {
+  // do stuff
+});
+hordeJSON.then((data) => {
+  // do stuff
+});
+})
