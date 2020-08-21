@@ -1,89 +1,66 @@
-{
+[
+       
+    
+  
+      {
+         "priestQuestion": "Which appearance you like best?",
+         
+            "answer-btn-1": "Troll image",
+            "answer-btn-2": "Undead image"
+            
+         
+      },
    
-    "let mageQuestion": [
-        {
-            "question": "Which appearance you like best?",
-            "answers": {
-                "a": "Troll image",
-                "b": "Undead image"
-                
-            }
-        }
-    ],
-   "let priestQuestion": [
+     
       {
-         "question": "Which appearance you like best?",
-         "answers": {
-            "a": "Troll image",
-            "b": "Undead image"
+         "rogueQuestion": "Which appearance you like best?",
+         
+            "answer-btn-1": "Orc image",
+            "answer-btn-2": "Troll image",
+            "answer-btn-3": "Undead image"
+            
+         
+      },
+      
+    
+      {
+         "warlockQuestion": "Which appearance you like best?",
+         
+            "answer-btn-1": "Orc image",
+            "answer-btn-2": "Undead image"
+            
+            
+         
+      },
+      
+      
+      {
+         "warriorQuestion": "Which appearance you like best?",
+        
+            "answer-btn-1": "Orc image",
+            "answer-btn-2": "Troll image",
+            "answer-btn-3": "Tauren image",
+            "answer-btn-4": "Undead image"
+         
+      },
+       
+     
+      {
+        "hunterQuestion": "Which appearance you like best?",
+        "answer-btn-1": "Orc image",
+        "answer-btn-2": "Troll image",
+        "answer-bnt-3": "Tauren image"
+      },
+      
+     
+      
+     
+      {
+        "shamanQuestion": "Which appearance you like best?",
+        "answer-btn-1": "Orc image",
+        "answer-btn-2": "Troll image",
+        "answer-bnt-3": "Tauren image"
             
          }
-      }
-   ],
-      "let rogueQuestion": [
-      {
-         "question": "Which appearance you like best?",
-         "answers": {
-            "a": "Orc image",
-            "b": "Troll image",
-            "c": "Undead image"
-            
-         }
-      }
-      ],   
-     "let warlockQuestion": [
-      {
-         "question": "Which appearance you like best?",
-         "answers": {
-            "a": "Orc image",
-            "b": "Undead image"
-            
-            
-         }
-      }
-      ],   
-      "let warriorQuestion": [
-      {
-         "question": "Which appearance you like best?",
-         "answers": {
-            "a": "Orc image",
-            "b": "Troll image",
-            "c": "Tauren image",
-            "d": "Undead image"
-         }
-      }
-      ],   
-      "let hunterQuestion": [
-      {
-         "question": "Which appearance you like best?",
-         "answers": {
-            "a": "Orc image",
-            "b": "Troll image",
-            "c": "Tauren image"
-            
-         }
-      }
-      ],   
-      "let druidQuestion": [
-      {
-         "question": "Which appearance you like best?",
-         "answers": {
-            
-            "a": "Tauren image"
-            
-         }
-      }
-      ],
-      "let shamanQuestion": [
-      {
-         "question": "Which appearance you like best?",
-         "answers": {
-            
-            "a": "Orc image",
-            "b": "Troll image",
-            "c": "Tauren image"
-            
-         }
-      }
-      ]
-}
+     ]
+      
