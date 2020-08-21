@@ -1,7 +1,7 @@
 
  [         {
         
-            "factionQuestion1": "Choose wisely!",
+            "factionQuestion": "Choose wisely!",
             "answer-btn-1": "Red",
             "answer-btn-2": "Blue"
           },
