@@ -1,83 +1,65 @@
-{
-    "let paladinQuestion": [
+[
         {
-            "question": "Which appearance you like best?",
-            "answers": {
-                "a": "Human image",
-                "b": "Dwarf image"
-            }
-        }
-    ],
-    "let mageQuestion": [
+            "paladinQuestion": "Which appearance you like best?",
+            
+                "answer-btn-1": "Human image",
+                "answer-btn-2": "Dwarf image"
+            
+        },
+  
         {
-            "question": "Which appearance you like best?",
-            "answers": {
-                "a": "Human image",
-                "b": "Gnome image"
+            "mageQuestion": "Which appearance you like best?",
+            
+                "answer-btn-1": "Human image",
+                "answer-btn-2": "Gnome image"
                 
-            }
-        }
-    ],
-   "let priestQuestion": [
-      {
-         "question": "Which appearance you like best?",
-         "answers": {
-            "a": "Human image",
-            "b": "Dwarf image",
-            "c": "Night Elf image"
-         }
-      }
-   ],
-      "let rogueQuestion": [
-      {
-         "question": "Which appearance you like best?",
-         "answers": {
-            "a": "Human image",
-            "b": "Dwarf image",
-            "c": "Night Elf image",
-            "d": "Gnome image"
-         }
-      }
-      ],   
-     "let warlockQuestion": [
-      {
-         "question": "Which appearance you like best?",
-         "answers": {
-            "a": "Human image",
-            "b": "Dwarf image",
-            "c": "Gnome image"
             
-         }
-      }
-      ],   
-      "let warriorQuestion": [
+        },
+   
       {
-         "question": "Which appearance you like best?",
-         "answers": {
-            "a": "Human image",
-            "b": "Night Elf image",
-            "c": "Gnome image"
-         }
-      }
-      ],   
-      "let hunterQuestion": [
+         "priestQuestion": "Which appearance you like best?",
+         
+            "answer-btn-1": "Human image",
+            "answer-btn-2": "Dwarf image",
+            "answer-btn-3": "Night Elf image"
+         
+      },
+  
       {
-         "question": "Which appearance you like best?",
-         "answers": {
-            "a": "Dwarf image",
-            "b": "Night Elf image"
-            
-         }
-      }
-      ],   
-      "let druidQuestion": [
+         "rogueQuestion": "Which appearance you like best?",
+         
+            "answer-btn-1": "Human image",
+            "answer-btn-2": "Dwarf image",
+            "answer-btn-3": "Night Elf image",
+            "answer-btn-4": "Gnome image"
+         
+      },
+     
       {
-         "question": "Which appearance you like best?",
-         "answers": {
+         "warlockQuestion": "Which appearance you like best?",
+         
+            "answer-btn-1": "Human image",
+            "answer-btn-2": "Dwarf image",
+            "answer-btn-3": "Gnome image"
             
-            "a": "Night Elf image"
+         
+      },
+   
+      {
+         "warriorQuestion": "Which appearance you like best?",
+         
+            "answer-btn-1": "Human image",
+            "answer-btn-2": "Night Elf image",
+            "answer-btn-3": "Gnome image"
+         
+      },
+     
+      {
+         "hunterQuestion": "Which appearance you like best?",
+         
+            "answer-btn-1": "Dwarf image",
+            "answer-btn-2": "Night Elf image"
             
-         }
+         
       }
-      ]
-}
+          ]
