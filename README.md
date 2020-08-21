@@ -86,7 +86,7 @@ To be more precise:
 
 * **Fantasy name generator**: Let's user generate a **character name** to go with the **outcome of the quizz**.
 * Option to **check** if that **name** is already **taken** (through an API).
-* Option to choose between the **different expansions**.
+* Option to choose between the **different expansions**. With **every new expansion**, **more classes and races** were added. For future features, I would like to **include** them as well.
 
 ## Technologies used ##
 ---
