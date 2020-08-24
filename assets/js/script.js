@@ -5,7 +5,7 @@ const answerButton3 = document.getElementById('answer-btn-3');
 const answerButton2 = document.getElementById('answer-btn-2');
 const answerButton1 = document.getElementById('answer-btn-1');
 const result = document.getElementById('result');
-const shared = fetchShared();
+
 
 
 $(document).ready(function () {
@@ -16,25 +16,27 @@ $(document).ready(function () {
    });
 });
 
-/* Fetch for shared questions at start game */
+ /*Fetch for shared questions at start game */
 
-$(document).ready(function () {
+
   const fetchShared = () => {
   return fetch(`assets/data/shared.json`)
     .then((res) => res.json())
+   
     .catch(() => {
       return 'Huston we have a problem 🚀';
     });
 };
+// Pull questions from shared json file in div's //
+/*const setGame = (game) => {
+    $("factionQuestion").appendTo( $("question-info"));
+    $("answer-btn-1").appendTo( $("answer-btn-1"));
+    $("answer-btn-2").appendTo( $("answer-btn-2"));
+   
 
-
-shared.then((data) => {
-    // Pull questions from shared json file in div's //
-});
-
-
-
-
+}
+*/
+console.log(fetchShared);
 
 
 /* Fetch for when a side is choosen
@@ -56,4 +58,3 @@ hordeJSON.then((data) => {
 });
 })
 */
-})
