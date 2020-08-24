@@ -1,9 +1,5 @@
 
 const question = document.getElementById('question');
-const answerButton4 = document.getElementById('answer-btn-4');
-const answerButton3 = document.getElementById('answer-btn-3');
-const answerButton2 = document.getElementById('answer-btn-2');
-const answerButton1 = document.getElementById('answer-btn-1');
 const result = document.getElementById('result');
 
 
@@ -18,15 +14,24 @@ $(document).ready(function () {
 
  /*Fetch for shared questions at start game */
 
+$(document).ready(function () {
+  fetchData("shared.json");
+});
 
-  const fetchShared = () => {
+  const fetchData = () => {
   return fetch(`assets/data/shared.json`)
     .then((res) => res.json())
+    .then(data => console.log(data))
    
     .catch(() => {
-      return 'Huston we have a problem 🚀';
+      return 'There was a problem loading this data';
+      
     });
-};
+    
+  };
+
+
+
 // Pull questions from shared json file in div's //
 /*const setGame = (game) => {
     $("factionQuestion").appendTo( $("question-info"));
@@ -36,8 +41,6 @@ $(document).ready(function () {
 
 }
 */
-console.log(fetchShared);
-
 
 /* Fetch for when a side is choosen
 $(document).ready(function () {
