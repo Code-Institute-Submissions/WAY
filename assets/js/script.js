@@ -21,26 +21,34 @@ $(document).ready(function () {
   const fetchData = () => {
   return fetch(`assets/data/shared.json`)
     .then((res) => res.json())
-    .then(data => console.log(data))
-   
+    .then(gameData => {
+      setGame(gameData.game);
+    })
     .catch(() => {
       return 'There was a problem loading this data';
-      
-    });
-    
+    }); 
   };
 
-
-
 // Pull questions from shared json file in div's //
-/*const setGame = (game) => {
+const setGame = () => {
+    const output[];
+     // for each question...
+    myQuestions.forEach(
+      (currentQuestion, questionNumber) => {
+
+        // variable to store the list of possible answers
+        const answers = [];
+
+        // and for each available answer...
+        for(letter in currentQuestion.answers){
+            
     $("factionQuestion").appendTo( $("question-info"));
     $("answer-btn-1").appendTo( $("answer-btn-1"));
     $("answer-btn-2").appendTo( $("answer-btn-2"));
    
 
 }
-*/
+
 
 /* Fetch for when a side is choosen
 $(document).ready(function () {
