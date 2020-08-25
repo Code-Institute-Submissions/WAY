@@ -1,7 +1,7 @@
 
-const question = document.getElementById('question');
+const questions = document.getElementById('question');
+const answerButtons = document.getElementById('answer-btns')
 const result = document.getElementById('result');
-
 
 
 $(document).ready(function () {
@@ -30,25 +30,23 @@ $(document).ready(function () {
   };
 
 // Pull questions from shared json file in div's //
-const setGame = () => {
-    const output[];
-     // for each question...
-    myQuestions.forEach(
-      (currentQuestion, questionNumber) => {
 
-        // variable to store the list of possible answers
-        const answers = [];
+let state {}
 
-        // and for each available answer...
-        for(letter in currentQuestion.answers){
-            
-    $("factionQuestion").appendTo( $("question-info"));
-    $("answer-btn-1").appendTo( $("answer-btn-1"));
-    $("answer-btn-2").appendTo( $("answer-btn-2"));
-   
+function setGame {
+    state {}
+    buildGame(1)
 
 }
-
+function buildGame (showQuestion) {
+    const game =
+    game.find(game => game.id === showquestion)
+    questions.innerText = game.question
+    while
+    (answerButtons.firstChild) {
+        answerButtons.removeChild(answers.answerButtons.firstChild)
+    }
+}
 
 /* Fetch for when a side is choosen
 $(document).ready(function () {
