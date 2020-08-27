@@ -1,75 +1,160 @@
-
- [         {
-        
-            "factionQuestion": "Choose wisely!",
-            "answer-btn-1": "Red",
-            "answer-btn-2": "Blue"
-          },
-        
-    
-    
-        {
-            "roleQuestion1": "What best describes you?",
-            "answer-btn-1": "An angel of mercy, flying through the instance, carrying the noobs",
-            "answer-btn-2": "A legendary being who strikes all who oppose him",
-            "answer-btn-3": "A plate or leather wearing demi-god that stops the simple mortals from dying"
+[
+    {
+        "id": 1,
+        "question": "Choose wisely!",
+        "answers": [
+            {
+                "text": "Red",
+                "nextQuestion": 2
             },
-        
-    
-   
-      {
-            "classQuestion1": "Are you an asshole?",
-            "answer-btn-1": "Yes",
-            "answer-btn-2": "No"
-         },
-         
-      
-      {
-            "classQuestion2": "Are your pants currently on your head?",
-            "answer-btn-1": "Yes",
-            "answer-btn-2": "No"
-         },
-      
-      {
-            "classQuestion3": "Is your hard on for Thrall as big as Metzen’s?",
-            "answer-btn-1": "Yes",
-            "answer-btn-2": "No"
-         },
-        
-            
-      {
-            "classQuestion4": "Do you have an unhealthy obsession for cats?",
-            "answer-btn-1": "Yes",
-            "answer-btn-2": "No"
-         },
-        
-      {
-            "classQuestion5": "Do you REALLY like shiny gold sparkles?",
-            "answer-btn-1": "Yes",
-            "answer-btn-2": "No"
-         },
-         
-      {
-            "classQuestion6": "Are you overcompensating for something?",
-            "answer-btn-1": "Yes",
-            "answer-btn-2": "No"
-         },
-        
-       {
-            "classQuestion7": "Do you have a hero complex?",
-            "answer-btn-1": "Yes",
-            "answer-btn-2": "No"
-         },
-       
-       {
-            "classQuestion8": "Do you enjoy lightening things on fire when you are drunk?",
-            "answer-btn-1": "Yes",
-            "answer-btn-2": "No"
-         },
-      
-       {
-            "classQuestion9": "Is summoning a girl or boyfriend the only way you would get one?",
-            "answer-btn-1": "Yes",
-            "answer-btn-2": "No"
-         }
- ]
+            {
+                "text": "Blue",
+                "nextQuestion": 2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What best describes you?",
+        "answers": [
+            {
+                "text": "An angel of mercy, flying through the instance, carrying the noobs",
+                "nextQuestion": 3
+            },
+            {
+                "text": "A legendary being who strikes all who oppose him",
+                "nextQuestion": 3
+            },
+            {
+                "text": "A plate or leather wearing demi-god that stops the simple mortals from dying",
+                "nextText": 3
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Are you an asshole?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": null
+            },
+            {
+                "text": "No",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Are your pants currently on your head?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": null
+            },
+            {
+                "text": "No",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Is your hard on for Thrall as big as Metzen's?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": null
+            },
+            {
+                "text": "No",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Do you have an unhealthy obsession for cats?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": null
+            },
+            {
+                "text": "No",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Do you REALLY like shiny gold sparkles?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": null
+            },
+            {
+                "text": "No",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Are you overcompensating for something?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": null
+            },
+            {
+                "text": "No",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Do you have a hero complex?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": null
+            },
+            {
+                "text": "No",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question": "Do you enjoy lightening things on fire when you are drunk?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": null
+            },
+            {
+                "text": "No",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question": "Is summoning a girl or boyfriend the only way you would get one?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": null
+            },
+            {
+                "text": "No",
+                "nextQuestion": null
+            }
+        ]
+    }
+]

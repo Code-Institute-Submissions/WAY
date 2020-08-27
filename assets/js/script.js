@@ -26,7 +26,7 @@ $(document).ready(function () {
     })
     .catch(() => {
       return 'There was a problem loading this data';
-    }); 
+    })
   };
 
 // Pull questions from shared json file in div's //
