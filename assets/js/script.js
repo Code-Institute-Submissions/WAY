@@ -20,8 +20,7 @@ $(document).ready(function () {
   return fetch(`assets/data/${filename}`)
     .then((res) => res.json())
     .then(gameData => {
-      buildGame(gameData, start.question);
-      nextQuestion.forEach(start.question.length++)
+      buildGame(gameData, nextQuestion)
       
     })
     .catch(() => {
@@ -51,7 +50,14 @@ function buildGame (quiz, questionNumber) {
     });
    console.log(start.question);
 }
-
+function nextQuestion (currentQuestion) {
+    const nextId = 1;
+    for (var i = 0; i <start.length; i++) {
+        if (start[i] === start.question)
+        nextId = 2
+    }
+    nextQuestion()
+}
 /* Fetch for when a side is choosen
 $(document).ready(function () {
   const fetchSide = (side) => {
