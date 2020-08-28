@@ -20,7 +20,8 @@ $(document).ready(function () {
   return fetch(`assets/data/${filename}`)
     .then((res) => res.json())
     .then(gameData => {
-      buildGame(gameData, 2);
+      buildGame(gameData, 1);
+      
     })
     .catch(() => {
       return 'There was a problem loading this data';
@@ -29,12 +30,18 @@ $(document).ready(function () {
 
 // Pull questions from shared json file in div's //
 
-//ToDo; dynamically change question number at top let gameFile in fetch set gamefile = gamedata buildgame, global vat data and next question
+//ToDo; dynamically change question number at top let gameFile in fetch set gamefile = gamedata buildgame, global var data and next question
+//for id 1, change css color for next question depending on choice (red of blue)
+//store outcome in variable
+//for id 2, store outcome in variabel depending on choice (healer, dps, tank)
+//for id 3-11, if yes, store in variabel and go to alli or horde, depending on choice made in id1 and id2
+//if nom continue to next question
 
 function buildGame (quiz, questionNumber) {
    const start = quiz.find(game => game.id === questionNumber)
-    //Insert question into div and answers into buttons
-    //hide answer buttons that arent being used
+          let i;
+    for (i = 0; i < start.question.length;i++);
+    
     //button needs to go to right next question
     //if it comes to end of shared, insert into a result file for later use
     questionRef.innerHTML = start.question
