@@ -20,7 +20,8 @@ $(document).ready(function () {
   return fetch(`assets/data/${filename}`)
     .then((res) => res.json())
     .then(gameData => {
-      buildGame(gameData, 1);
+      buildGame(gameData, start.question);
+      nextQuestion.forEach(start.question.length++)
       
     })
     .catch(() => {
@@ -39,9 +40,8 @@ $(document).ready(function () {
 
 function buildGame (quiz, questionNumber) {
    const start = quiz.find(game => game.id === questionNumber)
-          let i;
-    for (i = 0; i < start.question.length;i++);
     
+
     questionRef.innerHTML = start.question
     //loop through anwers array
     //append text to answer buttons
