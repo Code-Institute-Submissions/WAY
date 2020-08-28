@@ -1,3 +1,4 @@
+
 [
     {
         "id": 1,
@@ -27,7 +28,7 @@
             },
             {
                 "text": "A plate or leather wearing demi-god that stops the simple mortals from dying",
-                "nextText": 3
+                "nextQuestion": 3
             }
         ]
     },

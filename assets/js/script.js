@@ -1,7 +1,7 @@
 
-const questions = document.getElementById('question');
-const answerButtons = document.getElementById('answer-btns')
-const result = document.getElementById('result');
+const questionRef = document.querySelector('#question-info');
+const answerButtonRef = document.querySelector('#answer-btns');
+
 
 
 $(document).ready(function () {
@@ -10,19 +10,17 @@ $(document).ready(function () {
     $("#landing-page, #question, #answer-btn-3, #answer-btn-4").toggle();
     
    });
+    fetchData("shared.json");
 });
 
  /*Fetch for shared questions at start game */
 
-$(document).ready(function () {
-  fetchData("shared.json");
-});
 
-  const fetchData = () => {
-  return fetch(`assets/data/shared.json`)
+  function fetchData(filename) {
+  return fetch(`assets/data/${filename}`)
     .then((res) => res.json())
     .then(gameData => {
-      setGame(gameData.game);
+      buildGame(gameData, 2);
     })
     .catch(() => {
       return 'There was a problem loading this data';
@@ -31,21 +29,22 @@ $(document).ready(function () {
 
 // Pull questions from shared json file in div's //
 
-let state {}
+//ToDo; dynamically change question number at top let gameFile in fetch set gamefile = gamedata buildgame, global vat data and next question
 
-function setGame {
-    state {}
-    buildGame(1)
-
-}
-function buildGame (showQuestion) {
-    const game =
-    game.find(game => game.id === showquestion)
-    questions.innerText = game.question
-    while
-    (answerButtons.firstChild) {
-        answerButtons.removeChild(answers.answerButtons.firstChild)
-    }
+function buildGame (quiz, questionNumber) {
+   const start = quiz.find(game => game.id === questionNumber)
+    //Insert question into div and answers into buttons
+    //hide answer buttons that arent being used
+    //button needs to go to right next question
+    //if it comes to end of shared, insert into a result file for later use
+    questionRef.innerHTML = start.question
+    //loop through anwers array
+    //append text to answer buttons
+    start.answers.forEach(answer => {
+        $(`<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`).appendTo(answerButtonRef)
+    console.log(answer)
+    });
+   console.log(start.question);
 }
 
 /* Fetch for when a side is choosen
