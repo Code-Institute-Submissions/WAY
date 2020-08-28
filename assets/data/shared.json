@@ -42,7 +42,7 @@
             },
             {
                 "text": "No",
-                "nextQuestion": null
+                "nextQuestion": 4
             }
         ]
     },
@@ -56,7 +56,7 @@
             },
             {
                 "text": "No",
-                "nextQuestion": null
+                "nextQuestion": 5
             }
         ]
     },
@@ -70,7 +70,7 @@
             },
             {
                 "text": "No",
-                "nextQuestion": null
+                "nextQuestion": 6
             }
         ]
     },
@@ -84,7 +84,7 @@
             },
             {
                 "text": "No",
-                "nextQuestion": null
+                "nextQuestion": 7
             }
         ]
     },
@@ -98,7 +98,7 @@
             },
             {
                 "text": "No",
-                "nextQuestion": null
+                "nextQuestion": 8
             }
         ]
     },
@@ -112,7 +112,7 @@
             },
             {
                 "text": "No",
-                "nextQuestion": null
+                "nextQuestion": 9
             }
         ]
     },
@@ -126,7 +126,7 @@
             },
             {
                 "text": "No",
-                "nextQuestion": null
+                "nextQuestion": 10
             }
         ]
     },
@@ -140,7 +140,7 @@
             },
             {
                 "text": "No",
-                "nextQuestion": null
+                "nextQuestion": 11
             }
         ]
     },
