@@ -51,13 +51,13 @@ function buildGame (quiz, questionNumber) {
    console.log(start.question);
 }
 function nextQuestion () {
-    const nextId = 1;
-    for (var i = 0; i <start.length; i++) {
-        if (start[i] === start.question)
-        nextId = 2
+    const nextQuestionId = answers.nextQuestion
+    if (nextQuestionId <= 0) {
+        return(nextQuestion)
+    }
     }
     nextQuestion()
-}
+
 /* Fetch for when a side is choosen
 $(document).ready(function () {
   const fetchSide = (side) => {
