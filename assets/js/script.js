@@ -50,7 +50,7 @@ function buildGame (quiz, questionNumber) {
     });
    console.log(start.question);
 }
-function nextQuestion (currentQuestion) {
+function nextQuestion () {
     const nextId = 1;
     for (var i = 0; i <start.length; i++) {
         if (start[i] === start.question)
