@@ -10,7 +10,7 @@
             },
             {
                 "text": "Blue",
-                "nextQuestion": 2
+                "nextQuestion": 3
             }
         ]
     },
@@ -19,24 +19,45 @@
         "question": "What best describes you?",
         "answers": [
             {
-                "text": "An angel of mercy, flying through the instance, carrying the noobs",
-                "nextQuestionHorde": 3,
-                "nextQuestionAlliance": 28
+                "text": "Someone that heals others and removes harmful diseases and poisons",
+                "nextQuestionHorde": 4
+                
             },
             {
-                "text": "A legendary being who strikes all who oppose him",
-                "nextQuestionHorde": 8,
-                "nextQuestionAlliance": 33 
+                "text": "I like to do as much damage as I possible can",
+                "nextQuestionHorde": 9
+                
             },
             {
-                "text": "A plate or leather wearing demi-god that stops the simple mortals from dying",
-                "nextQuestionHorde": 25,
-                "nextQuestionAlliance": 33
+                "text": "I protect others from damage with my face or shield",
+                "nextQuestionHorde": 26
+                
             }
         ]
     },
     {
         "id": 3,
+        "question": "What best describes you?",
+        "answers": [
+            {
+                "text": "An angel of mercy, flying through the instance, carrying the noobs",
+                
+                "nextQuestionAlliance": 29
+            },
+            {
+                "text": "A legendary being who strikes all who oppose him",
+                
+                "nextQuestionAlliance": 34 
+            },
+            {
+                "text": "A plate or leather wearing demi-god that stops the simple mortals from dying",
+                
+                "nextQuestionAlliance": 49
+            }
+        ]
+    },
+    {
+        "id": 4,
         "question": "Do you have an unhealthy obsession for cats?",
         "answers": [
             {
@@ -45,26 +66,26 @@
             },
             {
                 "text": "No",
-                "nextQuestion": 4
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "question": "Do you like shiny gold sparkles?",
-        "answers": [
-            {
-                "text": "Yes",
                 "nextQuestion": 5
-            },
-            {
-                "text": "No",
-                "nextQuestion": 6
             }
         ]
     },
     {
         "id": 5,
+        "question": "Do you like shiny gold sparkles?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": 6
+            },
+            {
+                "text": "No",
+                "nextQuestion": 7
+            }
+        ]
+    },
+    {
+        "id": 6,
         "question": "Which appearance you like best?",
         "answers": [
             {
@@ -78,53 +99,21 @@
         ]
     },
     {
-        "id": 6,
+        "id": 7,
         "question": "Is your hard on for Thrall as big as Metzen's?",
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 7
+                "nextQuestion": 8
             },
             {
                 "text": "No",
-                "nextQuestion": 8
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "question": "Which appearance you like best?",
-        "answers": [
-            {
-                "text": "Orcs",
-                "nextQuestion": null
-            },
-            {
-                "text": "Tauren",
-                "nextQuestion": null
-            },
-            {
-                "text": "Troll",
-                "nextQuestion": null
+                "nextQuestion": 9
             }
         ]
     },
     {
         "id": 8,
-        "question": "Are your pants currently on your head?",
-        "answers": [
-            {
-                "text": "Yes",
-                "nextQuestion": 9
-            },
-            {
-                "text": "No",
-                "nextQuestion": 10
-            }
-        ]
-    },
-    {
-        "id": 9,
         "question": "Which appearance you like best?",
         "answers": [
             {
@@ -142,12 +131,12 @@
         ]
     },
     {
-        "id": 10,
-        "question": "Do you have an unhealthy obsession for cats?",
+        "id": 9,
+        "question": "Are your pants currently on your head?",
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": null
+                "nextQuestion": 10
             },
             {
                 "text": "No",
@@ -156,21 +145,53 @@
         ]
     },
     {
+        "id": 10,
+        "question": "Which appearance you like best?",
+        "answers": [
+            {
+                "text": "Orcs",
+                "nextQuestion": null
+            },
+            {
+                "text": "Tauren",
+                "nextQuestion": null
+            },
+            {
+                "text": "Troll",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
         "id": 11,
-        "question": "Are you an asshole?",
+        "question": "Do you have an unhealthy obsession for cats?",
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 12
+                "nextQuestion": null
             },
             {
                 "text": "No",
-                "nextQuestion": 13
+                "nextQuestion": 12
             }
         ]
     },
     {
         "id": 12,
+        "question": "Are you an asshole?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": 13
+            },
+            {
+                "text": "No",
+                "nextQuestion": 14
+            }
+        ]
+    },
+    {
+        "id": 13,
         "question": "Which appearance you like best?",
         "answers": [
             {
@@ -188,21 +209,21 @@
         ]
     },
     {   
-        "id": 13,
+        "id": 14,
         "question": "Do you enjoy lightening things on fire when you are drunk?",
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 14
+                "nextQuestion": 15
             },
             {
                 "text": "No",
-                "nextQuestion": 15
+                "nextQuestion": 16
             }
         ]
     },
     {
-        "id": 14,
+        "id": 15,
         "question":"Which appearance you like best?",
         "answers": [
             {
@@ -217,21 +238,21 @@
     },
     {
 
-        "id": 15,
+        "id": 16,
         "question": "Do you have a hero complex?",
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 16
+                "nextQuestion": 17
             },
             {
                 "text": "No",
-                "nextQuestion": 17
+                "nextQuestion": 18
             }
         ]
     },
     {
-        "id": 16,
+        "id": 17,
         "question":"Which appearance you like best?",
         "answers": [
             {
@@ -245,21 +266,21 @@
         ]
     },
     {
-        "id": 17,
+        "id": 18,
         "question": "Are you an asshole?",
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 18
+                "nextQuestion": 19
             },
             {
                 "text": "No",
-                "nextQuestion": 19
+                "nextQuestion": 20
             }
         ]
     },
     {
-        "id": 18,
+        "id": 19,
         "question":"Which appearance you like best?",
         "answers": [
             {
@@ -277,21 +298,21 @@
         ]
     },
     {
-        "id": 19,
+        "id": 20,
         "question": "Is your hard on for Thrall as big as Metzen’s?",
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 20
+                "nextQuestion": 21
             },
             {
                 "text": "No",
-                "nextQuestion": 21
+                "nextQuestion": 22
             }
         ]
     },
     {
-        "id": 20,
+        "id": 21,
         "question":"Which appearance you like best?",
         "answers": [
             {
@@ -309,21 +330,21 @@
         ]
     },
     {
-        "id": 21,
+        "id": 22,
         "question": "Is summoning a girl or boyfriend the only way you would get one?",
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 22
+                "nextQuestion": 23
             },
             {
                 "text": "No",
-                "nextQuestion": 23
+                "nextQuestion": 24
             }
         ]
     },
     {
-        "id": 22,
+        "id": 23,
         "question":"Which appearance you like best?",
         "answers": [
             {
@@ -332,26 +353,26 @@
             },
             {
                 "text": "Undead",
-                "nextQuestion": null
-            }
-        ]
-    },
-    {
-        "id": 23,
-        "question": "Are you overcompensating for something?",
-        "answers": [
-            {
-                "text": "Yes",
-                "nextQuestion": 24
-            },
-            {
-                "text": "No",
                 "nextQuestion": null
             }
         ]
     },
     {
         "id": 24,
+        "question": "Are you overcompensating for something?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": 25
+            },
+            {
+                "text": "No",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 25,
         "question":"Which appearance you like best?",
         "answers": [
             {
@@ -373,7 +394,7 @@
         ]
     },
     {
-        "id": 25,
+        "id": 26,
         "question": "Do you have an unhealthy obsession for cats?",
         "answers": [
             {
@@ -382,17 +403,17 @@
             },
             {
                 "text": "No",
-                "nextQuestion": 26
+                "nextQuestion": 27
             }
         ]
     },
     {
-        "id": 26,
+        "id": 27,
         "question": "Are you overcompensating for something?",
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 27
+                "nextQuestion": 28
             },
             {
                 "text": "No",
@@ -401,7 +422,7 @@
         ]
     },
     {
-        "id": 27,
+        "id": 28,
         "question":"Which appearance you like best?",
         "answers": [
             {
@@ -423,7 +444,7 @@
         ]
     }, 
     {
-        "id": 28,
+        "id": 29,
         "question": "Do you have an unhealthy obsession for cats?",
         "answers": [
             {
@@ -432,26 +453,26 @@
             },
             {
                 "text": "No",
-                "nextQuestion": 29
-            }
-        ]
-    },
-    {
-        "id": 29,
-        "question": "Do you have a hero complex?",
-        "answers": [
-            {
-                "text": "Yes",
                 "nextQuestion": 30
-            },
-            {
-                "text": "No",
-                "nextQuestion": 31
             }
         ]
     },
     {
         "id": 30,
+        "question": "Do you have a hero complex?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": 31
+            },
+            {
+                "text": "No",
+                "nextQuestion": 32
+            }
+        ]
+    },
+    {
+        "id": 31,
         "question": "Which appearance you like best?",
         "answers": [
             {
@@ -465,12 +486,12 @@
         ]
     },
     {
-        "id": 31,
+        "id": 32,
         "question": "Do you like shiny gold sparkles?",
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 32
+                "nextQuestion": 33
             },
             {
                 "text": "No",
@@ -479,7 +500,7 @@
         ]
     },
     {
-        "id": 32,
+        "id": 33,
         "question": "Which appearance you like best?",
         "answers": [
             {
@@ -497,7 +518,7 @@
         ]
     },
     {
-        "id": 33,
+        "id": 34,
         "question":"Do you have an unhealthy obsession for cats?",
         "answers": [
             {   
@@ -506,25 +527,300 @@
             },
             {
                 "text": "No",
-                "nextQuestion": 34
+                "nextQuestion": 35
             }
         ]
     },
     {
-        "id": 34,
+        "id": 35,
         "question": "Are your pants currently on your head?",
         "answers": [
             { 
                 "text": "Yes",
-                "nextQuestion": 35
+                "nextQuestion": 36
             },
             {
                 "text": "No",
-                "nextQuestion": 36
+                "nextQuestion": 37
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "question": "Which appearance you like best?",
+        "answers": [
+            {
+                "text": "Dwarf",
+                "nextQuestion": null
+            },
+            {
+                "text": "Night Elves",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "question":"Do you enjoy lightening things on fire when you are drunk?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": 38
+            },
+            {
+                "text": "No",
+                "nextQuestion": 39
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "question":"Which appearance you like best?",
+        "answers": [
+            {
+                "text": "Gnome",
+                "nextQuestion": null
+            },
+            {
+                "text": "Human",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "question": "Do you have a hero complex?",
+        "answers": [
+            { 
+                "text": "Yes",
+                "nextQuestion": 40
+            },
+            {
+                "text": "No",
+                "nextQuestion": 41
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "question": "Which appearance you like best?",
+        "answers": [
+            {
+                "text": "Dwarf",
+                "nextQuestion": null
+            },
+            {
+                "text": "Human",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "question":"Do you like shiny gold sparkles?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": 42
+            },
+            {
+                "text": "No",
+                "nextQuestion": 43
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "question": "Which appearance you like best?",
+        "answers": [
+            {
+                "text": "Human",
+                "nextQuestion": null
+            },
+            {
+                "text": "Dwarf",
+                "nextQuestion": null
+            },
+            {
+                "text": "Night Elves",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "question": "Are you an asshole?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": 44
+            },
+            {
+                "text": "No",
+                "nextQuestion": 45
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "question": "Which appearance you like best?",
+         "answers": [
+            {
+                "text": "Dwarf",
+                "nextQuestion": null
+            },
+            {
+                "text": "Human",
+                "nextQuestion": null
+            },
+            {
+                "text": "Night Elves",
+                "nextQuestion": null
+            },
+            {
+                "text": "Gnome",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "question": "Is summoning a girl of boyfriend the only way you would get one?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": 46
+            },
+            {
+                "text": "No",
+                "nextQuestion": 47
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "question": "Which appearance you like best?",
+         "answers": [
+            {
+                "text": "Human",
+                "nextQuestion": null
+            },
+            {
+                "text": "Gnome",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "question":"Are you overcompensating for something?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": 48
+            },
+            {
+                "text": "No",
+                "nextQuestion": 49
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "question": "Which appearance you like best?",
+         "answers": [
+            {
+                "text": "Dwarf",
+                "nextQuestion": null
+            },
+            {
+                "text": "Human",
+                "nextQuestion": null
+            },
+            {
+                "text": "Gnome",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "question":"Do you have an unhealthy obsession for cats?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": null
+            },
+            {
+                "text": "No",
+                "nextQuestion": 50
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "question": "Do you have a hero complex?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": 51
+            },
+            {
+                "text": "No",
+                "nextQuestion": 52
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "question": "Which appearance you like best?",
+         "answers": [
+            {
+                "text": "Dwarf",
+                "nextQuestion": null
+            },
+            {
+                "text": "Human",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "question": "Are you overcompensating for something?",
+        "answers": [
+            {
+                "text": "Yes",
+                "nextQuestion": 53
+            },
+            {
+                "text": "No",
+                "nextQuestion": null
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "question": "Which appearance you like best?",
+         "answers": [
+            {
+                "text": "Dwarf",
+                "nextQuestion": null
+            },
+            {
+                "text": "Human",
+                "nextQuestion": null
+            },
+            {
+                "text": "Night Elves",
+                "nextQuestion": null
+            },
+            {
+                "text": "Gnome",
+                "nextQuestion": null
             }
         ]
     }
-
 
 
 
