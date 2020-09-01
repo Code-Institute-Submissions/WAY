@@ -10,8 +10,8 @@ The **ultimate quiz** to decide for **once and for all** which faction, race, cl
 
 The **goal** for this project is to **entertain** users.
 
-While I at first intended to use all playable classes, races and roles, I soon found out that was a bit to much, so I decided to include all playable classes, races and roles up to and including the [Wrath of The Lich King expansion.](https://en.wikipedia.org/wiki/World_of_Warcraft:_Wrath_of_the_Lich_King)
-
+While I at first intended to use all playable classes, races and roles, I soon found out that was a bit to much, so I decided to include all playable classes, races and roles up to and including the [Original World of Warcraft Classic Game](https://worldofwarcraft.com/en-us/wowclassic).
+I had a really hard time getting my data in a structure I could work with. So I decided to compress a lot of questions and not use three json files, but instead use one, just to make it more easy ono myself as I was approaching a point to I almost had a burn-out.
 ### User Goals ###
 * **Find** out which [World of Warcraft](https://worldofwarcraft.com/en-us/) faction, race, class and role you are.
 * Be **entertained**.
