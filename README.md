@@ -79,13 +79,14 @@ To be more precise:
 **Features** that have been **implemented:**
 
 * Easy to use **navigation** on all screensizes.
-* Social Media **share buttons**.
+* Social Media **buttons**.
 
 **Features** that will be **implemented** in the **future:**
 
 * **Fantasy name generator**: Let's user generate a **character name** to go with the **outcome of the quizz**.
 * Option to **check** if that **name** is already **taken** (through an API).
 * Option to choose between the **different expansions**. With **every new expansion**, **more classes and races** were added. For future features, I would like to **include** them as well.
+* Social media **share buttons**.
 
 ## Technologies used ##
 ---
