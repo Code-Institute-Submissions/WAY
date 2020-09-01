@@ -24,10 +24,9 @@ $(document).ready(function () {
       buildGame(gameData, 1)
       //replace the 1 above, with a callbackfunction that gets the next question (nextQuestionId)
     })
-    .catch(() => {
-      return 'There was a problem loading this data';
-    })
-  };
+    .catch(console.error('There was a problem loading this data. Please try again later'));
+}
+  
 
 // Pull data from shared json file in div's 
 
