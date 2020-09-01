@@ -6,11 +6,11 @@
         "answers": [
             {
                 "text": "Red",
-                "nextQuestion": 2
+                "nextQuestionId": 2
             },
             {
                 "text": "Blue",
-                "nextQuestion": 3
+                "nextQuestionId": 3
             }
         ]
     },
@@ -20,17 +20,17 @@
         "answers": [
             {
                 "text": "Someone that heals others and removes harmful diseases and poisons",
-                "nextQuestionHorde": 4
+                "nextQuestionId": 4
                 
             },
             {
                 "text": "I like to do as much damage as I possible can",
-                "nextQuestionHorde": 9
+                "nextQuestionId": 9
                 
             },
             {
                 "text": "I protect others from damage with my face or shield",
-                "nextQuestionHorde": 26
+                "nextQuestionId": 26
                 
             }
         ]
@@ -42,17 +42,17 @@
             {
                 "text": "An angel of mercy, flying through the instance, carrying the noobs",
                 
-                "nextQuestionAlliance": 29
+                "nextQuestionId": 29
             },
             {
                 "text": "A legendary being who strikes all who oppose him",
                 
-                "nextQuestionAlliance": 34 
+                "nextQuestionId": 34 
             },
             {
                 "text": "A plate or leather wearing demi-god that stops the simple mortals from dying",
                 
-                "nextQuestionAlliance": 49
+                "nextQuestionId": 49
             }
         ]
     },
@@ -62,11 +62,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "No",
-                "nextQuestion": 5
+                "nextQuestionId": 5
             }
         ]
     },
@@ -76,11 +76,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 6
+                "nextQuestionId": 6
             },
             {
                 "text": "No",
-                "nextQuestion": 7
+                "nextQuestionId": 7
             }
         ]
     },
@@ -90,11 +90,11 @@
         "answers": [
             {
                 "text": "Undead",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -104,11 +104,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 8
+                "nextQuestionId": 8
             },
             {
                 "text": "No",
-                "nextQuestion": 9
+                "nextQuestionId": 9
             }
         ]
     },
@@ -118,15 +118,15 @@
         "answers": [
             {
                 "text": "Orcs",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Tauren",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -136,11 +136,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 10
+                "nextQuestionId": 10
             },
             {
                 "text": "No",
-                "nextQuestion": 11
+                "nextQuestionId": 11
             }
         ]
     },
@@ -150,15 +150,15 @@
         "answers": [
             {
                 "text": "Orcs",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Tauren",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -168,11 +168,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "No",
-                "nextQuestion": 12
+                "nextQuestionId": 12
             }
         ]
     },
@@ -182,11 +182,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 13
+                "nextQuestionId": 13
             },
             {
                 "text": "No",
-                "nextQuestion": 14
+                "nextQuestionId": 14
             }
         ]
     },
@@ -196,15 +196,15 @@
         "answers": [
             {
                 "text": "Orc",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Tauren",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "nextQuestion": null
+                "nextQuestionId": null
             }      
         ]
     },
@@ -214,11 +214,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 15
+                "nextQuestionId": 15
             },
             {
                 "text": "No",
-                "nextQuestion": 16
+                "nextQuestionId": 16
             }
         ]
     },
@@ -228,11 +228,11 @@
         "answers": [
             {
                 "text": "Undead",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -243,11 +243,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 17
+                "nextQuestionId": 17
             },
             {
                 "text": "No",
-                "nextQuestion": 18
+                "nextQuestionId": 18
             }
         ]
     },
@@ -257,11 +257,11 @@
         "answers": [
             {
                 "text": "Undead",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -271,11 +271,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 19
+                "nextQuestionId": 19
             },
             {
                 "text": "No",
-                "nextQuestion": 20
+                "nextQuestionId": 20
             }
         ]
     },
@@ -285,15 +285,15 @@
         "answers": [
             {
                 "text": "Undead",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Orc",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -303,11 +303,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 21
+                "nextQuestionId": 21
             },
             {
                 "text": "No",
-                "nextQuestion": 22
+                "nextQuestionId": 22
             }
         ]
     },
@@ -317,15 +317,15 @@
         "answers": [
             {
                 "text": "Tauren",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Orc",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -335,11 +335,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 23
+                "nextQuestionId": 23
             },
             {
                 "text": "No",
-                "nextQuestion": 24
+                "nextQuestionId": 24
             }
         ]
     },
@@ -349,11 +349,11 @@
         "answers": [
             {
                 "text": "Orc",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Undead",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -363,11 +363,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 25
+                "nextQuestionId": 25
             },
             {
                 "text": "No",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -377,19 +377,19 @@
         "answers": [
             {
                 "text": "Orc",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Undead",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Tauren",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -399,11 +399,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "No",
-                "nextQuestion": 27
+                "nextQuestionId": 27
             }
         ]
     },
@@ -413,11 +413,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 28
+                "nextQuestionId": 28
             },
             {
                 "text": "No",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -427,19 +427,19 @@
         "answers": [
             {
                 "text": "Orc",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Undead",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Tauren",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     }, 
@@ -449,11 +449,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "No",
-                "nextQuestion": 30
+                "nextQuestionId": 30
             }
         ]
     },
@@ -463,11 +463,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 31
+                "nextQuestionId": 31
             },
             {
                 "text": "No",
-                "nextQuestion": 32
+                "nextQuestionId": 32
             }
         ]
     },
@@ -477,11 +477,11 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -491,11 +491,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 33
+                "nextQuestionId": 33
             },
             {
                 "text": "No",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -505,15 +505,15 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Night Elves",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -523,11 +523,11 @@
         "answers": [
             {   
                 "text": "Yes",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "No",
-                "nextQuestion": 35
+                "nextQuestionId": 35
             }
         ]
     },
@@ -537,11 +537,11 @@
         "answers": [
             { 
                 "text": "Yes",
-                "nextQuestion": 36
+                "nextQuestionId": 36
             },
             {
                 "text": "No",
-                "nextQuestion": 37
+                "nextQuestionId": 37
             }
         ]
     },
@@ -551,11 +551,11 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Night Elves",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -565,11 +565,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 38
+                "nextQuestionId": 38
             },
             {
                 "text": "No",
-                "nextQuestion": 39
+                "nextQuestionId": 39
             }
         ]
     },
@@ -579,11 +579,11 @@
         "answers": [
             {
                 "text": "Gnome",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -593,11 +593,11 @@
         "answers": [
             { 
                 "text": "Yes",
-                "nextQuestion": 40
+                "nextQuestionId": 40
             },
             {
                 "text": "No",
-                "nextQuestion": 41
+                "nextQuestionId": 41
             }
         ]
     },
@@ -607,11 +607,11 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -621,11 +621,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 42
+                "nextQuestionId": 42
             },
             {
                 "text": "No",
-                "nextQuestion": 43
+                "nextQuestionId": 43
             }
         ]
     },
@@ -635,15 +635,15 @@
         "answers": [
             {
                 "text": "Human",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Dwarf",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Night Elves",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -653,11 +653,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 44
+                "nextQuestionId": 44
             },
             {
                 "text": "No",
-                "nextQuestion": 45
+                "nextQuestionId": 45
             }
         ]
     },
@@ -667,19 +667,19 @@
          "answers": [
             {
                 "text": "Dwarf",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Night Elves",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Gnome",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -689,11 +689,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 46
+                "nextQuestionId": 46
             },
             {
                 "text": "No",
-                "nextQuestion": 47
+                "nextQuestionId": 47
             }
         ]
     },
@@ -703,11 +703,11 @@
          "answers": [
             {
                 "text": "Human",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Gnome",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -717,11 +717,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 48
+                "nextQuestionId": 48
             },
             {
                 "text": "No",
-                "nextQuestion": 49
+                "nextQuestionId": 49
             }
         ]
     },
@@ -731,15 +731,15 @@
          "answers": [
             {
                 "text": "Dwarf",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Gnome",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -749,11 +749,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "No",
-                "nextQuestion": 50
+                "nextQuestionId": 50
             }
         ]
     },
@@ -763,11 +763,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 51
+                "nextQuestionId": 51
             },
             {
                 "text": "No",
-                "nextQuestion": 52
+                "nextQuestionId": 52
             }
         ]
     },
@@ -777,11 +777,11 @@
          "answers": [
             {
                 "text": "Dwarf",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -791,11 +791,11 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestion": 53
+                "nextQuestionId": 53
             },
             {
                 "text": "No",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     },
@@ -805,19 +805,19 @@
          "answers": [
             {
                 "text": "Dwarf",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Night Elves",
-                "nextQuestion": null
+                "nextQuestionId": null
             },
             {
                 "text": "Gnome",
-                "nextQuestion": null
+                "nextQuestionId": null
             }
         ]
     }
