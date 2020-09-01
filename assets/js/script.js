@@ -21,7 +21,7 @@ $(document).ready(function () {
     .then((res) => res.json())
     .then(gameData => {
       buildGame(gameData, 1)
-      
+      //replace the 1 above, with a callbackfunction that gets the next question (nextQuestionId)
     })
     .catch(() => {
       return 'There was a problem loading this data';
@@ -31,7 +31,9 @@ $(document).ready(function () {
 // Pull data from shared json file in div's 
 
 // When a user clicks the enter anyway button, the game should start.
+// Start by getting the first question with associated answers.
 // when the user chooses red, the css of the next question should turn red, equally for blue
+// Then get the next question according to the ID linked in previous answer.
 // When a user does not answer yes to anything, this should lead to a restart the game
 // When all questions have been answered, there should be a result displayed.
 
@@ -47,12 +49,15 @@ function buildGame (gameFile, questionNumber) {
     });
    console.log(start.question);
 }
-
+// an click event trigger to get to the next question?
+// $("#answer-btns").click(function(){
+//}
+// nextQuestion = start.id
 /*
-function nextQuestionID () {
+function nextQuestion () {
     const nextQuestion = start.answers.nextQuestion
-    if (nextQuestionId <= 0) {
-        console.log(nextQuestion)
+    if (nextQuestion ) {
+       
     }
     }
     nextQuestion()
