@@ -21,12 +21,9 @@ I had a really hard time getting my data in a structure I could work with. So I 
 * As a **user**, I want and **attractive** and **fun** website so I will be **entertained**.
 * As a **user**, I want a **site** that loads fast.
 * As a **user**, I want to have clearly defined **questions** and **answers**.
-* As a **user**, I want to be able to **post** my results to various **social media sites**.
-
 
 ### Site Owner Goals ###
 * As a **site owner** I want to educate my users.
-
 
 ### User Requirements and Expectations ###
 
@@ -44,7 +41,6 @@ I had a really hard time getting my data in a structure I could work with. So I 
 ### Design Choices ###
 When **designing** this site, I mainly did a **lot of thinking**. Where **coming up** with the idea wasn't all that hard, the **getting the data structured and usable**, was a whole different ball game.
 I've looked at [**other quizzes**](https://www.zimbio.com/quiz/xB6XYrSQXCE/World+Warcraft+Class) that follow a path that is similar to mine and went from there.
-
 
 **Fonts**
 

@@ -1,6 +1,7 @@
 
 const questionRef = document.querySelector('#question-info');
 const answerButtonRef = document.querySelector('#answer-btns');
+const resultButtonRef = document.querySelector('#result-info');
 
 
 
