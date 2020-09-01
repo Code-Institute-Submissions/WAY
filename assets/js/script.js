@@ -28,20 +28,19 @@ $(document).ready(function () {
     })
   };
 
-// Pull data from shared json file in div's //
+// Pull data from shared json file in div's 
 
-//ToDo; dynamically change question number at top let gameFile in fetch set gamefile = gamedata buildgame, global var data and next question
-//for id 1, change css color for next question depending on choice (red of blue)
-//store outcome in variable
+// When a user clicks the enter anyway button, the game should start.
+// when the user chooses red, the css of the next question should turn red, equally for blue
+// When a user does not answer yes to anything, this should lead to a restart the game
+// When all questions have been answered, there should be a result displayed.
 
-
-function buildGame (quiz, questionNumber) {
-   const start = quiz.find(game => game.id === questionNumber)
+function buildGame (gameFile, questionNumber) {
+   const start = gameFile.find(game => game.id === questionNumber)
     
 
     questionRef.innerHTML = start.question
-    //loop through anwers array
-    //append text to answer buttons
+ 
     start.answers.forEach(answer => {
         $(`<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`).appendTo(answerButtonRef)
     console.log(answer)
