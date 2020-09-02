@@ -20,13 +20,44 @@ $(document).ready(function () {
   function fetchData(filename) {
   return fetch(`assets/data/${filename}`)
     .then((res) => res.json())
-    .then(gameData => {
-      buildGame(gameData, 1)
-      //replace the 1 above, with a callbackfunction that gets the next question (nextQuestionId)
+    .then((data)=>{
+        questions(data);
     })
-    .catch(console.error('There was a problem loading this data. Please try again later'));
-}
+    .catch((err) => console.log(err));
+
   
+function startGame(){
+    showQuestion(1)
+}
+
+function showQuestion(questionIndex) {
+    const questions = gameFile.find(questions=>questionId===questionIndex)
+    questionRef.innerHTML = questions.question
+   
+   
+    questions.answers.forEach(answer => {
+        if(showAnswer(answer)){
+
+
+           const button = $(`<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`).appendTo(answerButtonRef)
+            button.addEventListener('click', () => selectAnswer(answer))
+            answer.text.appendTo(answerButtonRef)
+
+        }
+});
+
+function selectAnswer(answer) {
+    const nextQuestion = answers.nextQuestionId
+    if(nextQuestion <= 0){
+        return startGame()
+    }
+        showQuestion(nextQuestion)
+    }
+    }
+}
+
+startGame()
+
 
 // Pull data from shared json file in div's 
 
@@ -36,7 +67,7 @@ $(document).ready(function () {
 // Then get the next question according to the ID linked in previous answer.
 // When a user does not answer yes to anything, this should lead to a restart the game
 // When all questions have been answered, there should be a result displayed.
-
+/*
 function buildGame (gameFile, questionNumber) {
    const start = gameFile.find(game => game.id === questionNumber)
     
@@ -62,4 +93,4 @@ function nextQuestion () {
     }
     nextQuestion()
 }
-*/
+*/ 
