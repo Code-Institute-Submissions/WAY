@@ -14,7 +14,7 @@ $(document).ready(function () {
     fetchData("shared.json");
 });
 
- /*Fetch for shared questions at start game */
+ /**Fetch for shared questions at start game **/
 
 
   const fetchData = () => {

@@ -820,6 +820,16 @@
                 "nextQuestionId": null
             }
         ]
+    },
+    {
+        "id": 54,
+        "question": "I didn't take you for the indecisive type... Let's try that again!",
+        "anwers": [
+            { 
+                "text": "Restart",
+                "nextQuestionId": -1
+            }
+        ]
     }
 
 
