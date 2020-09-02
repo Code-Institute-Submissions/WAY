@@ -27,12 +27,14 @@ $(document).ready(function () {
     })
     .catch((err) => console.log(err));
 
- 
+ //Make a big function:
 function startGame(){
     showQuestion(1)
     
 }
+//Questions isnt defined, wrong scope?
 
+//Make arrow function
 function showQuestion(questionIndex) {
     const questions = gameFile.find(questions=>questions.id===questionIndex)
     questionRef.innerHTML = questions.question
@@ -41,14 +43,14 @@ function showQuestion(questionIndex) {
     questions.answers.forEach(answer => {
         if(showAnswer(answer)){
 
-
+            //changed below, bet this isnt working as it should
            const button = $(`<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`).appendTo(answerButtonRef)
             button.addEventListener('click', () => selectAnswer(answer))
             answer.text.appendTo(answerButtonRef)
             
         }
 });
-
+//Make arrow function
 function selectAnswer(answer) {
     const nextQuestion = answers.nextQuestionId
     if(nextQuestion <= 0){
@@ -62,8 +64,10 @@ startGame()
 }
 
 
-
-  
+// For json file: for null no yes make a text with a new id that triggers a restart game on click. In that new id post a -1 id that triggers line 56-57
+// For Json file(?): find images of used races, crop out profiles and make a button. Show that button in place of nulls in 'What appearance you like best-question
+// That full image will be used in final result.
+// Make a function that displays the final result.  
 
 // Pull data from shared json file in div's 
 
