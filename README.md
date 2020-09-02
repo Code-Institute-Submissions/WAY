@@ -1,7 +1,7 @@
 # WAY! #
 *Who Are You in World of Warcraft*
 
-![Lich King](assets/images/lichking.jpg)
+![Kel'Thuzad](assets/images/kelthuzad.jpeg)
 ---
 ## UX (User Experience) ##
 ---
