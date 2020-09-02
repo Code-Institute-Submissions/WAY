@@ -27,12 +27,12 @@ $(document).ready(function () {
     })
     .catch((err) => console.log(err));
 
- //Make a big function:
+ //Make a big 'mother' function?:
 function startGame(){
     showQuestion(1)
     
 }
-//Questions isnt defined, wrong scope?
+//questionIndex isnt defined, wrong scope?
 
 //Make arrow function
 function showQuestion(questionIndex) {
@@ -41,6 +41,7 @@ function showQuestion(questionIndex) {
    
    
     questions.answers.forEach(answer => {
+       
         if(showAnswer(answer)){
 
             //changed below, bet this isnt working as it should
