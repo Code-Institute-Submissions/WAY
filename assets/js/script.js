@@ -64,7 +64,7 @@ startGame()
 }
 
 
-// For json file: for null no yes make a text with a new id that triggers a restart game on click. In that new id post a -1 id that triggers line 56-57
+
 // For Json file(?): find images of used races, crop out profiles and make a button. Show that button in place of nulls in 'What appearance you like best-question
 // That full image will be used in final result.
 // Make a function that displays the final result.  

@@ -367,7 +367,7 @@
             },
             {
                 "text": "No",
-                "nextQuestionId": null
+                "nextQuestionId": 54
             }
         ]
     },
@@ -417,7 +417,7 @@
             },
             {
                 "text": "No",
-                "nextQuestionId": null
+                "nextQuestionId": 54
             }
         ]
     },
@@ -495,7 +495,7 @@
             },
             {
                 "text": "No",
-                "nextQuestionId": null
+                "nextQuestionId": 54
             }
         ]
     },
@@ -795,7 +795,7 @@
             },
             {
                 "text": "No",
-                "nextQuestionId": null
+                "nextQuestionId": 54
             }
         ]
     },
