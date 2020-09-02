@@ -28,6 +28,7 @@ $(document).ready(function () {
   
 function startGame(){
     showQuestion(1)
+    
 }
 
 function showQuestion(questionIndex) {
@@ -53,10 +54,13 @@ function selectAnswer(answer) {
     }
         showQuestion(nextQuestion)
     }
-    }
+startGame()
 }
 
-startGame()
+}
+
+
+
 
 
 // Pull data from shared json file in div's 
