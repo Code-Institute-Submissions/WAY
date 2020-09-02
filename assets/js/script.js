@@ -20,19 +20,19 @@ $(document).ready(function () {
   function fetchData(filename) {
   return fetch(`assets/data/${filename}`)
     .then((res) => res.json())
-    .then((data)=>{
-        questions(data);
+    .then((gameFile)=>{
+        questions(gameFile, questionIndex);
     })
     .catch((err) => console.log(err));
 
-  
+ 
 function startGame(){
     showQuestion(1)
     
 }
 
 function showQuestion(questionIndex) {
-    const questions = gameFile.find(questions=>questionId===questionIndex)
+    const questions = gameFile.find(question=>questions.id===questionIndex)
     questionRef.innerHTML = questions.question
    
    
