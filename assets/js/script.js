@@ -17,10 +17,12 @@ $(document).ready(function () {
  /*Fetch for shared questions at start game */
 
 
-  function fetchData(filename) {
-  return fetch(`assets/data/${filename}`)
+  const fetchData = () => {
+  return fetch(`assets/data//shared.json`)
     .then((res) => res.json())
     .then((gameFile)=>{
+        console.log(gameFile)
+        console.log(questionIndex)
         questions(gameFile, questionIndex);
     })
     .catch((err) => console.log(err));
@@ -32,7 +34,7 @@ function startGame(){
 }
 
 function showQuestion(questionIndex) {
-    const questions = gameFile.find(question=>questions.id===questionIndex)
+    const questions = gameFile.find(questions=>questions.id===questionIndex)
     questionRef.innerHTML = questions.question
    
    
@@ -43,7 +45,7 @@ function showQuestion(questionIndex) {
            const button = $(`<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`).appendTo(answerButtonRef)
             button.addEventListener('click', () => selectAnswer(answer))
             answer.text.appendTo(answerButtonRef)
-
+            
         }
 });
 
@@ -61,7 +63,7 @@ startGame()
 
 
 
-
+  
 
 // Pull data from shared json file in div's 
 
