@@ -1,6 +1,6 @@
 
 const questionRef = document.querySelector('#question-info');
-const answerButtonRef = document.querySelector('#answer-btns');
+const answerButtonRef = document.querySelector('.answer-button');
 const resultButtonRef = document.querySelector('#result-info');
 let quiz
 
@@ -39,12 +39,15 @@ const showQuestion = (questionIndex)=>{
    
    console.log(questions)
     questions.answers.forEach(answer => {
-
+      
+        answerButtonRef.innerHTML = answer.text
+        console.log(answer)
         
-        /*answerButtonRef.innerHTML = answer.text*/
+         //tried append, innertext, inner html, put .hide at end of answerButtonRef, combinations with .update 
+         //answerButtonRef.innerHTML += `<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`*/
          
-           $(`<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`).appendTo(answerButtonRef)
-
+          /*$(`<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`).replace(answerButtonRef) */
+           
            $('.answer-button').click(function(){
                selectAnswer(answer.nextQuestionId)
            })
