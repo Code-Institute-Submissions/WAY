@@ -2,7 +2,7 @@
 const questionRef = document.querySelector('#question-info');
 const answerButtonRef = document.querySelector('#answer-btns');
 const resultButtonRef = document.querySelector('#result-info');
-let dave
+let quiz
 
 
 $(document).ready(function () {
@@ -22,29 +22,31 @@ $(document).ready(function () {
     .then((res) => res.json())
     .then((gameFile)=>{
         console.log(gameFile)
-        dave=gameFile
+        quiz=gameFile
         showQuestion(1);
     })
     .catch((err) => console.log(err));
 
   }
-//questionIndex isnt defined, wrong scope?
+//Replace dave and move the let
 
 //Make arrow function
-function showQuestion(questionIndex) {
-    const questions = dave.find(questions=>questions.id===questionIndex)
+const showQuestion = (questionIndex)=>{
+    const questions = quiz.find(questions=>questions.id===questionIndex)
     questionRef.innerHTML = questions.question
    
    console.log(questions)
     questions.answers.forEach(answer => {
-       
 
-            //changed below, bet this isnt working as it should
-            $(`<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`).appendTo(answerButtonRef)
+        
+        /*answerButtonRef.innerHTML = answer.text*/
+         
+           $(`<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`).appendTo(answerButtonRef)
+
            $('.answer-button').click(function(){
                selectAnswer(answer.nextQuestionId)
            })
-        /*   button.addEventListener('click', () => selectAnswer(answer.nextQuestionId))*/
+        
 });
 }
 

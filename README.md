@@ -160,7 +160,10 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 
 ## Credits ##
 ---
+**Code Credit**
+Epic thanks to [WebDevSimplified](https://github.com/WebDevSimplified) for his [JavaScript text adventure game](https://github.com/WebDevSimplified/JavaScript-Text-Adventure) which I have used as a base for my project.
 **Credit for text used on this website**
+
 **Images used**
 **Special thanks**
 
