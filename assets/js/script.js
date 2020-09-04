@@ -28,9 +28,11 @@ $(document).ready(function () {
     .catch((err) => console.log(err));
 
   }
-//Replace dave and move the let
+//move quiz let
 
-//Make arrow function
+// code taken from: https://github.com/WebDevSimplified/JavaScript-Text-Adventure
+
+
 const showQuestion = (questionIndex)=>{
     const questions = quiz.find(questions=>questions.id===questionIndex)
     questionRef.innerHTML = questions.question
