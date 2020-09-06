@@ -14,8 +14,11 @@ $(document).ready(function () {
     fetchData("shared.json");
 });
 
- /**Fetch for shared questions at start game **/
-
+/**
+  * Fetch for shared 
+  * questions at start 
+  *  game 
+*/
 
   const fetchData = (jsonFile) => {
   return fetch(`assets/data/${jsonFile}`)
@@ -32,14 +35,21 @@ $(document).ready(function () {
 
 // code taken from: https://github.com/WebDevSimplified/JavaScript-Text-Adventure
 
-
+/**
+ * Function to get the
+ * first question and answers
+ * and inject them into their 
+ * HTML element
+ */
 const showQuestion = (questionIndex)=>{
     const questions = quiz.find(questions=>questions.id===questionIndex)
     questionRef.innerHTML = questions.question
    
    console.log(questions)
     questions.answers.forEach(answer => {
-      
+    /* another attempt const answer = questions.answers.map(answer => {
+          answerButtonRef.innerHTML = answer.text
+      })*/
         answerButtonRef.innerHTML = answer.text
         console.log(answer)
         
@@ -52,12 +62,16 @@ const showQuestion = (questionIndex)=>{
                selectAnswer(answer.nextQuestionId)
                /* $("#answer-btns:last").appendTo(answerButtonRef); */
            })
-
+        });
         
-});
-}
+};
 
-//Make arrow function
+/**
+ * Function to get
+ * the next question by id
+ */
+
+//ToDo Make arrow function
 function selectAnswer(nextQuestion) {
     
     if(nextQuestion <= 0){
