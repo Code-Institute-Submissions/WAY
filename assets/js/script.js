@@ -1,6 +1,6 @@
 
 const questionRef = document.querySelector('#question-info');
-const answerButtonRef = document.querySelector('#answer-btns');
+const answerButtonRef = document.querySelector('.answer-button');
 const resultButtonRef = document.querySelector('#result-info');
 let quiz
 
@@ -8,7 +8,7 @@ let quiz
 $(document).ready(function () {
    $("#question, #result").toggle();
   $("#start-btn").click(function(){
-    $("#landing-page, #question, #answer-btn-3, #answer-btn-4").toggle();
+    $("#landing-page, #question").toggle();
     
    });
     fetchData("shared.json");
@@ -40,17 +40,17 @@ const showQuestion = (questionIndex)=>{
    console.log(questions)
     questions.answers.forEach(answer => {
       
-       /* answerButtonRef.innerHTML = answer.text*/
+        answerButtonRef.innerHTML = answer.text
         console.log(answer)
         
-         //tried append, innertext, inner html, put .hide at end of answerButtonRef, combinations with .update 
+         //tried append, innertext, inner html, put .hide at end of answerButtonRef, combinations with .update .hide, .replace, .replaceWith
          //answerButtonRef.innerHTML += `<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`*/
          
-          $(`<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`).appendTo(answerButtonRef) 
+         /* $(`<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`).appendTo(answerButtonRef) */
            
            $('.answer-button').click(function(){
                selectAnswer(answer.nextQuestionId)
-                $("#answer-btns:last").hide();
+               /* $("#answer-btns:last").appendTo(answerButtonRef); */
            })
 
         
