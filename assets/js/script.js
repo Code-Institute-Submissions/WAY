@@ -1,4 +1,6 @@
 
+/*jshint esversion: 6 */
+
 const questionRef = document.querySelector('#question-info');
 const answerButtonRef = document.querySelectorAll('.answer-button');
 const resultButtonRef = document.querySelector('#result-info');
@@ -30,13 +32,13 @@ $(document).ready(function () {
   return fetch(`assets/data/${jsonFile}`)
     .then((res) => res.json())
     .then((gameFile)=>{
-        console.log(gameFile)
-        quiz=gameFile
+        console.log(gameFile);
+        quiz=gameFile;
         showQuestion(1);
     })
     .catch((err) => console.log(err));
 
-  }
+  };
 //move quiz let
 
 // code taken from: https://github.com/WebDevSimplified/JavaScript-Text-Adventure
@@ -48,7 +50,7 @@ $(document).ready(function () {
  * HTML element
  */
 const showQuestion = (questionIndex)=>{
-    const questions = quiz.find(questions=>questions.id===questionIndex)
+    const questions = quiz.find(questions=>questions.id===questionIndex);
     questionRef.innerHTML = questions.question;
     const answerStrings = questions.answers;
     questionRef.innerHTML = questions.question;
@@ -73,10 +75,10 @@ const showQuestion = (questionIndex)=>{
 function selectAnswer(id) {
     nextQuestion = parseInt(id, 10);    
     if (nextQuestion <= 0){
-        showQuestion(1)
+        showQuestion(1);
     }
     else {
-        showQuestion(nextQuestion) 
+        showQuestion(nextQuestion);
     }
 }
 

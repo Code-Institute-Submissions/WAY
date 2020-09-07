@@ -22,7 +22,7 @@ body {
 .bold-text {
     color: #f7b10a;
 }
-
+/* Styling for images */
 .img-fluid {
     max-width: 50vh;
     height: auto;
@@ -44,6 +44,7 @@ body {
     background-color: #f7b10a;
 }
 
+/* Styling for game container section */
 .card {
     background: rgba(0, 0, 0, 0.7);
     border: 1px solid #dc3545;
@@ -52,11 +53,12 @@ body {
 #question-info {
     color: #f7b10a;
 }
-
+/* Styling for results container section */
 #result-info {
     color: white;  
 }
 
+/* General styling */
 .hide {
     display: none;
 }
