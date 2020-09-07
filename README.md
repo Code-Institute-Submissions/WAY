@@ -125,7 +125,18 @@ To be more precise:
 ## Bugs ##
 ---
 **During development**
+
+Bug name: Buttons not reacting the way I expected.
+
+Description: I was looping through the answers array with a forEach loop, but couldnt make the answers being injected into the buttons. And the buttons where underneath each other, instead of hiding when an answer was clicked.
+This has been very frustrating for me, as I felt I was throwing everything I knew at it, including and not limited to documentation, video's and asking help on Slack.
+I asked tutor support in the end, who have helped me figure this out. Their hints combined with the help of Mr Bim, has led me to understand what was causing this and how to solve it. 
+Part of this was having a array like collection which led to me not being able to use a forEach loop which started this whole thing.
+
+Solution: Change the ```document.querySelector``` to be ```document.querySelectorAll()``` and use for loops so the answers where actually being appended to the amount of buttons that where needed.
+
 **From validation/testing**
+
 **From peer code review**
 
 ## Deployment ##
@@ -161,10 +172,13 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 ## Credits ##
 ---
 **Code Credit**
-Epic thanks to [WebDevSimplified](https://github.com/WebDevSimplified) for his [JavaScript text adventure game](https://github.com/WebDevSimplified/JavaScript-Text-Adventure) which I have used as a base for my project.
+
+* Epic thanks to [WebDevSimplified](https://github.com/WebDevSimplified) for his [JavaScript text adventure game](https://github.com/WebDevSimplified/JavaScript-Text-Adventure) which I have used as a base for my project.
+
 **Credit for text used on this website**
 
 **Images used**
+
 **Special thanks**
 
 * As always, my mentor [Simen Daehlin](https://github.com/Eventyret), for his support and Yoda-guidance.
