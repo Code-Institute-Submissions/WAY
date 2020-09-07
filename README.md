@@ -169,11 +169,13 @@ Epic thanks to [WebDevSimplified](https://github.com/WebDevSimplified) for his [
 
 * As always, my mentor [Simen Daehlin](https://github.com/Eventyret), for his support and Yoda-guidance.
 
+* A big contributor in this project and massive support, not only code wise but also mentally; [Mr Bim Williams](https://github.com/MrBim).
+
 * For her awesome MoneyPot game, that has helped me kick off the JavaScript part of this project, [Neringa Bickmore](https://github.com/neringabickmore).
 
 * For his undying love and support and always being there, my love, you know who you are ;)
 
-* Everybody at Slack for their support, tips and humor!
+* Everybody at Slack for their support, tips and humor, especially tutors Tim and Kevin.
 
 **Site for educational purposes only!**
 
