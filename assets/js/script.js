@@ -55,9 +55,10 @@ const showQuestion = (questionIndex)=>{
     const answerStrings = questions.answers;
     questionRef.innerHTML = questions.question;
     for (let i = 0; i < answerButtonRef.length; i++) {
-        if(questions.answer) {
+        if(questions.answers) {
             if(i < answerStrings.length) {
-                answerButtonRef[i].text;
+                answerButtonRef[i].classList.remove("hide");
+                answerButtonRef[i].innerText = answerStrings[i].text;
                 answerButtonRef[i].dataset.nextQuestion = answerStrings[i].nextQuestionId;
             } else {
                 answerButtonRef[i].classList.add("hide");
