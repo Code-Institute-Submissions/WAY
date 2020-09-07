@@ -1,16 +1,22 @@
 
 const questionRef = document.querySelector('#question-info');
-const answerButtonRef = document.querySelector('.answer-button');
+const answerButtonRef = document.querySelectorAll('.answer-button');
 const resultButtonRef = document.querySelector('#result-info');
-let quiz
+let quiz;
 
 
 $(document).ready(function () {
    $("#question, #result").toggle();
   $("#start-btn").click(function(){
-    $("#landing-page, #question").toggle();
-    
+    $("#landing-page, #question").toggle(); 
    });
+   for (let i = 0; i < answerButtonRef.length; i++){
+       console.log("for");
+       answerButtonRef[i].addEventListener("click", function (e) {
+           selectAnswer(e.target.dataset.nextQuestion);
+       });
+   }
+
     fetchData("shared.json");
 });
 
@@ -43,28 +49,20 @@ $(document).ready(function () {
  */
 const showQuestion = (questionIndex)=>{
     const questions = quiz.find(questions=>questions.id===questionIndex)
-    questionRef.innerHTML = questions.question
-   
-   console.log(questions)
-    questions.answers.forEach(answer => {
-    /* another attempt const answer = questions.answers.map(answer => {
-          answerButtonRef.innerHTML = answer.text
-      })*/
-        answerButtonRef.innerHTML = answer.text
-        console.log(answer)
-        
-         //tried append, innertext, inner html, put .hide at end of answerButtonRef, combinations with .update .hide, .replace, .replaceWith
-         //answerButtonRef.innerHTML += `<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`*/
-         
-         /* $(`<div class="col-sm-12 col-lg-6 text-center mt-3"><a href="#" class="btn btn-danger answer-button" aria-label="Answer button">${answer.text}</a></div>`).appendTo(answerButtonRef) */
-           
-           $('.answer-button').click(function(){
-               selectAnswer(answer.nextQuestionId)
-               /* $("#answer-btns:last").appendTo(answerButtonRef); */
-           })
-        });
-        
-};
+    questionRef.innerHTML = questions.question;
+    const answerStrings = questions.answers;
+    questionRef.innerHTML = questions.question;
+    for (let i = 0; i < answerButtonRef.length; i++) {
+        if(questions.answer) {
+            if(i < answerStrings.length) {
+                answerButtonRef[i].text;
+                answerButtonRef[i].dataset.nextQuestion = answerStrings[i].nextQuestionId;
+            } else {
+                answerButtonRef[i].classList.add("hide");
+            }
+            }
+        }
+    };
 
 /**
  * Function to get
@@ -72,8 +70,8 @@ const showQuestion = (questionIndex)=>{
  */
 
 //ToDo Make arrow function
-function selectAnswer(nextQuestion) {
-    
+function selectAnswer(id) {
+    nextQuestion = parseInt(id, 10);    
     if(nextQuestion <= 0){
         showQuestion(1)
     }
