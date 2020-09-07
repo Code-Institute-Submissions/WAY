@@ -72,10 +72,10 @@ const showQuestion = (questionIndex)=>{
 //ToDo Make arrow function
 function selectAnswer(id) {
     nextQuestion = parseInt(id, 10);    
-    if(nextQuestion <= 0){
+    if (nextQuestion <= 0){
         showQuestion(1)
     }
-    else{
+    else {
         showQuestion(nextQuestion) 
     }
 }

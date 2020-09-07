@@ -28,10 +28,20 @@ body {
     height: auto;
 }
 
-.btn-outline-danger,
-.btn-outline-danger:hover {
-    color: #f7b10a;
+/* Button styling */
+.btn-danger,
+.btn-danger:hover {
+    color: #fff;
+    background-color: #f7b10a;
     border-color: #f7b10a;
+}
+.btn-outline-danger,
+.btn-outline-danger:hover,
+.btn-danger:not(:disabled):not(.disabled).active, .btn-danger:not(:disabled):not(.disabled):active, .show>.btn-danger.dropdown-toggle
+ {
+    color: #fff;
+    border-color: #f7b10a;
+    background-color: #f7b10a;
 }
 
 .card {
