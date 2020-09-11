@@ -30,14 +30,16 @@ body {
 
 /* Button styling */
 .btn-danger,
-.btn-danger:hover {
+.btn-danger:hover,
+.btn-danger:not(:disabled):not(.disabled).active, .btn-danger:not(:disabled):not(.disabled):active, .show>.btn-danger.dropdown-toggle,
+.btn-danger.focus, .btn-danger:focus 
+ {
     color: #fff;
     background-color: #f7b10a;
     border-color: #f7b10a;
 }
 .btn-outline-danger,
-.btn-outline-danger:hover,
-.btn-danger:not(:disabled):not(.disabled).active, .btn-danger:not(:disabled):not(.disabled):active, .show>.btn-danger.dropdown-toggle
+.btn-outline-danger:hover
  {
     color: #fff;
     border-color: #f7b10a;

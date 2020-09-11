@@ -2,15 +2,17 @@
 [
     {
         "id": 1,
-        "question": "Choose wisely!",
+        "question": "Pick a color",
         "answers": [
             {
                 "text": "Red",
-                "nextQuestionId": 2
+                "nextQuestionId": 2,
+                "faction": "Horde"
             },
             {
                 "text": "Blue",
-                "nextQuestionId": 3
+                "nextQuestionId": 3,
+                "faction": "Alliance"
             }
         ]
     },
@@ -20,17 +22,20 @@
         "answers": [
             {
                 "text": "Someone that heals others and removes harmful diseases and poisons",
-                "nextQuestionId": 4
+                "nextQuestionId": 4,
+                "role": "Healer"
                 
             },
             {
                 "text": "I like to do as much damage as I possible can",
-                "nextQuestionId": 9
+                "nextQuestionId": 9,
+                "role": "DPS"
                 
             },
             {
                 "text": "I protect others from damage with my face or shield",
-                "nextQuestionId": 26
+                "nextQuestionId": 26,
+                "role": "Tank"
                 
             }
         ]
@@ -41,18 +46,19 @@
         "answers": [
             {
                 "text": "An angel of mercy, flying through the instance, carrying the noobs",
-                
-                "nextQuestionId": 29
+                "nextQuestionId": 29,
+                "role": "Healer"
+
             },
             {
                 "text": "A legendary being who strikes all who oppose him",
-                
-                "nextQuestionId": 34 
+                "nextQuestionId": 34 ,
+                "role": "DPS"
             },
             {
-                "text": "A plate or leather wearing demi-god that stops the simple mortals from dying",
-                
-                "nextQuestionId": 49
+                "text": "A plate or leather wearing demi-god that stops the simple mortals from dying", 
+                "nextQuestionId": 49,
+                "role": "Tank"
             }
         ]
     },
@@ -86,7 +92,7 @@
     },
     {
         "id": 6,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
         "answers": [
             {
                 "text": "Undead",
@@ -108,13 +114,13 @@
             },
             {
                 "text": "No",
-                "nextQuestionId": 9
+                "nextQuestionId": 54
             }
         ]
     },
     {
         "id": 8,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
         "answers": [
             {
                 "text": "Orcs",
@@ -146,7 +152,7 @@
     },
     {
         "id": 10,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
         "answers": [
             {
                 "text": "Orcs",
@@ -192,7 +198,7 @@
     },
     {
         "id": 13,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
         "answers": [
             {
                 "text": "Orc",
@@ -224,7 +230,7 @@
     },
     {
         "id": 15,
-        "question":"Which appearance you like best?",
+        "question":"Which icon you like best?",
         "answers": [
             {
                 "text": "Undead",
@@ -253,7 +259,7 @@
     },
     {
         "id": 17,
-        "question":"Which appearance you like best?",
+        "question":"Which icon you like best?",
         "answers": [
             {
                 "text": "Undead",
@@ -281,7 +287,7 @@
     },
     {
         "id": 19,
-        "question":"Which appearance you like best?",
+        "question":"Which icon you like best?",
         "answers": [
             {
                 "text": "Undead",
@@ -313,7 +319,7 @@
     },
     {
         "id": 21,
-        "question":"Which appearance you like best?",
+        "question":"Which icon you like best?",
         "answers": [
             {
                 "text": "Tauren",
@@ -345,7 +351,7 @@
     },
     {
         "id": 23,
-        "question":"Which appearance you like best?",
+        "question":"Which icon you like best?",
         "answers": [
             {
                 "text": "Orc",
@@ -373,7 +379,7 @@
     },
     {
         "id": 25,
-        "question":"Which appearance you like best?",
+        "question":"Which icon you like best?",
         "answers": [
             {
                 "text": "Orc",
@@ -423,7 +429,7 @@
     },
     {
         "id": 28,
-        "question":"Which appearance you like best?",
+        "question":"Which icon you like best?",
         "answers": [
             {
                 "text": "Orc",
@@ -473,7 +479,7 @@
     },
     {
         "id": 31,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
         "answers": [
             {
                 "text": "Dwarf",
@@ -501,7 +507,7 @@
     },
     {
         "id": 33,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
         "answers": [
             {
                 "text": "Dwarf",
@@ -547,7 +553,7 @@
     },
     {
         "id": 36,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
         "answers": [
             {
                 "text": "Dwarf",
@@ -575,7 +581,7 @@
     },
     {
         "id": 38,
-        "question":"Which appearance you like best?",
+        "question":"Which icon you like best?",
         "answers": [
             {
                 "text": "Gnome",
@@ -603,7 +609,7 @@
     },
     {
         "id": 40,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
         "answers": [
             {
                 "text": "Dwarf",
@@ -631,7 +637,7 @@
     },
     {
         "id": 42,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
         "answers": [
             {
                 "text": "Human",
@@ -663,7 +669,7 @@
     },
     {
         "id": 44,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
          "answers": [
             {
                 "text": "Dwarf",
@@ -699,7 +705,7 @@
     },
     {
         "id": 46,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
          "answers": [
             {
                 "text": "Human",
@@ -727,7 +733,7 @@
     },
     {
         "id": 48,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
          "answers": [
             {
                 "text": "Dwarf",
@@ -773,7 +779,7 @@
     },
     {
         "id": 51,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
          "answers": [
             {
                 "text": "Dwarf",
@@ -801,7 +807,7 @@
     },
     {
         "id": 53,
-        "question": "Which appearance you like best?",
+        "question": "Which icon you like best?",
          "answers": [
             {
                 "text": "Dwarf",
@@ -831,11 +837,6 @@
             }
         ]
     }
-
-
-
-
-
 
 
 ]
