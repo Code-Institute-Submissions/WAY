@@ -66,6 +66,8 @@ const showQuestion = (questionIndex)=>{
             }
         }
     };
+//Get images from json in buttons:    
+// <div class="col-6"><button class="race-button" aria-hidden="true" <img scr="${answers.source}" alt="${answers.name}"</button> </div>
 
 /**
  * Function to get

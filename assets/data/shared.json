@@ -95,11 +95,13 @@
         "question": "Which icon you like best?",
         "answers": [
             {
-                "text": "Undead",
+                "name": "Undead",
+                "source": "assets\\images\\undead.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Troll",
+                "name": "Troll",
+                "source": "assets\\images\\troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -123,15 +125,18 @@
         "question": "Which icon you like best?",
         "answers": [
             {
-                "text": "Orcs",
+                "name": "Orcs",
+                "source": "assets\\images\\orcs.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Tauren",
+                "name": "Tauren",
+                "source": "assets\\images\\tauren.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Troll",
+                "name": "Troll",
+                "source": "assets\\images\\troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -155,15 +160,18 @@
         "question": "Which icon you like best?",
         "answers": [
             {
-                "text": "Orcs",
+                "name": "Orcs",
+                "source": "assets\\images\\orcs.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Tauren",
+                "name": "Tauren",
+                "source": "assets\\images\\tauren.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Troll",
+                "name": "Troll",
+                "source": "assets\\images\\troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -201,15 +209,18 @@
         "question": "Which icon you like best?",
         "answers": [
             {
-                "text": "Orc",
+                "name": "Orc",
+                "source": "assets\\images\\orcs.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Tauren",
+                "name": "Tauren",
+                "source": "assets\\images\\tauren.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Troll",
+                "name": "Troll",
+                "source": "assets\\images\\troll.png",
                 "nextQuestionId": null
             }      
         ]
@@ -233,11 +244,13 @@
         "question":"Which icon you like best?",
         "answers": [
             {
-                "text": "Undead",
+                "name": "Undead",
+                "source": "assets\\images\\undead.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Troll",
+                "name": "Troll",
+                "source": "assets\\images\\troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -262,11 +275,13 @@
         "question":"Which icon you like best?",
         "answers": [
             {
-                "text": "Undead",
+                "name": "Undead",
+                "source": "assets\\images\\undead.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Troll",
+                "name": "Troll",
+                "source": "assets\\images\\troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -290,15 +305,18 @@
         "question":"Which icon you like best?",
         "answers": [
             {
-                "text": "Undead",
+                "name": "Undead",
+                "source": "assets\\images\\undead.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Troll",
+                "name": "Troll",
+                "source": "assets\\images\\troll.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Orc",
+                "name": "Orc",
+                "source": "assets\\images\\orcs.png",
                 "nextQuestionId": null
             }
         ]
@@ -322,15 +340,18 @@
         "question":"Which icon you like best?",
         "answers": [
             {
-                "text": "Tauren",
+                "name": "Tauren",
+                "source": "assets\\images\\tauren.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Troll",
+                "name": "Troll",
+                "source": "assets\\images\\troll.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Orc",
+                "name": "Orc",
+                "source": "assets\\images\\orcs.png",
                 "nextQuestionId": null
             }
         ]
@@ -354,11 +375,13 @@
         "question":"Which icon you like best?",
         "answers": [
             {
-                "text": "Orc",
+                "name": "Orc",
+                "source": "assets\\images\\orcs.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Undead",
+                "name": "Undead",
+                "source": "assets\\images\\undead.png",
                 "nextQuestionId": null
             }
         ]
@@ -382,19 +405,23 @@
         "question":"Which icon you like best?",
         "answers": [
             {
-                "text": "Orc",
+                "name": "Orc",
+                "source": "assets\\images\\orcs.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Undead",
+                "name": "Undead",
+                "source": "assets\\images\\undead.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Tauren",
+                "name": "Tauren",
+                "source": "assets\\images\\tauren.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Troll",
+                "name": "Troll",
+                "source": "assets\\images\\troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -432,19 +459,23 @@
         "question":"Which icon you like best?",
         "answers": [
             {
-                "text": "Orc",
+                "name": "Orc",
+                "source": "assets\\images\\orcs.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Undead",
+                "name": "Undead",
+                "source": "assets\\images\\undead.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Tauren",
+                "name": "Tauren",
+                "source": "assets\\images\\tauren.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Troll",
+                "name": "Troll",
+                "source": "assets\\images\\troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -482,11 +513,13 @@
         "question": "Which icon you like best?",
         "answers": [
             {
-                "text": "Dwarf",
+                "name": "Dwarf",
+                "source": "assets\\images\\dwarf.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Human",
+                "name": "Human",
+                "source": "assets\\images\\human.png",
                 "nextQuestionId": null
             }
         ]
@@ -510,15 +543,18 @@
         "question": "Which icon you like best?",
         "answers": [
             {
-                "text": "Dwarf",
+                "name": "Dwarf",
+                "source": "assets\\images\\dwarf.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Human",
+                "name": "Human",
+                "source": "assets\\images\\human.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Night Elves",
+                "name": "Night Elves",
+                "source": "assets\\images\\nightelf.png",
                 "nextQuestionId": null
             }
         ]
@@ -556,11 +592,13 @@
         "question": "Which icon you like best?",
         "answers": [
             {
-                "text": "Dwarf",
+                "name": "Dwarf",
+                "source": "assets\\images\\dwarf.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Night Elves",
+                "name": "Night Elves",
+                "source": "assets\\images\\nightelf.png",
                 "nextQuestionId": null
             }
         ]
@@ -584,11 +622,13 @@
         "question":"Which icon you like best?",
         "answers": [
             {
-                "text": "Gnome",
+                "name": "Gnome",
+                "source": "assets\\images\\gnome.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Human",
+                "name": "Human",
+                "source": "assets\\images\\human.png",
                 "nextQuestionId": null
             }
         ]
@@ -612,11 +652,13 @@
         "question": "Which icon you like best?",
         "answers": [
             {
-                "text": "Dwarf",
+                "name": "Dwarf",
+                "source": "assets\\images\\dwarf.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Human",
+                "name": "Human",
+                "source": "assets\\images\\human.png",
                 "nextQuestionId": null
             }
         ]
@@ -640,15 +682,18 @@
         "question": "Which icon you like best?",
         "answers": [
             {
-                "text": "Human",
+                "name": "Human",
+                "source": "assets\\images\\human.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Dwarf",
+                "name": "Dwarf",
+                "source": "assets\\images\\dwarf.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Night Elves",
+                "name": "Night Elves",
+                "source": "assets\\images\\nightelf.png",
                 "nextQuestionId": null
             }
         ]
@@ -672,19 +717,23 @@
         "question": "Which icon you like best?",
          "answers": [
             {
-                "text": "Dwarf",
+                "name": "Dwarf",
+                "source": "assets\\images\\dwarf.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Human",
+                "name": "Human",
+                "source": "assets\\images\\human.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Night Elves",
+                "name": "Night Elves",
+                "source": "assets\\images\\nightelf.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Gnome",
+                "name": "Gnome",
+                "source": "assets\\images\\gnome.png",
                 "nextQuestionId": null
             }
         ]
@@ -708,11 +757,13 @@
         "question": "Which icon you like best?",
          "answers": [
             {
-                "text": "Human",
+                "name": "Human",
+                "source": "assets\\images\\human.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Gnome",
+                "name": "Gnome",
+                "source": "assets\\images\\gnome.png",
                 "nextQuestionId": null
             }
         ]
@@ -736,15 +787,18 @@
         "question": "Which icon you like best?",
          "answers": [
             {
-                "text": "Dwarf",
+                "name": "Dwarf",
+                "source": "assets\\images\\dwarf.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Human",
+                "name": "Human",
+                "source": "assets\\images\\humna.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Gnome",
+                "name": "Gnome",
+                "source": "assets\\images\\gnome.png",
                 "nextQuestionId": null
             }
         ]
@@ -782,11 +836,13 @@
         "question": "Which icon you like best?",
          "answers": [
             {
-                "text": "Dwarf",
+                "name": "Dwarf",
+                "source": "assets\\images\\dwarf.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Human",
+                "name": "Human",
+                "source": "assets\\images\\human.png",
                 "nextQuestionId": null
             }
         ]
@@ -810,19 +866,23 @@
         "question": "Which icon you like best?",
          "answers": [
             {
-                "text": "Dwarf",
+                "name": "Dwarf",
+                "source": "assets\\images\\dwarf.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Human",
+                "name": "Human",
+                "source": "assets\\images\\human.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Night Elves",
+                "name": "Night Elves",
+                "source": "assets\\images\\nightelf.png",
                 "nextQuestionId": null
             },
             {
-                "text": "Gnome",
+                "name": "Gnome",
+                "source": "assets\\images\\gnome.png",
                 "nextQuestionId": null
             }
         ]
