@@ -3,7 +3,6 @@
 
 const questionRef = document.querySelector('#question-info');
 const answerButtonRef = document.querySelectorAll('.answer-button');
-/*const imageButtonRef = document.querySelectorAll('.image-button');*/
 const resultButtonRef = document.querySelector('#result-info');
 let quiz;
 
