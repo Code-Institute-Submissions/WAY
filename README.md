@@ -6,7 +6,7 @@
 ## UX (User Experience) ##
 ---
 ### Project Goals ###
-The **ultimate quiz** to decide for **once and for all** which faction, race, class and role you belong to in the populair MMORPG [World of Warcraft](https://worldofwarcraft.com/en-us/).
+The **ultimate quiz** to decide for **once and for all** which faction, race, class and role you belong to in the popular MMORPG [World of Warcraft](https://worldofwarcraft.com/en-us/).
 
 The **goal** for this project is to **entertain** users.
 
@@ -79,7 +79,7 @@ To be more precise:
 
 **Features** that will be **implemented** in the **future:**
 
-* **Fantasy name generator**: Let's user generate a **character name** to go with the **outcome of the quizz**.
+* **Fantasy name generator**: Let's user generate a **character name** to go with the **outcome of the quiz**.
 * Option to **check** if that **name** is already **taken** (through an API).
 * Option to choose between the **different expansions**. With **every new expansion**, **more classes and races** were added. For future features, I would like to **include** them as well.
 * Social media **share buttons**.
@@ -122,7 +122,7 @@ To be more precise:
 
 Bug name: Buttons not reacting the way I expected.
 
-Description: I was looping through the answers array with a `forEach loop`, but couldnt make the answers being injected into the buttons. And the buttons where underneath each other, instead of hiding when an answer was clicked.
+Description: I was looping through the answers array with a `forEach loop`, but couldn't make the answers being injected into the buttons. And the buttons where underneath each other, instead of hiding when an answer was clicked.
 This has been very frustrating for me, as I felt I was throwing everything I knew at it, including and not limited to documentation, video's and asking help on Slack.
 I asked tutor support in the end, who have helped me figure this out. Their hints combined with the help of Mr Bim, has led me to understand what was causing this and how to solve it. 
 Part of this was having a array like collection which led to me not being able to use a `forEach loop` which started this whole thing.
@@ -156,7 +156,7 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 * Navigate to **byIlsa/WAY**.
 * Click the green **Clone or Download** button.
 * **Copy** the url in the **dropdown box**.
-* Using your **favourite IDE** open up your **preferred** terminal.
+* Using your **favorite IDE** open up your **preferred** terminal.
 * **Navigate** to your **desired** file **location**.
 
 **Copy** the following code and **input** it into your **terminal** to **clone WAY!**.

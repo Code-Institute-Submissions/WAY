@@ -66,21 +66,12 @@ const showQuestion = (questionIndex)=>{
             }
         }
 };
-/* Get images from json in buttons: */
-    /*const imageStrings = questions.answers.source;
-    for (let i = 0; i < imageButtonRef.length; i++) {
-        if(questions.answers.source) {
-            imageButtonRef[i].classList.remove("hide");
-            imageButtonRef[i].innertext = imageStrings[i].text;
-            imageButtonRef[i].dataset.nextQuestion = answerStrings[i].nextQuestionId;
-      } else {
-          imageButtonRef[i].classList.add("hide");
-      }
 
-    }    */
+  
+;
+//answers.source
 
-//Get images from json in buttons:    
-// <div class="col-6"><button class="race-button" aria-hidden="true" <img scr="${answers.source}" alt="${answers.name}"</button> </div>
+
 
 /**
  * Function to get
