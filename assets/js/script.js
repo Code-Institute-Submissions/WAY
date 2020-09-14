@@ -3,6 +3,7 @@
 
 const questionRef = document.querySelector('#question-info');
 const answerButtonRef = document.querySelectorAll('.answer-button');
+/*const imageButtonRef = document.querySelectorAll('.image-button');*/
 const resultButtonRef = document.querySelector('#result-info');
 let quiz;
 
@@ -51,7 +52,6 @@ $(document).ready(function () {
  */
 const showQuestion = (questionIndex)=>{
     const questions = quiz.find(questions=>questions.id===questionIndex);
-    questionRef.innerHTML = questions.question;
     const answerStrings = questions.answers;
     questionRef.innerHTML = questions.question;
     for (let i = 0; i < answerButtonRef.length; i++) {
@@ -65,7 +65,20 @@ const showQuestion = (questionIndex)=>{
             }
             }
         }
-    };
+};
+/* Get images from json in buttons: */
+    /*const imageStrings = questions.answers.source;
+    for (let i = 0; i < imageButtonRef.length; i++) {
+        if(questions.answers.source) {
+            imageButtonRef[i].classList.remove("hide");
+            imageButtonRef[i].innertext = imageStrings[i].text;
+            imageButtonRef[i].dataset.nextQuestion = answerStrings[i].nextQuestionId;
+      } else {
+          imageButtonRef[i].classList.add("hide");
+      }
+
+    }    */
+
 //Get images from json in buttons:    
 // <div class="col-6"><button class="race-button" aria-hidden="true" <img scr="${answers.source}" alt="${answers.name}"</button> </div>
 
@@ -76,11 +89,15 @@ const showQuestion = (questionIndex)=>{
 
 //ToDo Make arrow function
 function selectAnswer(id) {
+    console.log(selectAnswer, id);
     nextQuestion = parseInt(id, 10);    
-    if (nextQuestion <= 0){
+    if (nextQuestion <= 0) {
+    console.log(showQuestion);
+    
         showQuestion(1);
     }
     else {
+        console.log(showQuestion. nextQuestion)
         showQuestion(nextQuestion);
     }
 }
