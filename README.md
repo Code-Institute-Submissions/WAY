@@ -129,6 +129,14 @@ Part of this was having a array like collection which led to me not being able t
 
 Solution: Change the `document.querySelector` to be `document.querySelectorAll()` and use `for loops` so the answers where actually being appended to the amount of buttons that where needed.
 
+Bug Name: Some loops in the questions weren't leading to a 'null no yes' solution but seemed infinite. 
+
+Solution: Found out which question wasn't referring to the right ID number and fixed that. 
+
+Bug name: The restart function wasn't working. This one had my head spinning and was very easy to solve! 
+
+Solution: Install a code spell checker... It took a mentor to point to a spelling mistake in the word "answers"... Won't happen again; code spell checker installed. :thumbsup: 
+
 **From validation/testing**
 
 **From peer code review**
