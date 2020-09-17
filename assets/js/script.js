@@ -19,7 +19,7 @@ $(document).ready(function () {
        });
    }
 
-    fetchData("shared.json");
+    fetchData("questions.json");
 });
 
 /**
