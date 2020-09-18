@@ -4,6 +4,7 @@
 const questionRef = document.querySelector('#question-info');
 const answerButtonRef = document.querySelectorAll('.answer-button');
 const resultButtonRef = document.querySelector('#result-info');
+const imageRef = document.querySelectorAll('.image');
 let quiz;
 
 
@@ -63,20 +64,25 @@ const showQuestion = (questionIndex)=>{
             } else {
                 answerButtonRef[i].classList.add("hide");
             }
-            }
+            };
            
-        }
-    //  answerButtonRef.innerHTML = ``;
-    //       document.getElementById("answer-btns").innerHTML +=
-    //           `<img src="${questions.answers.source}" class="img h-75 w-75">
-    //          `;
+        
+           
+
+
+    const images = questions.answers.source;
+     for (let i = 0; i > imageRef.length; i ++) {
+          if(questions.answers.source) {
+              if(i < images.length) {
+              imageRef[i].classlist.remove("hide");
+              imageRef[i].innerHTML = images[i].source;
+              } else {
+                  imageRef[i].classList.add("hide");    
+              }
+              }    
+          } 
+}
 };
-
-  
-;
-//answers.source
-
-
 
 /**
  * Function to get
