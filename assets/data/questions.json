@@ -96,12 +96,12 @@
         "answers": [
             {
                 "text": "Undead",
-                "source": "assets\\images\\undead.png",
+                "source": "../images/undead.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "source": "assets\\images\\troll.png",
+                "source": "../images/troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -126,17 +126,17 @@
         "answers": [
             {
                 "text": "Orcs",
-                "source": "assets\\images\\orcs.png",
+                "source": "../images/orcs.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Tauren",
-                "source": "assets\\images\\tauren.png",
+                "source": "../images/tauren.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "source": "assets\\images\\troll.png",
+                "source": "../images/troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -161,17 +161,17 @@
         "answers": [
             {
                 "text": "Orcs",
-                "source": "assets\\images\\orcs.png",
+                "source": "../images/orcs.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Tauren",
-                "source": "assets\\images\\tauren.png",
+                "source": "../images/tauren.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "source": "assets\\images\\troll.png",
+                "source": "../images/troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -210,17 +210,17 @@
         "answers": [
             {
                 "text": "Orc",
-                "source": "assets\\images\\orcs.png",
+                "source": "../images/orcs.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Tauren",
-                "source": "assets\\images\\tauren.png",
+                "source": "../images/tauren.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "source": "assets\\images\\troll.png",
+                "source": "../images/troll.png",
                 "nextQuestionId": null
             }      
         ]
@@ -245,12 +245,12 @@
         "answers": [
             {
                 "text": "Undead",
-                "source": "assets\\images\\undead.png",
+                "source": "../images/undead.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "source": "assets\\images\\troll.png",
+                "source": "../images/troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -276,12 +276,12 @@
         "answers": [
             {
                 "text": "Undead",
-                "source": "assets\\images\\undead.png",
+                "source": "../images/undead.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "source": "assets\\images\\troll.png",
+                "source": "../images/troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -306,17 +306,17 @@
         "answers": [
             {
                 "text": "Undead",
-                "source": "assets\\images\\undead.png",
+                "source": "../images/undead.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "source": "assets\\images\\troll.png",
+                "source": "../images/troll.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Orc",
-                "source": "assets\\images\\orcs.png",
+                "source": "../images/orcs.png",
                 "nextQuestionId": null
             }
         ]
@@ -341,17 +341,17 @@
         "answers": [
             {
                 "text": "Tauren",
-                "source": "assets\\images\\tauren.png",
+                "source": "../images/tauren.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "source": "assets\\images\\troll.png",
+                "source": "../images/troll.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Orc",
-                "source": "assets\\images\\orcs.png",
+                "source": "../images/orcs.png",
                 "nextQuestionId": null
             }
         ]
@@ -376,12 +376,12 @@
         "answers": [
             {
                 "text": "Orc",
-                "source": "assets\\images\\orcs.png",
+                "source": "../images/orcs.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Undead",
-                "source": "assets\\images\\undead.png",
+                "source": "../images/undead.png",
                 "nextQuestionId": null
             }
         ]
@@ -406,22 +406,22 @@
         "answers": [
             {
                 "text": "Orc",
-                "source": "assets\\images\\orcs.png",
+                "source": "../images/orcs.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Undead",
-                "source": "assets\\images\\undead.png",
+                "source": "../images/undead.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Tauren",
-                "source": "assets\\images\\tauren.png",
+                "source": "../images/tauren.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "source": "assets\\images\\troll.png",
+                "source": "../images/troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -460,22 +460,22 @@
         "answers": [
             {
                 "text": "Orc",
-                "source": "assets\\images\\orcs.png",
+                "source": "../images/orcs.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Undead",
-                "source": "assets\\images\\undead.png",
+                "source": "../images/undead.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Tauren",
-                "source": "assets\\images\\tauren.png",
+                "source": "../images/tauren.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "source": "assets\\images\\troll.png",
+                "source": "../images/troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -514,12 +514,12 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\\images\\dwarf.png",
+                "source": "../images/dwarf.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "source": "assets\\images\\human.png",
+                "source": "../images/human.png",
                 "nextQuestionId": null
             }
         ]
@@ -544,17 +544,17 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\\images\\dwarf.png",
+                "source": "../images/dwarf.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "source": "assets\\images\\human.png",
+                "source": "../images/human.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Night Elves",
-                "source": "assets\\images\\nightelf.png",
+                "source": "../images/nightelf.png",
                 "nextQuestionId": null
             }
         ]
@@ -593,12 +593,12 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\\images\\dwarf.png",
+                "source": "../images/dwarf.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Night Elves",
-                "source": "assets\\images\\nightelf.png",
+                "source": "../images/nightelf.png",
                 "nextQuestionId": null
             }
         ]
@@ -623,12 +623,12 @@
         "answers": [
             {
                 "text": "Gnome",
-                "source": "assets\\images\\gnome.png",
+                "source": "../images/gnome.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "source": "assets\\images\\human.png",
+                "source": "../images/human.png",
                 "nextQuestionId": null
             }
         ]
@@ -653,12 +653,12 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\\images\\dwarf.png",
+                "source": "../images/dwarf.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "source": "assets\\images\\human.png",
+                "source": "../images/human.png",
                 "nextQuestionId": null
             }
         ]
@@ -683,17 +683,17 @@
         "answers": [
             {
                 "text": "Human",
-                "source": "assets\\images\\human.png",
+                "source": "../images/human.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Dwarf",
-                "source": "assets\\images\\dwarf.png",
+                "source": "../images/dwarf.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Night Elves",
-                "source": "assets\\images\\nightelf.png",
+                "source": "../images/nightelf.png",
                 "nextQuestionId": null
             }
         ]
@@ -718,22 +718,22 @@
          "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\\images\\dwarf.png",
+                "source": "../images/dwarf.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "source": "assets\\images\\human.png",
+                "source": "../images/human.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Night Elves",
-                "source": "assets\\images\\nightelf.png",
+                "source": "../images/nightelf.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Gnome",
-                "source": "assets\\images\\gnome.png",
+                "source": "../images/gnome.png",
                 "nextQuestionId": null
             }
         ]
@@ -758,12 +758,12 @@
          "answers": [
             {
                 "text": "Human",
-                "source": "assets\\images\\human.png",
+                "source": "../images/human.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Gnome",
-                "source": "assets\\images\\gnome.png",
+                "source": "../images/gnome.png",
                 "nextQuestionId": null
             }
         ]
@@ -788,17 +788,17 @@
          "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\\images\\dwarf.png",
+                "source": "../images/dwarf.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "source": "assets\\images\\human.png",
+                "source": "../images/human.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Gnome",
-                "source": "assets\\images\\gnome.png",
+                "source": "../images/gnome.png",
                 "nextQuestionId": null
             }
         ]
@@ -837,12 +837,12 @@
          "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\\images\\dwarf.png",
+                "source": "../images/dwarf.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "source": "assets\\images\\human.png",
+                "source": "../images/human.png",
                 "nextQuestionId": null
             }
         ]
@@ -867,22 +867,22 @@
          "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\\images\\dwarf.png",
+                "source": "../images/dwarf.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Human",
-                "source": "assets\\images\\human.png",
+                "source": "../images/human.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Night Elves",
-                "source": "assets\\images\\nightelf.png",
+                "source": "../images/nightelf.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Gnome",
-                "source": "assets\\images\\gnome.png",
+                "source": "../images/gnome.png",
                 "nextQuestionId": null
             }
         ]

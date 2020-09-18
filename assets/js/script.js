@@ -58,11 +58,16 @@ const showQuestion = (questionIndex)=>{
             if(i < answerStrings.length) {
                 answerButtonRef[i].classList.remove("hide");
                 answerButtonRef[i].innerText = answerStrings[i].text;
+                
                 answerButtonRef[i].dataset.nextQuestion = answerStrings[i].nextQuestionId;
             } else {
                 answerButtonRef[i].classList.add("hide");
             }
             }
+            answerButtonRef.innerHTML = ``;
+            document.getElementById("answer-btns").innerHTML +=
+                `<img src="${questions.answers.source}" class="img h-75 w-75">
+                `;
         }
 };
 
