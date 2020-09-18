@@ -96,12 +96,12 @@
         "answers": [
             {
                 "text": "Undead",
-                "source": "../images/undead.png",
+                "source": "./images/undead.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "source": "../images/troll.png",
+                "source": "./images/troll.png",
                 "nextQuestionId": null
             }
         ]
@@ -126,17 +126,17 @@
         "answers": [
             {
                 "text": "Orcs",
-                "source": "../images/orcs.png",
+                "source": "./images/orcs.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Tauren",
-                "source": "../images/tauren.png",
+                "source": "./images/tauren.png",
                 "nextQuestionId": null
             },
             {
                 "text": "Troll",
-                "source": "../images/troll.png",
+                "source": "./images/troll.png",
                 "nextQuestionId": null
             }
         ]
