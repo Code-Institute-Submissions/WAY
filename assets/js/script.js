@@ -14,7 +14,7 @@ $(document).ready(function () {
     $("#landing-page, #question").toggle(); 
    });
    for (let i = 0; i < answerButtonRef.length; i++){
-       console.log("for");
+    //   console.log("for");
        answerButtonRef[i].addEventListener("click", function (e) {
            selectAnswer(e.target.dataset.nextQuestion);
        });
@@ -53,7 +53,9 @@ $(document).ready(function () {
 const showQuestion = (questionIndex)=>{
     const questions = quiz.find(questions=>questions.id===questionIndex);
     const answerStrings = questions.answers;
+    const images = questions.answers.source;
     questionRef.innerHTML = questions.question;
+
     for (let i = 0; i < answerButtonRef.length; i++) {
         if(questions.answers) {
             if(i < answerStrings.length) {
@@ -70,9 +72,11 @@ const showQuestion = (questionIndex)=>{
            
 
 
-    const images = questions.answers.source;
-     for (let i = 0; i > imageRef.length; i ++) {
+    
+     for (let i = 0; i < imageRef.length; i ++) {
+         console.log(imageRef.length);
           if(questions.answers.source) {
+              console.log(questions.answers.source);
               if(i < images.length) {
               imageRef[i].classlist.remove("hide");
               imageRef[i].innerHTML = images[i].source;
@@ -91,15 +95,15 @@ const showQuestion = (questionIndex)=>{
 
 //ToDo Make arrow function
 function selectAnswer(id) {
-    console.log(selectAnswer, id);
+  //  console.log(selectAnswer, id);
     nextQuestion = parseInt(id, 10);    
     if (nextQuestion <= 0) {
-    console.log(showQuestion);
+  //  console.log(showQuestion);
     
         showQuestion(1);
     }
     else {
-        console.log(showQuestion. nextQuestion)
+  //      console.log(showQuestion. nextQuestion)
         showQuestion(nextQuestion);
     }
 }
