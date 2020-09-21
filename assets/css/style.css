@@ -37,6 +37,7 @@ body {
     color: #fff;
     background-color: #f7b10a;
     border-color: #f7b10a;
+    box-shadow:none;
 }
 .btn-outline-danger,
 .btn-outline-danger:hover
@@ -44,6 +45,7 @@ body {
     color: #fff;
     border-color: #f7b10a;
     background-color: #f7b10a;
+    box-shadow: none;
 }
 
 /* Styling for game container section */
@@ -58,6 +60,10 @@ body {
 /* Styling for results container section */
 #result-info {
     color: white;  
+}
+.image {
+    width: 9vw;
+    height: auto;
 }
 
 /* Social media buttons */

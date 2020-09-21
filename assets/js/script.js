@@ -33,7 +33,7 @@ $(document).ready(function () {
   return fetch(`assets/data/${jsonFile}`)
     .then((res) => res.json())
     .then((gameFile)=>{
-        console.log(gameFile);
+  //      console.log(gameFile);
         quiz=gameFile;
         showQuestion(1);
     })
@@ -53,7 +53,7 @@ $(document).ready(function () {
 const showQuestion = (questionIndex)=>{
     const questions = quiz.find(questions=>questions.id===questionIndex);
     const answerStrings = questions.answers;
-    const images = questions.answers.source;
+   
     questionRef.innerHTML = questions.question;
 
     for (let i = 0; i < answerButtonRef.length; i++) {
@@ -70,22 +70,25 @@ const showQuestion = (questionIndex)=>{
            
         
            
-
-
+/* When an image is available, this will make it visible in the DOM */
+const images = questions.answers;
     
      for (let i = 0; i < imageRef.length; i ++) {
-         console.log(imageRef.length);
-          if(questions.answers.source) {
-              console.log(questions.answers.source);
+       // console.log(imageRef.length);
+          if(questions.answers) {
+           //   console.log(questions.answers.source);
               if(i < images.length) {
-              imageRef[i].classlist.remove("hide");
-              imageRef[i].innerHTML = images[i].source;
+                 // console.log(images);
+              imageRef[i].classList.remove("hide");
+              imageRef[i].innerHTML = '<img src="'+images[i].source+'" class="image">';
+              
               } else {
                   imageRef[i].classList.add("hide");    
               }
               }    
           } 
-}
+        
+    }
 };
 
 /**
