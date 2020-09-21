@@ -87,7 +87,7 @@ const showQuestion = (questionIndex) => {
  * the next question by id
  */
 
-const selectAnswer=(id) => {
+const selectAnswer = (id) => {
     //  console.log(selectAnswer, id);
     nextQuestion = parseInt(id, 10);
     if (nextQuestion <= 0) {
