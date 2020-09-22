@@ -2,16 +2,16 @@
 [
     {
         "id": 1,
-        "question": "Pick a color",
+        "question": "Which scenario you like best?",
         "answers": [
             {
-                "text": "Red",
+                "text": "Your home world is destroyed. All you want is a save space to raise your children.",
                 "nextQuestionId": 2,
                 "faction": "Horde"
                 
             },
             {
-                "text": "Blue",
+                "text": "You try to keep your home world save from outside evil forces, together with your fellow alliance members",
                 "nextQuestionId": 3,
                 "faction": "Alliance"
             }
