@@ -1,6 +1,11 @@
 /* Google font import link */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:ital,wght@0,400;0,700;1,600&display=swap');
 
+@font-face {
+    font-family: 'lifeCraft';
+    src: url('../css/fonts/lifeCraft.ttf');
+}
+
 /* General body styling */
 html {
     scroll-behavior: smooth;
@@ -17,17 +22,30 @@ body {
     font-family: "Montserrat";
     font-size: 62.5%;
     overflow-x: hidden;
+    position: relative;
 }
 
+.bold-text-logo {
+    
+    font-family: 'lifeCraft';
+    font-size: 4rem;
+    color: #f7b10a;
+    background: rgba(0, 0, 0, 0.7);
+}
 .bold-text {
     color: #f7b10a;
+    background: rgba(0, 0, 0, 0.7);
+    
 }
 /* Styling for images */
 .img-fluid {
     max-width: 50vh;
     height: auto;
 }
-
+.image {
+    width: 9vw;
+    height: auto;
+}
 /* Button styling */
 .btn-danger,
 .btn-danger:hover,
@@ -49,26 +67,22 @@ body {
 }
 
 /* Styling for game container section */
-
 #quiz-questions {
     background: rgba(0, 0, 0, 0.7);
-    border: 1px solid #dc3545;
+    width: 80vh;
 }
 #question-info {
     color: #f7b10a;
 }
+
 /* Styling for results container section */
 #quiz-results {
     background: rgba(0, 0, 0, 0.7);
-    border: 1px solid #dc3545;
 }
 #result-info {
     color: #f7b10a;  
 }
-.image {
-    width: 9vw;
-    height: auto;
-}
+
 
 /* Social media buttons */
 /*Taken from and adjusted to my likings: https://codepen.io/yancy/pen/qyMdod*/

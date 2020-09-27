@@ -13,7 +13,9 @@ const imageRef = document.querySelectorAll('.image');
  */ 
 let quiz;
 
+
 $(document).ready(function () {
+    $("#WAY").fadeIn("slow");
     $("#quiz-questions, #result").toggle();
         $("#start-btn").click(function () {
         $("#landing-page, #quiz-questions").toggle();
