@@ -58,8 +58,12 @@ body {
     color: #f7b10a;
 }
 /* Styling for results container section */
+#quiz-results {
+    background: rgba(0, 0, 0, 0.7);
+    border: 1px solid #dc3545;
+}
 #result-info {
-    color: white;  
+    color: #f7b10a;  
 }
 .image {
     width: 9vw;
