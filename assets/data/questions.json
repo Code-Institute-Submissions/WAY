@@ -883,7 +883,7 @@
             },
             {
                 "text": "Gnome",
-                "source": "assets\/images\/gnome.png",
+                "source": "assets\/images\/crests\/gnome.png",
                 "nextQuestionId": 55
             }
         ]

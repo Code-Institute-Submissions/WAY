@@ -14,9 +14,9 @@ const imageRef = document.querySelectorAll('.image');
 let quiz;
 
 $(document).ready(function () {
-    $("#question, #result").toggle();
+    $("#quiz-questions, #result").toggle();
         $("#start-btn").click(function () {
-        $("#landing-page, #question").toggle();
+        $("#landing-page, #quiz-questions").toggle();
     });
     for (let i = 0; i < answerButtonRef.length; i++) {
         answerButtonRef[i].addEventListener("click", function (e) {
