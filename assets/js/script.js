@@ -5,6 +5,12 @@ const questionRef = document.querySelector('#question-info');
 const answerButtonRef = document.querySelectorAll('.answer-button');
 const resultButtonRef = document.querySelector('#result-info');
 const imageRef = document.querySelectorAll('.image');
+/** 
+ * const factionRef = document.querySelector('#faction');
+ * const roleRef = document.querySelector('#role');
+ * const classRef = document.querySelector('#class');
+ * const raceRef = document.querySelector('#race');
+ */ 
 let quiz;
 
 $(document).ready(function () {
@@ -20,7 +26,33 @@ $(document).ready(function () {
     fetchData("questions.json");
 });
 
-/**
+
+
+ /** Attempt for double fetch
+  * 
+  * const fetchData = (both) => {
+  * return fetch(`assets/data/${both}.json`)
+  * .then((res)=> res.json())
+  * .catch.catch((err) => console.log(err));
+  * };
+  * 
+  * const questionJSON = fetchData('questions');
+  * const resultsJSON = fetchData('results');
+  * 
+  * questionJSON.then((data) => {
+  * 
+  * code goes here
+  * 
+  * });
+  * 
+  * resultsJSON.then((data) => {
+  * 
+  * code goes here
+  * 
+  * });
+  */
+
+  /**
  * Fetch for shared 
  * questions at start 
  * game 
@@ -89,4 +121,20 @@ const selectAnswer = (id) => {
     } else {
         showQuestion(nextQuestion);
     }
-}
+};
+
+/**
+ * Function for getting the results
+ * 
+ * const finalResults = (results) => {
+ *      const faction = results.faction;
+ * 
+ *      const role = results.role;
+ * 
+ *      const class = results.class;
+ * 
+ *      const race  = results.race; 
+ * 
+ * 
+ * }
+ */
