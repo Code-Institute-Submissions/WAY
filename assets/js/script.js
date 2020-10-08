@@ -23,6 +23,14 @@ $(document).ready(function () {
     for (let i = 0; i < answerButtonRef.length; i++) {
         answerButtonRef[i].addEventListener("click", function (e) {
             selectAnswer(e.target.dataset.nextQuestion);
+            /**
+             * change color on button click faction
+             * if (this.innerText==="Red") {
+             * $('question').css('color' ,'Red');
+             *  } else {
+             * $('question').css('color', 'Blue;);
+             * }
+             */
         });
     }
     fetchData("questions.json");
@@ -127,6 +135,7 @@ const selectAnswer = (id) => {
 
 /**
  * Function for getting the results
+ * let result = sessionStorage.getItem something?
  * 
  * const finalResults = (results) => {
  *      const faction = results.faction;
