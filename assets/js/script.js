@@ -31,35 +31,40 @@ $(document).ready(function () {
 
 
 
- /** Attempt for double fetch
-  * 
-  * const fetchData = (both) => {
-  * return fetch(`assets/data/${both}.json`)
-  * .then((res)=> res.json())
-  * .catch.catch((err) => console.log(err));
-  * };
-  * 
-  * const questionJSON = fetchData('questions');
-  * const resultsJSON = fetchData('results');
-  * 
-  * questionJSON.then((data) => {
-  * 
-  * code goes here
-  * 
-  * });
-  * 
-  * resultsJSON.then((data) => {
-  * 
-  * code goes here
-  * 
-  * });
-  */
+/**  Attempt for double fetch */
+   
+   const fetchData = (both) => {
+   return fetch(`assets/data/${both}.json`)
+   .then((res)=> res.json())
+    .then((gameFile) => {
+    quiz = gameFile;
+    showQuestion(1);
+   
+   })
+   .catch((err) => console.log(err));
+   
+   const questionJSON = fetchData('questions');
+   const resultsJSON = fetchData('results');
+   
+   questionJSON.then((data) => {
+   
+ 
+   
+   });
+   
+   /**
+   resultsJSON.then((data) => {
+   
+   code for getting and displaying results goes here
+   
+   });
+  
 
   /**
  * Fetch for shared 
  * questions at start 
  * game 
- */
+ 
 const fetchData = (jsonFile) => {
     return fetch(`assets/data/${jsonFile}`)
         .then((res) => res.json())
@@ -69,6 +74,8 @@ const fetchData = (jsonFile) => {
         })
         .catch((err) => console.log(err));
 };
+
+*/
 
 /**
  * Function to get the
