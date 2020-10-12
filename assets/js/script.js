@@ -42,48 +42,15 @@ $(document).ready(function () {
    
    })
    .catch((err) => console.log(err));
-   
-   const questionJSON = fetchData('questions');
-   const resultsJSON = fetchData('results');
+
+   const questionJSON = fetchData('questions.json');
+   /*const resultsJSON = fetchData('results.json');*/
+
+   /*Code for questions*/
    
    questionJSON.then((data) => {
    
- 
-   
-   });
-   
-   /**
-   resultsJSON.then((data) => {
-   
-   code for getting and displaying results goes here
-   
-   });
-  
-
-  /**
- * Fetch for shared 
- * questions at start 
- * game 
- 
-const fetchData = (jsonFile) => {
-    return fetch(`assets/data/${jsonFile}`)
-        .then((res) => res.json())
-        .then((gameFile) => {
-            quiz = gameFile;
-            showQuestion(1);
-        })
-        .catch((err) => console.log(err));
-};
-
-*/
-
-/**
- * Function to get the
- * first question and answers
- * and inject them into their 
- * HTML element
- */
-const showQuestion = (questionIndex) => {
+    const showQuestion = (questionIndex) => {
     const questions = quiz.find(questions => questions.id === questionIndex);
     const answerStrings = questions.answers;
 
@@ -132,9 +99,16 @@ const selectAnswer = (id) => {
         showQuestion(nextQuestion);
     }
 };
-
+   }
+   )};
+   
 /**
- * Function for getting the results
+* 
+* Function for getting the results
+* 
+* resultsJSON.then((data) => {
+   
+
  * let result = sessionStorage.getItem something?
  * 
  * const finalResults = (results) => {
@@ -144,8 +118,88 @@ const selectAnswer = (id) => {
  * 
  *      const class = results.class;
  * 
- *      const race  = results.race; 
- * 
- * 
- * }
- */
+ *      const race  = results.race;
+   
+   });
+  */
+
+
+
+/*Old code, dont remove yet!*/
+
+  /**
+ * Fetch for shared 
+ * questions at start 
+ * game 
+ 
+const fetchData = (jsonFile) => {
+    return fetch(`assets/data/${jsonFile}`)
+        .then((res) => res.json())
+        .then((gameFile) => {
+            quiz = gameFile;
+            showQuestion(1);
+        })
+        .catch((err) => console.log(err));
+};
+
+
+
+
+ * Function to get the
+ * first question and answers
+ * and inject them into their 
+ * HTML element
+ 
+const showQuestion = (questionIndex) => {
+    const questions = quiz.find(questions => questions.id === questionIndex);
+    const answerStrings = questions.answers;
+
+    questionRef.innerHTML = questions.question;
+    for (let i = 0; i < answerButtonRef.length; i++) {
+        if (questions.answers) {
+            if (i < answerStrings.length) {
+                answerButtonRef[i].classList.remove("hide");
+                answerButtonRef[i].innerText = answerStrings[i].text;
+
+                answerButtonRef[i].dataset.nextQuestion = answerStrings[i].nextQuestionId;
+            } else {
+                answerButtonRef[i].classList.add("hide");
+            }
+        };
+    }
+    
+// When an image is available, this will make it visible in the DOM 
+    const answers = questions.answers;
+    for (let i = 0; i < imageRef.length; i++) {
+        if (i < answers.length) {
+            if (answers[i].source != null){
+                imageRef[i].classList.remove("hide");
+                imageRef[i].innerHTML = '<img src="' + answers[i].source + '" class="image">';
+            }
+            else {
+// This is for when answers don't have sources
+                imageRef[i].classList.add("hide");
+            }  
+        }   else {
+// This is for when there are fewer answers than imageRefs
+            imageRef[i].classList.add("hide");
+        }
+    }
+};
+
+
+ * Function to get
+ * the next question by id
+ 
+const selectAnswer = (id) => {
+    nextQuestion = parseInt(id, 10);
+    if (nextQuestion <= 0) {
+        showQuestion(1);
+    } else {
+        showQuestion(nextQuestion);
+    }
+};
+   }
+    });
+
+    */
