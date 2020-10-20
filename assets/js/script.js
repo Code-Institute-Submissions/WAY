@@ -25,7 +25,7 @@ $(document).ready(function() {
 
         });
     }
-    fetchData("questions.json");
+   /* fetchData("questions.json"); */
 });
 
 
@@ -34,13 +34,13 @@ $(document).ready(function() {
 
 const fetchData = (both) => {
     return fetch(`assets/data/${both}.json`)
-    .then(res => res.text())          // convert to plain text
-  .then(text => console.log(text))
-     /*   .then((res) => res.json()) */
+
+      .then((res) => res.json())
         .then((gameFile) => {
+            console.log(quiz)
             quiz = gameFile;
             showQuestion(1);
-
+            
         })
         .catch((err) => console.log(err));
 
@@ -52,6 +52,7 @@ const fetchData = (both) => {
     questionJSON.then((data) => {
 
         const showQuestion = (questionIndex) => {
+        
             const questions = quiz.find(questions => questions
                 .id === questionIndex);
             const answerStrings = questions.answers;
