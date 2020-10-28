@@ -913,7 +913,13 @@
         "role": "Healer",
         "class":"Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
         "race": "Human. Recent discoveries have shown that humans are descended from the barbaric vrykul, half-giant warriors who live in Northrend. Early humans were primarily a scattered and tribal people for several millennia, until the rising strength of the troll empire forced their strategic unification. Thus the nation of Arathor was formed, along with its capital, the city-state of Strom.",
-        "source": "assets\/images\/results\/humanpriest.jpg"
+        "source": "assets\/images\/results\/humanpriest.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 57,
@@ -921,7 +927,13 @@
         "role": "Healer",
         "class": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
         "race": "Human. Recent discoveries have shown that humans are descended from the barbaric vrykul, half-giant warriors who live in Northrend. Early humans were primarily a scattered and tribal people for several millennia, until the rising strength of the troll empire forced their strategic unification. Thus the nation of Arathor was formed, along with its capital, the city-state of Strom.",
-        "source": "assets\/images\/results\/humanpaladin.jpg"
+        "source": "assets\/images\/results\/humanpaladin.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 58,
@@ -929,7 +941,13 @@
         "role": "Healer",
         "class": "Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
         "race": "Dwarf. The bold and courageous dwarves are an ancient race descended from the earthen—beings of living stone created by the titans when the world was young. Due to a strange malady known as the curse of flesh, the dwarves' earthen progenitors underwent a transformation that turned their rocky hides into soft skin. Ultimately, these creatures of flesh and blood dubbed themselves dwarves and carved out the mighty city of Ironforge in the snowy peaks of Khaz Modan.",
-        "source": "assets\/images\/results\/dwarfpriest.jpg"
+        "source": "assets\/images\/results\/dwarfpriest.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 59,
@@ -937,7 +955,13 @@
         "role": "Healer",
         "class": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
         "race":  "Dwarf. The bold and courageous dwarves are an ancient race descended from the earthen—beings of living stone created by the titans when the world was young. Due to a strange malady known as the curse of flesh, the dwarves' earthen progenitors underwent a transformation that turned their rocky hides into soft skin. Ultimately, these creatures of flesh and blood dubbed themselves dwarves and carved out the mighty city of Ironforge in the snowy peaks of Khaz Modan.",
-        "source": "assets\/images\/results\/dwarfpaladin.jpg"
+        "source": "assets\/images\/results\/dwarfpaladin.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 60,
@@ -945,7 +969,13 @@
         "role": "Healer",
         "class": "Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
         "race": "Night Elf. The ancient and reclusive night elves have played a pivotal role in shaping Azeroth's fate throughout its history. More than ten thousand years ago, their heroics during the War of the Ancients helped stave off the demonic Burning Legion's first invasion. When the scattered remnants of the Legion on Azeroth rallied together with the vile satyrs centuries later, the night elves again rose to meet the threat. The ensuing War of the Satyr exacted a heavy toll from the night elves, but ultimately they vanquished the forces that had set out to wreak havoc on their world.",
-        "source": "assets\/images\/results\/nightelfpriest.jpg"
+        "source": "assets\/images\/results\/nightelfpriest.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 61,
@@ -953,7 +983,13 @@
         "role": "Healer",
         "class": "Druid",
         "race": "Night elf. The ancient and reclusive night elves have played a pivotal role in shaping Azeroth's fate throughout its history. More than ten thousand years ago, their heroics during the War of the Ancients helped stave off the demonic Burning Legion's first invasion. When the scattered remnants of the Legion on Azeroth rallied together with the vile satyrs centuries later, the night elves again rose to meet the threat. The ensuing War of the Satyr exacted a heavy toll from the night elves, but ultimately they vanquished the forces that had set out to wreak havoc on their world.",
-        "source": "assets\/images\/results\/nightelfdruid.jpg"
+        "source": "assets\/images\/results\/nightelfdruid.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 62,
@@ -961,7 +997,13 @@
         "role": "Tank",
         "class": "Paladin.This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
         "race": "Human. Recent discoveries have shown that humans are descended from the barbaric vrykul, half-giant warriors who live in Northrend. Early humans were primarily a scattered and tribal people for several millennia, until the rising strength of the troll empire forced their strategic unification. Thus the nation of Arathor was formed, along with its capital, the city-state of Strom.",
-        "source": "assets\/images\/results\/humanpaladin.jpg"
+        "source": "assets\/images\/results\/humanpaladin.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 63,
@@ -969,15 +1011,27 @@
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Human. Human. Recent discoveries have shown that humans are descended from the barbaric vrykul, half-giant warriors who live in Northrend. Early humans were primarily a scattered and tribal people for several millennia, until the rising strength of the troll empire forced their strategic unification. Thus the nation of Arathor was formed, along with its capital, the city-state of Strom.",
-        "source": "assets\/images\/results\/humanwarrior.png"
+        "source": "assets\/images\/results\/humanwarrior.png",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
-        "id": 64,
+       "id": 64,
         "faction": "Alliance",
         "role": "Tank",
         "class": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
         "race": "Dwarf. The bold and courageous dwarves are an ancient race descended from the earthen—beings of living stone created by the titans when the world was young. Due to a strange malady known as the curse of flesh, the dwarves' earthen progenitors underwent a transformation that turned their rocky hides into soft skin. Ultimately, these creatures of flesh and blood dubbed themselves dwarves and carved out the mighty city of Ironforge in the snowy peaks of Khaz Modan",
-        "source": "assets\/images\/results\/dwarfpaladin.jpg"
+        "source": "assets\/images\/results\/dwarfpaladin.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 65,
@@ -985,7 +1039,13 @@
         "role": "Tank",
         "class": "Druid",
         "race": "Night Elf. The ancient and reclusive night elves have played a pivotal role in shaping Azeroth's fate throughout its history. More than ten thousand years ago, their heroics during the War of the Ancients helped stave off the demonic Burning Legion's first invasion. When the scattered remnants of the Legion on Azeroth rallied together with the vile satyrs centuries later, the night elves again rose to meet the threat. The ensuing War of the Satyr exacted a heavy toll from the night elves, but ultimately they vanquished the forces that had set out to wreak havoc on their world.",
-        "source": "assets\/images\/results\/nightelfdruid.jpg"
+        "source": "assets\/images\/results\/nightelfdruid.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 66,
@@ -993,7 +1053,13 @@
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Night Elf. The ancient and reclusive night elves have played a pivotal role in shaping Azeroth's fate throughout its history. More than ten thousand years ago, their heroics during the War of the Ancients helped stave off the demonic Burning Legion's first invasion. When the scattered remnants of the Legion on Azeroth rallied together with the vile satyrs centuries later, the night elves again rose to meet the threat. The ensuing War of the Satyr exacted a heavy toll from the night elves, but ultimately they vanquished the forces that had set out to wreak havoc on their world.",
-        "source": "assets\/images\/results\/nightelfwarrior.jpg"
+        "source": "assets\/images\/results\/nightelfwarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 67,
@@ -1001,7 +1067,13 @@
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Gnome. The clever, spunky, and oftentimes eccentric gnomes present a unique paradox among the civilized races of Azeroth. Brilliant inventors with an irrepressibly cheerful disposition, this race has suffered treachery, displacement, and near-genocide. It is their remarkable optimism in the face of such calamity that symbolizes the truly unshakable spirit of the gnomes.",
-        "source": "assets\/images\/results\/gnomewarrior.jpg"
+        "source": "assets\/images\/results\/gnomewarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 68,
@@ -1009,7 +1081,13 @@
         "role": "DPS",
         "class":"Mage. Students gifted with a keen intellect and unwavering discipline may walk the path of the Mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, magi can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze.",
         "race": "Human. Recent discoveries have shown that humans are descended from the barbaric vrykul, half-giant warriors who live in Northrend. Early humans were primarily a scattered and tribal people for several millennia, until the rising strength of the troll empire forced their strategic unification. Thus the nation of Arathor was formed, along with its capital, the city-state of Strom.",
-        "source": "assets\/images\/results\/humanmage.jpg"
+        "source": "assets\/images\/results\/humanmage.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 69,
@@ -1017,7 +1095,13 @@
         "role": "DPS",
         "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
         "race": "Human. Recent discoveries have shown that humans are descended from the barbaric vrykul, half-giant warriors who live in Northrend. Early humans were primarily a scattered and tribal people for several millennia, until the rising strength of the troll empire forced their strategic unification. Thus the nation of Arathor was formed, along with its capital, the city-state of Strom.",
-        "source": "assets\/images\/results\/humanrogue.jpg"
+        "source": "assets\/images\/results\/humanrogue.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 70,
@@ -1025,7 +1109,14 @@
         "role": "DPS",
         "class": "Warlock. In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of Imps, but as a warlock's knowledge grows, seductive Succubi, loyal Voidwalkers, and horrific Felhunters join the dark sorcerer's ranks to wreak havoc on anyone who stands in their master's way.",
         "race": "Human. Recent discoveries have shown that humans are descended from the barbaric vrykul, half-giant warriors who live in Northrend. Early humans were primarily a scattered and tribal people for several millennia, until the rising strength of the troll empire forced their strategic unification. Thus the nation of Arathor was formed, along with its capital, the city-state of Strom.",
-        "source": "assets\/images\/results\/humanwarlock.jpg"
+        "source": "assets\/images\/results\/humanwarlock.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
+    
     },
     {
         "id": 71,
@@ -1033,7 +1124,13 @@
         "role": "DPS",
         "class": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
         "race":  "Human. Recent discoveries have shown that humans are descended from the barbaric vrykul, half-giant warriors who live in Northrend. Early humans were primarily a scattered and tribal people for several millennia, until the rising strength of the troll empire forced their strategic unification. Thus the nation of Arathor was formed, along with its capital, the city-state of Strom.",
-        "source": "assets\/images\/results\/humanpaladin.jpg"
+        "source": "assets\/images\/results\/humanpaladin.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 72,
@@ -1041,7 +1138,13 @@
         "role": "DPS",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Human. Recent discoveries have shown that humans are descended from the barbaric vrykul, half-giant warriors who live in Northrend. Early humans were primarily a scattered and tribal people for several millennia, until the rising strength of the troll empire forced their strategic unification. Thus the nation of Arathor was formed, along with its capital, the city-state of Strom.",
-        "source": "assets\/images\/results\/humanwarrior.png"
+        "source": "assets\/images\/results\/humanwarrior.png",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 73,
@@ -1049,7 +1152,13 @@
         "role": "DPS",
         "class": "Druid. Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash nature's raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.",
         "race": "Night elf. The ancient and reclusive night elves have played a pivotal role in shaping Azeroth's fate throughout its history. More than ten thousand years ago, their heroics during the War of the Ancients helped stave off the demonic Burning Legion's first invasion. When the scattered remnants of the Legion on Azeroth rallied together with the vile satyrs centuries later, the night elves again rose to meet the threat. The ensuing War of the Satyr exacted a heavy toll from the night elves, but ultimately they vanquished the forces that had set out to wreak havoc on their world.",
-        "source": "assets\/images\/results\/nightelfdruid.jpg"
+        "source": "assets\/images\/results\/nightelfdruid.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 74,
@@ -1057,7 +1166,13 @@
         "role": "DPS",
         "class": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies.",
         "race": "Night elf. The ancient and reclusive night elves have played a pivotal role in shaping Azeroth's fate throughout its history. More than ten thousand years ago, their heroics during the War of the Ancients helped stave off the demonic Burning Legion's first invasion. When the scattered remnants of the Legion on Azeroth rallied together with the vile satyrs centuries later, the night elves again rose to meet the threat. The ensuing War of the Satyr exacted a heavy toll from the night elves, but ultimately they vanquished the forces that had set out to wreak havoc on their world.",
-        "source": "assets\/images\/results\/nightelfhunter.jpg"
+        "source": "assets\/images\/results\/nightelfhunter.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 75,
@@ -1065,7 +1180,13 @@
         "role": "DPS",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Night elf. The ancient and reclusive night elves have played a pivotal role in shaping Azeroth's fate throughout its history. More than ten thousand years ago, their heroics during the War of the Ancients helped stave off the demonic Burning Legion's first invasion. When the scattered remnants of the Legion on Azeroth rallied together with the vile satyrs centuries later, the night elves again rose to meet the threat. The ensuing War of the Satyr exacted a heavy toll from the night elves, but ultimately they vanquished the forces that had set out to wreak havoc on their world.",
-        "source": "assets\/images\/results\/nightelfwarrior.jpg"
+        "source": "assets\/images\/results\/nightelfwarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 76,
@@ -1081,7 +1202,13 @@
         "role": "DPS",
         "class": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies",
         "race": "Dwarf. The bold and courageous dwarves are an ancient race descended from the earthen—beings of living stone created by the titans when the world was young. Due to a strange malady known as the curse of flesh, the dwarves' earthen progenitors underwent a transformation that turned their rocky hides into soft skin. Ultimately, these creatures of flesh and blood dubbed themselves dwarves and carved out the mighty city of Ironforge in the snowy peaks of Khaz Modan.",
-        "source": "assets\/images\/results\/dwarfhunter.jpg"
+        "source": "assets\/images\/results\/dwarfhunter.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 78,
@@ -1089,7 +1216,13 @@
         "role": "DPS",
         "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
         "race": "Dwarf. The bold and courageous dwarves are an ancient race descended from the earthen—beings of living stone created by the titans when the world was young. Due to a strange malady known as the curse of flesh, the dwarves' earthen progenitors underwent a transformation that turned their rocky hides into soft skin. Ultimately, these creatures of flesh and blood dubbed themselves dwarves and carved out the mighty city of Ironforge in the snowy peaks of Khaz Modan.",
-        "source": "assets\/images\/results\/dwarfrogue.jpg"
+        "source": "assets\/images\/results\/dwarfrogue.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 79,
@@ -1097,7 +1230,13 @@
         "role": "DPS",
         "class": "Warlock. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Dwarf. The bold and courageous dwarves are an ancient race descended from the earthen—beings of living stone created by the titans when the world was young. Due to a strange malady known as the curse of flesh, the dwarves' earthen progenitors underwent a transformation that turned their rocky hides into soft skin. Ultimately, these creatures of flesh and blood dubbed themselves dwarves and carved out the mighty city of Ironforge in the snowy peaks of Khaz Modan.",
-        "source": "assets\/images\/results\/dwarfwarlock.jpg"
+        "source": "assets\/images\/results\/dwarfwarlock.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 80,
@@ -1105,7 +1244,13 @@
         "role": "DPS",
         "class": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
         "race": "Dwarf. The bold and courageous dwarves are an ancient race descended from the earthen—beings of living stone created by the titans when the world was young. Due to a strange malady known as the curse of flesh, the dwarves' earthen progenitors underwent a transformation that turned their rocky hides into soft skin. Ultimately, these creatures of flesh and blood dubbed themselves dwarves and carved out the mighty city of Ironforge in the snowy peaks of Khaz Modan.",
-        "source": "assets\/images\/results\/dwarfpaladin.jpg"
+        "source": "assets\/images\/results\/dwarfpaladin.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 81,
@@ -1113,7 +1258,13 @@
         "role": "DPS",
         "class": "Mage. Students gifted with a keen intellect and unwavering discipline may walk the path of the Mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, magi can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze.",
         "race": "Gnome. The clever, spunky, and oftentimes eccentric gnomes present a unique paradox among the civilized races of Azeroth. Brilliant inventors with an irrepressibly cheerful disposition, this race has suffered treachery, displacement, and near-genocide. It is their remarkable optimism in the face of such calamity that symbolizes the truly unshakable spirit of the gnomes.",
-        "source": "assets\/images\/results\/gnomemage.jpg"
+        "source": "assets\/images\/results\/gnomemage.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 82,
@@ -1121,7 +1272,13 @@
         "role": "DPS",
         "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
         "race": "Gnome. The clever, spunky, and oftentimes eccentric gnomes present a unique paradox among the civilized races of Azeroth. Brilliant inventors with an irrepressibly cheerful disposition, this race has suffered treachery, displacement, and near-genocide. It is their remarkable optimism in the face of such calamity that symbolizes the truly unshakable spirit of the gnomes.",
-        "source": "assets\/images\/results\/gnomerogue.jpg"
+        "source": "assets\/images\/results\/gnomerogue.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 83,
@@ -1129,7 +1286,13 @@
         "role": "DPS",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Gnome. The clever, spunky, and oftentimes eccentric gnomes present a unique paradox among the civilized races of Azeroth. Brilliant inventors with an irrepressibly cheerful disposition, this race has suffered treachery, displacement, and near-genocide. It is their remarkable optimism in the face of such calamity that symbolizes the truly unshakable spirit of the gnomes.",
-        "source": "assets\/images\/results\/gnomewarrior.jpg"
+        "source": "assets\/images\/results\/gnomewarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 84,
@@ -1137,7 +1300,13 @@
         "role": "DPS",
         "class": "Warlock. In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of Imps, but as a warlock's knowledge grows, seductive Succubi, loyal Voidwalkers, and horrific Felhunters join the dark sorcerer's ranks to wreak havoc on anyone who stands in their master's way.",
         "race": "Gnome. The clever, spunky, and oftentimes eccentric gnomes present a unique paradox among the civilized races of Azeroth. Brilliant inventors with an irrepressibly cheerful disposition, this race has suffered treachery, displacement, and near-genocide. It is their remarkable optimism in the face of such calamity that symbolizes the truly unshakable spirit of the gnomes.",
-        "source": "assets\/images\/results\/gnomewarlock.jpg"
+        "source": "assets\/images\/results\/gnomewarlock.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 85,
@@ -1145,7 +1314,13 @@
         "role": "Healer",
         "class":"Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
         "race": "Troll. The savage trolls of Azeroth are infamous for their cruelty, dark mysticism, and seething hatred for all other races. Yet one exception among the trolls is the Darkspear tribe and its cunning leader, Vol'jin. Plagued by a history of subservience and exile, this proud tribe was on the brink of extinction when Warchief Thrall and his mighty Horde forces were driven to the trolls' remote island home in the South Seas during a violent storm.",
-        "source": "assets\/images\/results\/trollpriest.jpg"
+        "source": "assets\/images\/results\/trollpriest.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 86,
@@ -1153,7 +1328,13 @@
         "role": "Healer",
         "class": "Druid. Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash nature's raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.",
         "race": "Tauren. The peaceful tauren — known in their own tongue as the Shu'halo — have long dwelled in Kalimdor, striving to preserve the balance of nature at the behest of their goddess, the Earth Mother. Until recently, the tauren lived as nomads scattered throughout the Barrens, hunting the great kodo beasts native to the arid region.",
-        "source": "assets\/images\/results\/taurendruid.jpg"
+        "source": "assets\/images\/results\/taurendruid.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 87,
@@ -1161,7 +1342,13 @@
         "role": "Healer",
         "class": "Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
         "race": "Undead. Death offered no escape for the scores of humans killed during the Lich King's campaign to scour the living from Lordaeron. Instead, the kingdom's fallen were risen into undeath as Scourge minions and forced to wage an unholy war against everything... and everyone... that they once held dear.",
-        "source": "assets\/images\/results\/undeadpriest.jpg"
+        "source": "assets\/images\/results\/undeadpriest.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 88,
@@ -1169,7 +1356,13 @@
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race":  "Troll. The savage trolls of Azeroth are infamous for their cruelty, dark mysticism, and seething hatred for all other races. Yet one exception among the trolls is the Darkspear tribe and its cunning leader, Vol'jin. Plagued by a history of subservience and exile, this proud tribe was on the brink of extinction when Warchief Thrall and his mighty Horde forces were driven to the trolls' remote island home in the South Seas during a violent storm.",
-        "source": "assets\/images\/results\/trollwarrior.jpg"
+        "source": "assets\/images\/results\/trollwarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 89,
@@ -1177,7 +1370,13 @@
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Orc. Unlike the other races of the Horde, orcs are not native to Azeroth. Initially, they lived as shamanic clans on the lush world of Draenor. They abandoned their peaceful culture when Kil'jaeden, a demon lord of the Burning Legion, corrupted the orcs and used them in his vengeful plot against the draenei, who were exiles from Kil'jaeden's homeworld.",
-        "source": "assets\/images\/results\/orcwarrior.jpg"
+        "source": "assets\/images\/results\/orcwarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 90,
@@ -1185,7 +1384,13 @@
         "role": "Tank",
         "class": "Druid. Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash nature's raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.",
         "race": "Tauren. The peaceful tauren—known in their own tongue as the shu'halo—have long dwelled in Kalimdor, striving to preserve the balance of nature at the behest of their goddess, the Earth Mother. Until recently, the tauren lived as nomads scattered throughout the Barrens, hunting the great kodo beasts native to the arid region.",
-        "source": "assets\/images\/results\/taurendruid.jpg"
+        "source": "assets\/images\/results\/taurendruid.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 91,
@@ -1193,7 +1398,13 @@
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Tauren. The peaceful tauren—known in their own tongue as the shu'halo—have long dwelled in Kalimdor, striving to preserve the balance of nature at the behest of their goddess, the Earth Mother. Until recently, the tauren lived as nomads scattered throughout the Barrens, hunting the great kodo beasts native to the arid region.",
-        "source": "assets\/images\/results\/taurenwarrior.jpg"
+        "source": "assets\/images\/results\/taurenwarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 92,
@@ -1201,7 +1412,13 @@
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Undead. Death offered no escape for the scores of humans killed during the Lich King's campaign to scour the living from Lordaeron. Instead, the kingdom's fallen were risen into undeath as Scourge minions and forced to wage an unholy war against everything... and everyone... that they once held dear.",
-        "source": "assets\/images\/results\/undeadwarrior.jpg"
+        "source": "assets\/images\/results\/undeadwarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 93,
@@ -1209,7 +1426,13 @@
         "role": "DPS",
         "class": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies.",
         "race": "Troll. The savage trolls of Azeroth are infamous for their cruelty, dark mysticism, and seething hatred for all other races. Yet one exception among the trolls is the Darkspear tribe and its cunning leader, Vol'jin. Plagued by a history of subservience and exile, this proud tribe was on the brink of extinction when Warchief Thrall and his mighty Horde forces were driven to the trolls' remote island home in the South Seas during a violent storm.",
-        "source": "assets\/images\/results\/trollhunter.jpg"
+        "source": "assets\/images\/results\/trollhunter.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 94,
@@ -1217,7 +1440,13 @@
         "role": "DPS",
         "class": "Mage. Students gifted with a keen intellect and unwavering discipline may walk the path of the Mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, magi can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze.",
         "race": "Troll. The savage trolls of Azeroth are infamous for their cruelty, dark mysticism, and seething hatred for all other races. Yet one exception among the trolls is the Darkspear tribe and its cunning leader, Vol'jin. Plagued by a history of subservience and exile, this proud tribe was on the brink of extinction when Warchief Thrall and his mighty Horde forces were driven to the trolls' remote island home in the South Seas during a violent storm.",
-        "source": "assets\/images\/results\/trollmage.jpg"
+        "source": "assets\/images\/results\/trollmage.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 95,
@@ -1225,7 +1454,13 @@
         "role": "DPS",
         "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
         "race": "Troll. The savage trolls of Azeroth are infamous for their cruelty, dark mysticism, and seething hatred for all other races. Yet one exception among the trolls is the Darkspear tribe and its cunning leader, Vol'jin. Plagued by a history of subservience and exile, this proud tribe was on the brink of extinction when Warchief Thrall and his mighty Horde forces were driven to the trolls' remote island home in the South Seas during a violent storm.",
-        "source": "assets\/images\/results\/trollrogue.jpg"
+        "source": "assets\/images\/results\/trollrogue.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 96,
@@ -1233,7 +1468,13 @@
         "role": "DPS",
         "class": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
         "race": "Troll. The savage trolls of Azeroth are infamous for their cruelty, dark mysticism, and seething hatred for all other races. Yet one exception among the trolls is the Darkspear tribe and its cunning leader, Vol'jin. Plagued by a history of subservience and exile, this proud tribe was on the brink of extinction when Warchief Thrall and his mighty Horde forces were driven to the trolls' remote island home in the South Seas during a violent storm.",
-        "source": "assets\/images\/results\/trollshaman.jpg"
+        "source": "assets\/images\/results\/trollshaman.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 97,
@@ -1241,7 +1482,13 @@
         "role": "DPS",
         "class":"Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Troll. The savage trolls of Azeroth are infamous for their cruelty, dark mysticism, and seething hatred for all other races. Yet one exception among the trolls is the Darkspear tribe and its cunning leader, Vol'jin. Plagued by a history of subservience and exile, this proud tribe was on the brink of extinction when Warchief Thrall and his mighty Horde forces were driven to the trolls' remote island home in the South Seas during a violent storm.",
-        "source": "assets\/images\/results\/trollwarrior.jpg"
+        "source": "assets\/images\/results\/trollwarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 98,
@@ -1249,7 +1496,13 @@
         "role": "DPS",
         "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
         "race": "Orc. Unlike the other races of the Horde, orcs are not native to Azeroth. Initially, they lived as shamanic clans on the lush world of Draenor. They abandoned their peaceful culture when Kil'jaeden, a demon lord of the Burning Legion, corrupted the orcs and used them in his vengeful plot against the draenei, who were exiles from Kil'jaeden's homeworld.",
-        "source": "assets\/images\/results\/orcrogue.jpg"
+        "source": "assets\/images\/results\/orcrogue.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 99,
@@ -1257,7 +1510,13 @@
         "role": "DPS",
         "class": "Warlock. In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of Imps, but as a warlock's knowledge grows, seductive Succubi, loyal Voidwalkers, and horrific Felhunters join the dark sorcerer's ranks to wreak havoc on anyone who stands in their master's way.",
         "race": "Orc. Unlike the other races of the Horde, orcs are not native to Azeroth. Initially, they lived as shamanic clans on the lush world of Draenor. They abandoned their peaceful culture when Kil'jaeden, a demon lord of the Burning Legion, corrupted the orcs and used them in his vengeful plot against the draenei, who were exiles from Kil'jaeden's homeworld.",
-        "source": "assets\/images\/results\/orcwarlock.jpg"
+        "source": "assets\/images\/results\/orcwarlock.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 100,
@@ -1265,7 +1524,13 @@
         "role": "DPS",
         "class": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
         "race":  "Orc. Unlike the other races of the Horde, orcs are not native to Azeroth. Initially, they lived as shamanic clans on the lush world of Draenor. They abandoned their peaceful culture when Kil'jaeden, a demon lord of the Burning Legion, corrupted the orcs and used them in his vengeful plot against the draenei, who were exiles from Kil'jaeden's homeworld.",
-        "source": "assets\/images\/results\/orcshaman.jpg"
+        "source": "assets\/images\/results\/orcshaman.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 101,
@@ -1273,7 +1538,13 @@
         "role": "DPS",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Orc. Unlike the other races of the Horde, orcs are not native to Azeroth. Initially, they lived as shamanic clans on the lush world of Draenor. They abandoned their peaceful culture when Kil'jaeden, a demon lord of the Burning Legion, corrupted the orcs and used them in his vengeful plot against the draenei, who were exiles from Kil'jaeden's homeworld.",
-        "source": "assets\/images\/results\/orcwarrior.jpg"
+        "source": "assets\/images\/results\/orcwarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 102,
@@ -1281,7 +1552,13 @@
         "role": "DPS",
         "class": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies.",
         "race": "Orc. Unlike the other races of the Horde, orcs are not native to Azeroth. Initially, they lived as shamanic clans on the lush world of Draenor. They abandoned their peaceful culture when Kil'jaeden, a demon lord of the Burning Legion, corrupted the orcs and used them in his vengeful plot against the draenei, who were exiles from Kil'jaeden's homeworld.",
-        "source": "assets\/images\/results\/orchunter.jpg"
+        "source": "assets\/images\/results\/orchunter.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 103,
@@ -1289,7 +1566,13 @@
         "role": "DPS",
         "class": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies.",
         "race": "Tauren. The peaceful tauren—known in their own tongue as the shu'halo—have long dwelled in Kalimdor, striving to preserve the balance of nature at the behest of their goddess, the Earth Mother. Until recently, the tauren lived as nomads scattered throughout the Barrens, hunting the great kodo beasts native to the arid region.",
-        "source": "assets\/images\/results\/taurenhunter.jpg"
+        "source": "assets\/images\/results\/taurenhunter.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 104,
@@ -1297,7 +1580,13 @@
         "role": "DPS",
         "class": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
         "race": "Tauren. The peaceful tauren—known in their own tongue as the shu'halo—have long dwelled in Kalimdor, striving to preserve the balance of nature at the behest of their goddess, the Earth Mother. Until recently, the tauren lived as nomads scattered throughout the Barrens, hunting the great kodo beasts native to the arid region.",
-        "source": "assets\/images\/results\/taurenshaman.jpg"
+        "source": "assets\/images\/results\/taurenshaman.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 105,
@@ -1305,7 +1594,13 @@
         "role": "DPS",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Tauren. The peaceful tauren—known in their own tongue as the shu'halo—have long dwelled in Kalimdor, striving to preserve the balance of nature at the behest of their goddess, the Earth Mother. Until recently, the tauren lived as nomads scattered throughout the Barrens, hunting the great kodo beasts native to the arid region.",
-        "source": "assets\/images\/results\/taurenwarrior.jpg"
+        "source": "assets\/images\/results\/taurenwarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 106,
@@ -1313,7 +1608,13 @@
         "role": "DPS",
         "class": "Mage. Students gifted with a keen intellect and unwavering discipline may walk the path of the Mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, magi can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze.",
         "race": "Undead. Death offered no escape for the scores of humans killed during the Lich King's campaign to scour the living from Lordaeron. Instead, the kingdom's fallen were risen into undeath as Scourge minions and forced to wage an unholy war against everything... and everyone... that they once held dear.",
-        "source": "assets\/images\/results\/undeadmage.jpg"
+        "source": "assets\/images\/results\/undeadmage.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 107,
@@ -1321,7 +1622,13 @@
         "role": "DPS",
         "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
         "race": "Undead. Death offered no escape for the scores of humans killed during the Lich King's campaign to scour the living from Lordaeron. Instead, the kingdom's fallen were risen into undeath as Scourge minions and forced to wage an unholy war against everything... and everyone... that they once held dear.",
-        "source": "assets\/images\/results\/undeadrogue.jpg"
+        "source": "assets\/images\/results\/undeadrogue.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 108,
@@ -1329,7 +1636,13 @@
         "role": "DPS",
         "class": "Warlock. In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of Imps, but as a warlock's knowledge grows, seductive Succubi, loyal Voidwalkers, and horrific Felhunters join the dark sorcerer's ranks to wreak havoc on anyone who stands in their master's way.",
         "race": "Undead. Death offered no escape for the scores of humans killed during the Lich King's campaign to scour the living from Lordaeron. Instead, the kingdom's fallen were risen into undeath as Scourge minions and forced to wage an unholy war against everything... and everyone... that they once held dear.",
-        "source": "assets\/images\/results\/undeadwarlock.jpg"
+        "source": "assets\/images\/results\/undeadwarlock.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     },
     {
         "id": 109,
@@ -1337,7 +1650,13 @@
         "role": "DPS",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Undead. Death offered no escape for the scores of humans killed during the Lich King's campaign to scour the living from Lordaeron. Instead, the kingdom's fallen were risen into undeath as Scourge minions and forced to wage an unholy war against everything... and everyone... that they once held dear.",
-        "source": "assets\/images\/results\/undeadwarrior.jpg"
+        "source": "assets\/images\/results\/undeadwarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     }
 
 
