@@ -69,7 +69,7 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestionId": 55
+                "nextQuestionId": 86
             },
             {
                 "text": "No",
@@ -98,12 +98,12 @@
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 87
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 85
             }
         ]
     },
@@ -128,17 +128,17 @@
             {
                 "text": "Orcs",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 88
             },
             {
                 "text": "Tauren",
                 "source": "assets\/images\/crests\/tauren.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 89
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 90
             }
         ]
     },
@@ -163,17 +163,17 @@
             {
                 "text": "Orcs",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 105
             },
             {
                 "text": "Tauren",
                 "source": "assets\/images\/crests\/tauren.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 106
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 96
             }
         ]
     },
@@ -183,7 +183,7 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestionId": 55
+                "nextQuestionId": 93
             },
             {
                 "text": "No",
@@ -212,17 +212,17 @@
             {
                 "text": "Orc",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 105
             },
             {
                 "text": "Tauren",
                 "source": "assets\/images\/crests\/tauren.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 106
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 96
             }      
         ]
     },
@@ -247,12 +247,12 @@
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 109
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 97
             }
         ]
     },
@@ -278,12 +278,12 @@
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 113
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 114
             }
         ]
     },
@@ -308,17 +308,17 @@
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 110
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 98
             },
             {
                 "text": "Orc",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 101
             }
         ]
     },
@@ -343,17 +343,17 @@
             {
                 "text": "Tauren",
                 "source": "assets\/images\/crests\/tauren.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 109
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 99
             },
             {
                 "text": "Orc",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 103
             }
         ]
     },
@@ -378,12 +378,12 @@
             {
                 "text": "Orc",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 102
             },
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 111
             }
         ]
     },
@@ -408,22 +408,22 @@
             {
                 "text": "Orc",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 104
             },
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 112
             },
             {
                 "text": "Tauren",
                 "source": "assets\/images\/crests\/tauren.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 108
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 100
             }
         ]
     },
@@ -433,7 +433,7 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestionId": 55
+                "nextQuestionId": 93
             },
             {
                 "text": "No",
@@ -462,22 +462,22 @@
             {
                 "text": "Orc",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 92
             },
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 95
             },
             {
                 "text": "Tauren",
                 "source": "assets\/images\/crests\/tauren.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 94
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 91
             }
         ]
     }, 
@@ -487,7 +487,7 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestionId": 55
+                "nextQuestionId": 61
             },
             {
                 "text": "No",
@@ -516,12 +516,12 @@
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 59
             },
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 57
             }
         ]
     },
@@ -546,17 +546,17 @@
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 58
             },
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 56
             },
             {
                 "text": "Night Elves",
                 "source": "assets\/images\/crests\/nightelf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 60
             }
         ]
     },
@@ -566,7 +566,7 @@
         "answers": [
             {   
                 "text": "Yes",
-                "nextQuestionId": 55
+                "nextQuestionId": 73
             },
             {
                 "text": "No",
@@ -595,12 +595,12 @@
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 77
             },
             {
                 "text": "Night Elves",
                 "source": "assets\/images\/crests\/nightelf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 74
             }
         ]
     },
@@ -625,12 +625,12 @@
             {
                 "text": "Gnome",
                 "source": "assets\/images\/crests\/gnome.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 81
             },
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 68
             }
         ]
     },
@@ -655,12 +655,12 @@
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 80
             },
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 71
             }
         ]
     },
@@ -685,17 +685,17 @@
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 85
             },
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 86
             },
             {
                 "text": "Night Elves",
                 "source": "assets\/images\/crests\/nightelf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 87
             }
         ]
     },
@@ -716,26 +716,26 @@
     {
         "id": 44,
         "question": "Which icon you like best?",
-         "answers": [
+        "answers": [
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 77
             },
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 69
             },
             {
                 "text": "Night Elves",
                 "source": "assets\/images\/crests\/nightelf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 75
             },
             {
                 "text": "Gnome",
                 "source": "assets\/images\/crests\/gnome.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 81
             }
         ]
     },
@@ -756,16 +756,16 @@
     {
         "id": 46,
         "question": "Which icon you like best?",
-         "answers": [
+        "answers": [
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 70
             },
             {
                 "text": "Gnome",
                 "source": "assets\/images\/crests\/gnome.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 83
             }
         ]
     },
@@ -786,21 +786,21 @@
     {
         "id": 48,
         "question": "Which icon you like best?",
-         "answers": [
+        "answers": [
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 86
             },
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 72
             },
             {
                 "text": "Gnome",
                 "source": "assets\/images\/crests\/gnome.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 82
             }
         ]
     },
@@ -810,7 +810,7 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestionId": 55
+                "nextQuestionId": 65
             },
             {
                 "text": "No",
@@ -835,16 +835,16 @@
     {
         "id": 51,
         "question": "Which icon you like best?",
-         "answers": [
+        "answers": [
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 64
             },
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 62
             }
         ]
     },
@@ -865,26 +865,26 @@
     {
         "id": 53,
         "question": "Which icon you like best?",
-         "answers": [
+        "answers": [
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 68
             },
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 63
             },
             {
                 "text": "Night Elves",
                 "source": "assets\/images\/crests\/nightelf.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 66
             },
             {
                 "text": "Gnome",
                 "source": "assets\/images\/crests\/gnome.png",
-                "nextQuestionId": 55
+                "nextQuestionId": 67
             }
         ]
     },
@@ -900,15 +900,6 @@
     },
     {
         "id": 55,
-        "question": "This is the moment you have been waiting for! Are you ready?",
-        "answers": [
-            {
-                "text": "Show me the result!"
-            }
-        ]
-    },
-    {
-        "id": 56,
         "faction": "Alliance",
         "role": "Healer",
         "class":"Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -922,7 +913,7 @@
         ]
     },
     {
-        "id": 57,
+        "id": 56,
         "faction": "Alliance",
         "role": "Healer",
         "class": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -936,7 +927,7 @@
         ]
     },
     {
-        "id": 58,
+        "id": 57,
         "faction": "Alliance",
         "role": "Healer",
         "class": "Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -950,7 +941,7 @@
         ]
     },
     {
-        "id": 59,
+        "id": 58,
         "faction": "Alliance",
         "role": "Healer",
         "class": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -964,7 +955,7 @@
         ]
     },
     {
-        "id": 60,
+        "id": 59,
         "faction": "Alliance",
         "role": "Healer",
         "class": "Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -978,7 +969,7 @@
         ]
     },
     {
-        "id": 61,
+        "id": 60,
         "faction": "Alliance",
         "role": "Healer",
         "class": "Druid",
@@ -992,7 +983,7 @@
         ]
     },
     {
-        "id": 62,
+        "id": 61,
         "faction": "Alliance",
         "role": "Tank",
         "class": "Paladin.This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -1006,7 +997,7 @@
         ]
     },
     {
-        "id": 63,
+        "id": 62,
         "faction": "Alliance",
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1020,7 +1011,7 @@
         ]
     },
     {
-       "id": 64,
+        "id": 63,
         "faction": "Alliance",
         "role": "Tank",
         "class": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -1034,7 +1025,7 @@
         ]
     },
     {
-        "id": 65,
+        "id": 64,
         "faction": "Alliance",
         "role": "Tank",
         "class": "Druid",
@@ -1048,7 +1039,7 @@
         ]
     },
     {
-        "id": 66,
+        "id": 65,
         "faction": "Alliance",
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1062,12 +1053,26 @@
         ]
     },
     {
-        "id": 67,
+        "id": 66,
         "faction": "Alliance",
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Gnome. The clever, spunky, and oftentimes eccentric gnomes present a unique paradox among the civilized races of Azeroth. Brilliant inventors with an irrepressibly cheerful disposition, this race has suffered treachery, displacement, and near-genocide. It is their remarkable optimism in the face of such calamity that symbolizes the truly unshakable spirit of the gnomes.",
         "source": "assets\/images\/results\/gnomewarrior.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "faction": "Alliance",
+        "role": "Tank",
+        "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
+        "race": "Dwarf. The bold and courageous dwarves are an ancient race descended from the earthen—beings of living stone created by the titans when the world was young. Due to a strange malady known as the curse of flesh, the dwarves' earthen progenitors underwent a transformation that turned their rocky hides into soft skin. Ultimately, these creatures of flesh and blood dubbed themselves dwarves and carved out the mighty city of Ironforge in the snowy peaks of Khaz Modan.",
+        "source": "assets\/images\/results\/dwarfwarrior.jpg",
         "answers": [
             { 
                 "text": "Try again!",
@@ -1178,26 +1183,12 @@
         "id": 75,
         "faction": "Alliance",
         "role": "DPS",
-        "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
-        "race": "Night elf. The ancient and reclusive night elves have played a pivotal role in shaping Azeroth's fate throughout its history. More than ten thousand years ago, their heroics during the War of the Ancients helped stave off the demonic Burning Legion's first invasion. When the scattered remnants of the Legion on Azeroth rallied together with the vile satyrs centuries later, the night elves again rose to meet the threat. The ensuing War of the Satyr exacted a heavy toll from the night elves, but ultimately they vanquished the forces that had set out to wreak havoc on their world.",
-        "source": "assets\/images\/results\/nightelfwarrior.jpg",
-        "answers": [
-            { 
-                "text": "Try again!",
-                "nextQuestionId": -1
-            }
-        ]
-    },
-    {
-        "id": 76,
-        "faction": "Alliance",
-        "role": "DPS",
         "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
         "race": "Night elf. The ancient and reclusive night elves have played a pivotal role in shaping Azeroth's fate throughout its history. More than ten thousand years ago, their heroics during the War of the Ancients helped stave off the demonic Burning Legion's first invasion. When the scattered remnants of the Legion on Azeroth rallied together with the vile satyrs centuries later, the night elves again rose to meet the threat. The ensuing War of the Satyr exacted a heavy toll from the night elves, but ultimately they vanquished the forces that had set out to wreak havoc on their world.",
         "source": "assets\/images\/results\/nightelfrogue.jpg"
     },
     {
-        "id": 77,
+        "id": 76,
         "faction": "Alliance",
         "role": "DPS",
         "class": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies",
@@ -1211,7 +1202,7 @@
         ]
     },
     {
-        "id": 78,
+        "id": 77,
         "faction": "Alliance",
         "role": "DPS",
         "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
@@ -1225,21 +1216,7 @@
         ]
     },
     {
-        "id": 79,
-        "faction": "Alliance",
-        "role": "DPS",
-        "class": "Warlock. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
-        "race": "Dwarf. The bold and courageous dwarves are an ancient race descended from the earthen—beings of living stone created by the titans when the world was young. Due to a strange malady known as the curse of flesh, the dwarves' earthen progenitors underwent a transformation that turned their rocky hides into soft skin. Ultimately, these creatures of flesh and blood dubbed themselves dwarves and carved out the mighty city of Ironforge in the snowy peaks of Khaz Modan.",
-        "source": "assets\/images\/results\/dwarfwarlock.jpg",
-        "answers": [
-            { 
-                "text": "Try again!",
-                "nextQuestionId": -1
-            }
-        ]
-    },
-    {
-        "id": 80,
+        "id": 78,
         "faction": "Alliance",
         "role": "DPS",
         "class": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -1253,7 +1230,7 @@
         ]
     },
     {
-        "id": 81,
+        "id": 79,
         "faction": "Alliance",
         "role": "DPS",
         "class": "Mage. Students gifted with a keen intellect and unwavering discipline may walk the path of the Mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, magi can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze.",
@@ -1267,7 +1244,7 @@
         ]
     },
     {
-        "id": 82,
+        "id": 80,
         "faction": "Alliance",
         "role": "DPS",
         "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
@@ -1281,7 +1258,7 @@
         ]
     },
     {
-        "id": 83,
+        "id": 81,
         "faction": "Alliance",
         "role": "DPS",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1295,7 +1272,7 @@
         ]
     },
     {
-        "id": 84,
+        "id": 82,
         "faction": "Alliance",
         "role": "DPS",
         "class": "Warlock. In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of Imps, but as a warlock's knowledge grows, seductive Succubi, loyal Voidwalkers, and horrific Felhunters join the dark sorcerer's ranks to wreak havoc on anyone who stands in their master's way.",
@@ -1309,7 +1286,63 @@
         ]
     },
     {
+        "id": 83,
+        "faction": "Alliance",
+        "role": "DPS",
+        "class": "Priest. Priests are devoted to the spiritual, and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
+        "race": "Human. The clever, spunky, and oftentimes eccentric gnomes present a unique paradox among the civilized races of Azeroth. Brilliant inventors with an irrepressibly cheerful disposition, this race has suffered treachery, displacement, and near-genocide. It is their remarkable optimism in the face of such calamity that symbolizes the truly unshakable spirit of the gnomes.",
+        "source": "assets\/images\/results\/humanpriest.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "faction": "Alliance",
+        "role": "DPS",
+        "class": "Priest. Priests are devoted to the spiritual, and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
+        "race": "Dwarf. The bold and courageous dwarves are an ancient race descended from the earthen—beings of living stone created by the titans when the world was young. Due to a strange malady known as the curse of flesh, the dwarves' earthen progenitors underwent a transformation that turned their rocky hides into soft skin. Ultimately, these creatures of flesh and blood dubbed themselves dwarves and carved out the mighty city of Ironforge in the snowy peaks of Khaz Modan.",
+        "source": "assets\/images\/results\/dwarfpriest.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
+    },
+    {
         "id": 85,
+        "faction": "Alliance",
+        "role": "DPS",
+        "class": "Priest. Priests are devoted to the spiritual, and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
+        "race": "Night Elf. The ancient and reclusive night elves have played a pivotal role in shaping Azeroth's fate throughout its history. More than ten thousand years ago, their heroics during the War of the Ancients helped stave off the demonic Burning Legion's first invasion. When the scattered remnants of the Legion on Azeroth rallied together with the vile satyrs centuries later, the night elves again rose to meet the threat. The ensuing War of the Satyr exacted a heavy toll from the night elves, but ultimately they vanquished the forces that had set out to wreak havoc on their world.",
+        "source": "assets\/images\/results\/nightelfpriest.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "faction": "Alliance",
+        "role": "DPS",
+        "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
+        "race": "Dwarf. The bold and courageous dwarves are an ancient race descended from the earthen—beings of living stone created by the titans when the world was young. Due to a strange malady known as the curse of flesh, the dwarves' earthen progenitors underwent a transformation that turned their rocky hides into soft skin. Ultimately, these creatures of flesh and blood dubbed themselves dwarves and carved out the mighty city of Ironforge in the snowy peaks of Khaz Modan.",
+        "source": "assets\/images\/results\/nightelfpriest.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
+    },
+    {
+        "id": 87,
         "faction": "Horde",
         "role": "Healer",
         "class":"Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -1323,7 +1356,7 @@
         ]
     },
     {
-        "id": 86,
+        "id": 88,
         "faction": "Horde",
         "role": "Healer",
         "class": "Druid. Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash nature's raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.",
@@ -1337,7 +1370,7 @@
         ]
     },
     {
-        "id": 87,
+        "id": 89,
         "faction": "Horde",
         "role": "Healer",
         "class": "Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -1350,8 +1383,50 @@
             }
         ]
     },
+        {
+        "id": 90,
+        "faction": "Horde",
+        "role": "Healer",
+        "class": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
+        "race": "Orc. Unlike the other races of the Horde, orcs are not native to Azeroth. Initially, they lived as shamanic clans on the lush world of Draenor. They abandoned their peaceful culture when Kil'jaeden, a demon lord of the Burning Legion, corrupted the orcs and used them in his vengeful plot against the draenei, who were exiles from Kil'jaeden's homeworld.",
+        "source": "assets\/images\/results\/undeadpriest.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
+    },
+        {
+        "id": 91,
+        "faction": "Horde",
+        "role": "Healer",
+        "class": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
+        "race": "Tauren. The peaceful tauren—known in their own tongue as the shu'halo—have long dwelled in Kalimdor, striving to preserve the balance of nature at the behest of their goddess, the Earth Mother. Until recently, the tauren lived as nomads scattered throughout the Barrens, hunting the great kodo beasts native to the arid region.",
+        "source": "assets\/images\/results\/undeadpriest.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
+    },
+        {
+        "id": 92,
+        "faction": "Horde",
+        "role": "Healer",
+        "class": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
+        "race": "Troll. The savage trolls of Azeroth are infamous for their cruelty, dark mysticism, and seething hatred for all other races. Yet one exception among the trolls is the Darkspear tribe and its cunning leader, Vol'jin. Plagued by a history of subservience and exile, this proud tribe was on the brink of extinction when Warchief Thrall and his mighty Horde forces were driven to the trolls' remote island home in the South Seas during a violent storm.",
+        "source": "assets\/images\/results\/undeadpriest.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
+    },
     {
-        "id": 88,
+        "id": 93,
         "faction": "Horde",
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1365,7 +1440,7 @@
         ]
     },
     {
-        "id": 89,
+        "id": 94,
         "faction": "Horde",
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1379,7 +1454,7 @@
         ]
     },
     {
-        "id": 90,
+        "id": 95,
         "faction": "Horde",
         "role": "Tank",
         "class": "Druid. Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash nature's raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.",
@@ -1393,7 +1468,7 @@
         ]
     },
     {
-        "id": 91,
+        "id": 96,
         "faction": "Horde",
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1407,7 +1482,7 @@
         ]
     },
     {
-        "id": 92,
+        "id": 97,
         "faction": "Horde",
         "role": "Tank",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1421,7 +1496,7 @@
         ]
     },
     {
-        "id": 93,
+        "id": 98,
         "faction": "Horde",
         "role": "DPS",
         "class": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies.",
@@ -1435,7 +1510,7 @@
         ]
     },
     {
-        "id": 94,
+        "id": 99,
         "faction": "Horde",
         "role": "DPS",
         "class": "Mage. Students gifted with a keen intellect and unwavering discipline may walk the path of the Mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, magi can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze.",
@@ -1449,7 +1524,7 @@
         ]
     },
     {
-        "id": 95,
+        "id": 100,
         "faction": "Horde",
         "role": "DPS",
         "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
@@ -1463,7 +1538,7 @@
         ]
     },
     {
-        "id": 96,
+        "id": 101,
         "faction": "Horde",
         "role": "DPS",
         "class": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
@@ -1477,7 +1552,7 @@
         ]
     },
     {
-        "id": 97,
+        "id": 102,
         "faction": "Horde",
         "role": "DPS",
         "class":"Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1491,7 +1566,7 @@
         ]
     },
     {
-        "id": 98,
+        "id": 103,
         "faction": "Horde",
         "role": "DPS",
         "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
@@ -1505,7 +1580,7 @@
         ]
     },
     {
-        "id": 99,
+        "id": 104,
         "faction": "Horde",
         "role": "DPS",
         "class": "Warlock. In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of Imps, but as a warlock's knowledge grows, seductive Succubi, loyal Voidwalkers, and horrific Felhunters join the dark sorcerer's ranks to wreak havoc on anyone who stands in their master's way.",
@@ -1519,7 +1594,7 @@
         ]
     },
     {
-        "id": 100,
+        "id": 105,
         "faction": "Horde",
         "role": "DPS",
         "class": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
@@ -1533,7 +1608,7 @@
         ]
     },
     {
-        "id": 101,
+        "id": 106,
         "faction": "Horde",
         "role": "DPS",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1547,7 +1622,7 @@
         ]
     },
     {
-        "id": 102,
+        "id": 107,
         "faction": "Horde",
         "role": "DPS",
         "class": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies.",
@@ -1561,7 +1636,7 @@
         ]
     },
     {
-        "id": 103,
+        "id": 108,
         "faction": "Horde",
         "role": "DPS",
         "class": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies.",
@@ -1575,7 +1650,7 @@
         ]
     },
     {
-        "id": 104,
+        "id": 109,
         "faction": "Horde",
         "role": "DPS",
         "class": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
@@ -1589,7 +1664,7 @@
         ]
     },
     {
-        "id": 105,
+        "id": 110,
         "faction": "Horde",
         "role": "DPS",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1603,7 +1678,7 @@
         ]
     },
     {
-        "id": 106,
+        "id": 111,
         "faction": "Horde",
         "role": "DPS",
         "class": "Mage. Students gifted with a keen intellect and unwavering discipline may walk the path of the Mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, magi can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze.",
@@ -1617,7 +1692,7 @@
         ]
     },
     {
-        "id": 107,
+        "id": 112,
         "faction": "Horde",
         "role": "DPS",
         "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
@@ -1631,7 +1706,7 @@
         ]
     },
     {
-        "id": 108,
+        "id": 113,
         "faction": "Horde",
         "role": "DPS",
         "class": "Warlock. In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of Imps, but as a warlock's knowledge grows, seductive Succubi, loyal Voidwalkers, and horrific Felhunters join the dark sorcerer's ranks to wreak havoc on anyone who stands in their master's way.",
@@ -1645,7 +1720,7 @@
         ]
     },
     {
-        "id": 109,
+        "id": 114,
         "faction": "Horde",
         "role": "DPS",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1657,7 +1732,34 @@
                 "nextQuestionId": -1
             }
         ]
+    },
+{
+        "id": 115,
+        "faction": "Horde",
+        "role": "DPS",
+        "class": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
+        "race": "Undead. Death offered no escape for the scores of humans killed during the Lich King's campaign to scour the living from Lordaeron. Instead, the kingdom's fallen were risen into undeath as Scourge minions and forced to wage an unholy war against everything... and everyone... that they once held dear.",
+        "source": "assets\/images\/results\/undeadpaladin.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "faction": "Horde",
+        "role": "DPS",
+        "class": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
+        "race": "Troll. The savage trolls of Azeroth are infamous for their cruelty, dark mysticism, and seething hatred for all other races. Yet one exception among the trolls is the Darkspear tribe and its cunning leader, Vol'jin. Plagued by a history of subservience and exile, this proud tribe was on the brink of extinction when Warchief Thrall and his mighty Horde forces were driven to the trolls' remote island home in the South Seas during a violent storm.",
+        "source": "assets\/images\/results\/trollpaladin.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
     }
-
 
 ]
