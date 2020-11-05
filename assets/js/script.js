@@ -1,5 +1,5 @@
 //jshint esversion: 6
-//Some code structure ideas relating to how to display the next question and answer were referenced from: https://github.com/WebDevSimplified/JavaScript-Text-Adventure
+
 const questionRef = document.querySelector('#question-info');
 const answerButtonRef = document.querySelectorAll('.answer-button');
 const resultButtonRef = document.querySelector('#result-info');
@@ -34,7 +34,7 @@ $(document).ready(function() {
  * game 
  * 
  */
- 
+
 const fetchData = (jsonFile) => {
     return fetch(`assets/data/${jsonFile}`)
         .then((res) => res.json())
