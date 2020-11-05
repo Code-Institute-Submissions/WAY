@@ -433,7 +433,7 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestionId": 93
+                "nextQuestionId": 95
             },
             {
                 "text": "No",
@@ -1333,7 +1333,7 @@
         "role": "DPS",
         "class": "Warrior. For as long as war has raged, heroes from every race have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
         "race": "Dwarf. The bold and courageous dwarves are an ancient race descended from the earthen—beings of living stone created by the titans when the world was young. Due to a strange malady known as the curse of flesh, the dwarves' earthen progenitors underwent a transformation that turned their rocky hides into soft skin. Ultimately, these creatures of flesh and blood dubbed themselves dwarves and carved out the mighty city of Ironforge in the snowy peaks of Khaz Modan.",
-        "source": "assets\/images\/results\/nightelfpriest.jpg",
+        "source": "assets\/images\/results\/dwarfwarrior.jpg",
         "answers": [
             { 
                 "text": "Try again!",
@@ -1389,7 +1389,7 @@
         "role": "Healer",
         "class": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
         "race": "Orc. Unlike the other races of the Horde, orcs are not native to Azeroth. Initially, they lived as shamanic clans on the lush world of Draenor. They abandoned their peaceful culture when Kil'jaeden, a demon lord of the Burning Legion, corrupted the orcs and used them in his vengeful plot against the draenei, who were exiles from Kil'jaeden's homeworld.",
-        "source": "assets\/images\/results\/undeadpriest.jpg",
+        "source": "assets\/images\/results\/orcshaman.jpg",
         "answers": [
             { 
                 "text": "Try again!",
@@ -1403,7 +1403,7 @@
         "role": "Healer",
         "class": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
         "race": "Tauren. The peaceful tauren—known in their own tongue as the shu'halo—have long dwelled in Kalimdor, striving to preserve the balance of nature at the behest of their goddess, the Earth Mother. Until recently, the tauren lived as nomads scattered throughout the Barrens, hunting the great kodo beasts native to the arid region.",
-        "source": "assets\/images\/results\/undeadpriest.jpg",
+        "source": "assets\/images\/results\/taurenshaman.jpg",
         "answers": [
             { 
                 "text": "Try again!",
@@ -1417,7 +1417,7 @@
         "role": "Healer",
         "class": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
         "race": "Troll. The savage trolls of Azeroth are infamous for their cruelty, dark mysticism, and seething hatred for all other races. Yet one exception among the trolls is the Darkspear tribe and its cunning leader, Vol'jin. Plagued by a history of subservience and exile, this proud tribe was on the brink of extinction when Warchief Thrall and his mighty Horde forces were driven to the trolls' remote island home in the South Seas during a violent storm.",
-        "source": "assets\/images\/results\/undeadpriest.jpg",
+        "source": "assets\/images\/results\/trollshaman.jpg",
         "answers": [
             { 
                 "text": "Try again!",
@@ -1754,6 +1754,34 @@
         "class": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
         "race": "Troll. The savage trolls of Azeroth are infamous for their cruelty, dark mysticism, and seething hatred for all other races. Yet one exception among the trolls is the Darkspear tribe and its cunning leader, Vol'jin. Plagued by a history of subservience and exile, this proud tribe was on the brink of extinction when Warchief Thrall and his mighty Horde forces were driven to the trolls' remote island home in the South Seas during a violent storm.",
         "source": "assets\/images\/results\/trollpaladin.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "faction": "Horde",
+        "role": "DPS",
+        "class": "Druid. Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash nature's raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.",
+        "race": "Tauren. The peaceful tauren—known in their own tongue as the shu'halo—have long dwelled in Kalimdor, striving to preserve the balance of nature at the behest of their goddess, the Earth Mother. Until recently, the tauren lived as nomads scattered throughout the Barrens, hunting the great kodo beasts native to the arid region.",
+        "source": "assets\/images\/results\/taurendruid.jpg",
+        "answers": [
+            { 
+                "text": "Try again!",
+                "nextQuestionId": -1
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "faction": "Horde",
+        "role": "DPS",
+        "class": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
+        "race": "Tauren. The peaceful tauren—known in their own tongue as the shu'halo—have long dwelled in Kalimdor, striving to preserve the balance of nature at the behest of their goddess, the Earth Mother. Until recently, the tauren lived as nomads scattered throughout the Barrens, hunting the great kodo beasts native to the arid region.",
+        "source": "assets\/images\/results\/taurenrogue.jpg",
         "answers": [
             { 
                 "text": "Try again!",
