@@ -52,10 +52,10 @@
 	</section>
 
 <!-- Game Container -->
-    <section class="container-fluid" id="quiz-questions">
+    <section class="container-fluid" id="game-container">
         <div class="row justify-content-center">
             <div class="col-6 text-center">
-                <h3 class="text-center mt-3" id="question-info"></h3>
+                <h3 class="text-center mt-3" id="questions"></h3>
                     <div class="row justify-content-center align-items-center mb-4" id="answer-btns">
                             <div class="image col-12 mt-3"></div>
                                 <div class="col-12 text-center mt-3"><a href="#" class="btn btn-danger answer-button" data-next-question="" aria-label="Answer button">Answer 1</a></div>
@@ -68,29 +68,23 @@
                     </div>
             </div>
         </div>
-    </section>
-
-<!-- Result Container -->
-    <section class= "container-fluid" id="quiz-result">
-        <div class="row justify-content-center align-items-center mt-4">
-            <div class="col-6 text center">
-                <div class="result" id="result">
-                    <h3 class="text-center mt-3" id="result-info">Result are in!</h3>
-                        <div class="row justify-content-center align-items-center">
-                            <div class="faction" id="faction">Your faction is:</div>
-                                <div class="role" id="role">Your role is:</div>
-                                    <div class="class" id="class">Your class is:</div>
-                                        <div class="race" id="race">Your race is:</div>
-                        </div>
-                </div>
+        <div class="row justify-content-center" id="result">
+            <div class="col-6 text-center">
+                <h3 class="text-center mt-3" id="result-heading">Result are in!</h3>
+                    <div class="row justify-content-center align-items-center">
+                        <div class="faction" id="faction">Your faction is:</div>
+                            <div class="role" id="role">Your role is:</div>
+                                <div class="class" id="class">Your class is:</div>
+                                    <div class="race" id="race">Your race is:</div>
+                    </div>
             </div>
         </div>
 </section>
 
-<footer class="container-fluid">
-                                            <div class="btn_wrap">
+<footer class="container-fluid" id="btn_wrap">
+    <div class="row justify-content-center align-items-center mt-4 fixed-bottom">
                                                 <span>Social</span>
-                                                    <div class="container-fluid" id="social-btns">
+                                                    <div class="container-fluid">
                                                         <i class="fab fa-facebook-f"></i>
                                                         <i class="fab fa-twitter"></i>
                                                         <i class="fab fa-instagram"></i>

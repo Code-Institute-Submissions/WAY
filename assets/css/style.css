@@ -51,7 +51,7 @@ body {
 .btn-danger:hover,
 .btn-danger:not(:disabled):not(.disabled).active, .btn-danger:not(:disabled):not(.disabled):active, .show>.btn-danger.dropdown-toggle,
 .btn-danger.focus, .btn-danger:focus 
- {
+{
     color: #fff;
     background-color: #f7b10a;
     border-color: #f7b10a;
@@ -59,7 +59,7 @@ body {
 }
 .btn-outline-danger,
 .btn-outline-danger:hover
- {
+{
     color: #fff;
     border-color: #f7b10a;
     background-color: #f7b10a;
@@ -67,11 +67,11 @@ body {
 }
 
 /* Styling for game container section */
-#quiz-questions {
+#game-container {
     background: rgba(0, 0, 0, 0.7);
     width: 80vh;
 }
-#question-info {
+#questions {
     color: #f7b10a;
 }
 
@@ -79,7 +79,7 @@ body {
 #quiz-results {
     background: rgba(0, 0, 0, 0.7);
 }
-#result-info {
+#result-heading {
     color: #f7b10a;  
 }
 

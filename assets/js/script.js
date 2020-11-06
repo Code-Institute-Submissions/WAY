@@ -15,9 +15,9 @@ let quiz;
 
 $(document).ready(function() {
     $("#WAY").fadeIn("slow");
-    $("#quiz-questions, #result").toggle();
+    $("#game-container, #result").toggle();
     $("#start-btn").click(function() {
-        $("#landing-page, #quiz-questions").toggle();
+        $("#landing-page, #game-container").toggle();
     });
     for (let i = 0; i < answerButtonRef.length; i++) {
         answerButtonRef[i].addEventListener("click", function(e) {
@@ -92,10 +92,10 @@ const showQuestion = (questionIndex) => {
 };
 
 
- /** Function to get
+/** Function to get
  * the next question by id
  */
- 
+
 const selectAnswer = (id) => {
     nextQuestion = parseInt(id, 10);
     if (nextQuestion <= 0) {
