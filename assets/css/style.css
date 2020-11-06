@@ -3,7 +3,7 @@
 
 @font-face {
     font-family: 'lifeCraft';
-    src: url('../css/fonts/lifeCraft.ttf');
+    src: url('../css/fonts/LifeCraft_Font.ttf');
 }
 
 /* General body styling */
@@ -76,9 +76,6 @@ body {
 }
 
 /* Styling for results container section */
-#quiz-results {
-    background: rgba(0, 0, 0, 0.7);
-}
 #result-heading {
     color: #f7b10a;  
 }

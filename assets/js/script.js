@@ -1,6 +1,6 @@
 //jshint esversion: 6
 
-const questionRef = document.querySelector('#question-info');
+const questionRef = document.querySelector('#questions');
 const answerButtonRef = document.querySelectorAll('.answer-button');
 const resultButtonRef = document.querySelector('#result-info');
 const imageRef = document.querySelectorAll('.image');
