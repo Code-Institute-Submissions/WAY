@@ -4,12 +4,12 @@ const questionRef = document.querySelector('#questions');
 const answerButtonRef = document.querySelectorAll('.answer-button');
 const resultButtonRef = document.querySelector('#result-info');
 const imageRef = document.querySelectorAll('.image');
-/** 
- * const factionRef = document.querySelector('#faction');
- * const roleRef = document.querySelector('#role');
- * const classRef = document.querySelector('#class');
- * const raceRef = document.querySelector('#race');
- */
+
+const factionRef = document.querySelector('#faction');
+const roleRef = document.querySelector('#role');
+const classRef = document.querySelector('#class');
+const raceRef = document.querySelector('#race');
+
 let quiz;
 
 
@@ -87,8 +87,33 @@ const showQuestion = (questionIndex) => {
         }   else {
 // This is for when there are fewer answers than imageRefs
             imageRef[i].classList.add("hide");
-        }
+        };
     }
+    /** Function for displaying
+ * the final result by id
+ */
+
+const displayResults = () => {
+    const displayResults = () => {
+    if (nextQuestion <= 53) {
+        displayResults();
+    } else {
+        
+    }
+    }
+    console.log(displayResults);
+    factionRef.innerHTML = questions.faction;
+
+    
+roleRef.innerHTML = questions.role;
+classRef.innerHTML = questions.class;
+raceRef.innerHTML = questions.race;
+
+
+
+//imageRef[i].innerHTML = '<img src="' + questions[i].source + '" class="image">';
+
+}
 };
 
 
