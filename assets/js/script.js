@@ -2,20 +2,19 @@
 
 const questionRef = document.querySelector('#questions');
 const answerButtonRef = document.querySelectorAll('.answer-button');
-const resultButtonRef = document.querySelector('#result-info');
 const imageRef = document.querySelectorAll('.image');
 
-const factionRef = document.querySelector('#faction');
-const roleRef = document.querySelector('#role');
-const classRef = document.querySelector('#class');
-const raceRef = document.querySelector('#race');
+const factionRef = document.querySelector('.factions');
+const roleRef = document.querySelector('.roles');
+const classRef = document.querySelector('.classes');
+const raceRef = document.querySelector('.races');
 
 let quiz;
 
 
 $(document).ready(function() {
     $("#WAY").fadeIn("slow");
-    $("#game-container, #result").toggle();
+    $("#game-container").toggle();
     $("#start-btn").click(function() {
         $("#landing-page, #game-container").toggle();
     });
@@ -64,7 +63,6 @@ const showQuestion = (questionIndex) => {
             if (i < answerStrings.length) {
                 answerButtonRef[i].classList.remove("hide");
                 answerButtonRef[i].innerText = answerStrings[i].text;
-
                 answerButtonRef[i].dataset.nextQuestion = answerStrings[i].nextQuestionId;
             } else {
                 answerButtonRef[i].classList.add("hide");
@@ -86,48 +84,69 @@ const showQuestion = (questionIndex) => {
             }  
         }   else {
 // This is for when there are fewer answers than imageRefs
-            imageRef[i].classList.add("hide");
+                imageRef[i].classList.add("hide");
         };
     }
     /** Function for displaying
  * the final result by id
  */
 
-const factions = questions.factions;    
+const factions = questions.factions;
+console.log(factions);    
     for (let i = 0; i < factionRef.length; i++) {
         if (i < factions.length) {
-    factionRef[i].innerHTML = questions.faction;
+            if (questions[i].factions != null){
+                factionRef[i].classList.remove("hide");        
+                factionRef[i].innerHTML = 'Your faction is:' + questions.factions;
+    }
+    else {
+                factionRef[i].classList.add("hide");
     };
+}
+    }
+
 const roles = questions.roles;
+console.log(roles);
     for (let i = 0; i < roleRef.length; i++) {
         if (i < roles.length) {
-            roleRef[i].innerHTML = questions.role;
+            if (questions[i].roles != null){
+                roleRef[i].classList.remove("hide");
+                roleRef[i].innerHTML = 'Your role is:' + questions.roles;
+        }
+        else {
+                roleRef[i].classList.add("hide");
         };
+    }
+}
 const classes = questions.classes;
+console.log(classes);
     for (let i = 0; i < classRef.length; i++) {
         if (i < classes.length) {
-            classRef[i].innerHTML = questions.class;
+            if (questions[i].classes != null){
+                classRef[i].classList.remove("hide");    
+                classRef[i].innerHTML = 'Your class is:' + questions.classes;
+        }
+        else {
+            classRef[i].classList.add("hide");
         };
+    }
+}
 const races = questions.races;
+console.log(races);
     for (let i = 0; i < raceRef.length; i++) {
         if (i < races.length) {
-            classRef[i].innerHTML = questions.race;
+            if (questions[i].races != null){
+                raceRef[i].classList.remove("hide");    
+                raceRef[i].innerHTML = 'Your race is:' + questions.races;
         }
+        else {
+            raceRef[i].classList.add("hide");
+        };
     }        
-    }        
-}    
-    
-
-roleRef.innerHTML = questions.role;
-classRef.innerHTML = questions.class;
-raceRef.innerHTML = questions.race;
-
-
+    }         
+}  
 
 //imageRef[i].innerHTML = '<img src="' + questions[i].source + '" class="image">';
-
-}
-};
 
 
 /** Function to get

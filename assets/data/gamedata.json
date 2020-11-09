@@ -897,6 +897,7 @@
     },
     {
         "id": 55,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Healer",
         "classes":"Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -911,6 +912,7 @@
     },
     {
         "id": 56,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Healer",
         "classes": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -925,6 +927,7 @@
     },
     {
         "id": 57,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Healer",
         "classes": "Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -939,6 +942,7 @@
     },
     {
         "id": 58,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Healer",
         "classes": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -953,6 +957,7 @@
     },
     {
         "id": 59,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Healer",
         "classes": "Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -967,6 +972,7 @@
     },
     {
         "id": 60,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Healer",
         "classes": "Druid",
@@ -981,6 +987,7 @@
     },
     {
         "id": 61,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Tank",
         "classes": "Paladin.This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -995,10 +1002,11 @@
     },
     {
         "id": 62,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Tank",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
-        "races": "Human. Human. Recent discoveries have shown that humans are descended from the barbaric vrykul, half-giant warriors who live in Northrend. Early humans were primarily a scattered and tribal people for several millennia, until the rising strength of the troll empire forced their strategic unification. Thus the nation of Arathor was formed, along with its capital, the city-state of Strom.",
+        "races": "Human. Recent discoveries have shown that humans are descended from the barbaric vrykul, half-giant warriors who live in Northrend. Early humans were primarily a scattered and tribal people for several millennia, until the rising strength of the troll empire forced their strategic unification. Thus the nation of Arathor was formed, along with its capital, the city-state of Strom.",
         "source": "assets\/images\/results\/humanwarrior.png",
         "answers": [
             { 
@@ -1009,6 +1017,7 @@
     },
     {
         "id": 63,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Tank",
         "classes": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -1023,6 +1032,7 @@
     },
     {
         "id": 64,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Tank",
         "classes": "Druid",
@@ -1037,6 +1047,7 @@
     },
     {
         "id": 65,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Tank",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1051,6 +1062,7 @@
     },
     {
         "id": 66,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Tank",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1065,6 +1077,7 @@
     },
     {
         "id": 67,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "Tank",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1079,6 +1092,7 @@
     },
     {
         "id": 68,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes":"Mage. Students gifted with a keen intellect and unwavering discipline may walk the path of the Mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, magi can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze.",
@@ -1093,6 +1107,7 @@
     },
     {
         "id": 69,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
@@ -1107,6 +1122,7 @@
     },
     {
         "id": 70,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Warlock. In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of Imps, but as a warlock's knowledge grows, seductive Succubi, loyal Voidwalkers, and horrific Felhunters join the dark sorcerer's ranks to wreak havoc on anyone who stands in their master's way.",
@@ -1122,6 +1138,7 @@
     },
     {
         "id": 71,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -1136,6 +1153,7 @@
     },
     {
         "id": 72,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1150,6 +1168,7 @@
     },
     {
         "id": 73,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Druid. Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash nature's raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.",
@@ -1164,6 +1183,7 @@
     },
     {
         "id": 74,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies.",
@@ -1178,6 +1198,7 @@
     },
     {
         "id": 75,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
@@ -1186,6 +1207,7 @@
     },
     {
         "id": 76,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies",
@@ -1200,6 +1222,7 @@
     },
     {
         "id": 77,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
@@ -1214,6 +1237,7 @@
     },
     {
         "id": 78,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -1228,6 +1252,7 @@
     },
     {
         "id": 79,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Mage. Students gifted with a keen intellect and unwavering discipline may walk the path of the Mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, magi can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze.",
@@ -1242,6 +1267,7 @@
     },
     {
         "id": 80,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
@@ -1256,6 +1282,7 @@
     },
     {
         "id": 81,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1270,6 +1297,7 @@
     },
     {
         "id": 82,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Warlock. In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of Imps, but as a warlock's knowledge grows, seductive Succubi, loyal Voidwalkers, and horrific Felhunters join the dark sorcerer's ranks to wreak havoc on anyone who stands in their master's way.",
@@ -1284,6 +1312,7 @@
     },
     {
         "id": 83,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Priest. Priests are devoted to the spiritual, and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -1298,6 +1327,7 @@
     },
     {
         "id": 84,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Priest. Priests are devoted to the spiritual, and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -1312,6 +1342,7 @@
     },
     {
         "id": 85,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Priest. Priests are devoted to the spiritual, and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -1326,6 +1357,7 @@
     },
     {
         "id": 86,
+        "question": "The results are in!",
         "factions": "Alliance",
         "roles": "DPS",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1340,6 +1372,7 @@
     },
     {
         "id": 87,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "Healer",
         "classes":"Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -1354,6 +1387,7 @@
     },
     {
         "id": 88,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "Healer",
         "classes": "Druid. Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash nature's raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.",
@@ -1368,6 +1402,7 @@
     },
     {
         "id": 89,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "Healer",
         "classes": "Priest. Priests are devoted to the spiritual and express their unwavering faith by serving the people. For millennia they have left behind the confines of their temples and the comfort of their shrines so they can support their allies in war-torn lands. In the midst of terrible conflict, no hero questions the value of the priestly orders.",
@@ -1382,6 +1417,7 @@
     },
         {
         "id": 90,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "Healer",
         "classes": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
@@ -1396,6 +1432,7 @@
     },
         {
         "id": 91,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "Healer",
         "classes": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
@@ -1410,6 +1447,7 @@
     },
         {
         "id": 92,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "Healer",
         "classes": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
@@ -1424,6 +1462,7 @@
     },
     {
         "id": 93,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "Tank",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1438,6 +1477,7 @@
     },
     {
         "id": 94,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "Tank",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1452,6 +1492,7 @@
     },
     {
         "id": 95,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "Tank",
         "classes": "Druid. Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash nature's raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.",
@@ -1466,6 +1507,7 @@
     },
     {
         "id": 96,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "Tank",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1480,6 +1522,7 @@
     },
     {
         "id": 97,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "Tank",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1494,6 +1537,7 @@
     },
     {
         "id": 98,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies.",
@@ -1508,6 +1552,7 @@
     },
     {
         "id": 99,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Mage. Students gifted with a keen intellect and unwavering discipline may walk the path of the Mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, magi can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze.",
@@ -1522,6 +1567,7 @@
     },
     {
         "id": 100,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
@@ -1536,6 +1582,7 @@
     },
     {
         "id": 101,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
@@ -1550,6 +1597,7 @@
     },
     {
         "id": 102,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes":"Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1564,6 +1612,7 @@
     },
     {
         "id": 103,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
@@ -1578,6 +1627,7 @@
     },
     {
         "id": 104,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Warlock. In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of Imps, but as a warlock's knowledge grows, seductive Succubi, loyal Voidwalkers, and horrific Felhunters join the dark sorcerer's ranks to wreak havoc on anyone who stands in their master's way.",
@@ -1592,6 +1642,7 @@
     },
     {
         "id": 105,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
@@ -1606,6 +1657,7 @@
     },
     {
         "id": 106,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1620,6 +1672,7 @@
     },
     {
         "id": 107,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies.",
@@ -1634,6 +1687,7 @@
     },
     {
         "id": 108,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Hunter. From an early age the call of the wild draws some adventurers from the comfort of their homes into the unforgiving primal world outside. Those who endure become hunters. Masters of their environment, they are able to slip like ghosts through the trees and lay traps in the paths of their enemies.",
@@ -1648,6 +1702,7 @@
     },
     {
         "id": 109,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Shaman. Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike some other mystics, shaman commune with forces that are not strictly benevolent. The elements are chaotic, and left to their own devices, they rage against one another in unending primal fury. It is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire, water, and air, shaman summon totems that focus the elements to support the shaman's allies or punish those who threaten them.",
@@ -1662,6 +1717,7 @@
     },
     {
         "id": 110,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1676,6 +1732,7 @@
     },
     {
         "id": 111,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Mage. Students gifted with a keen intellect and unwavering discipline may walk the path of the Mage. The arcane magic available to magi is both great and dangerous, and thus is revealed only to the most devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but arcane shields and enchantments give them additional protection. To keep enemies at bay, magi can summon bursts of fire to incinerate distant targets and cause entire areas to erupt, setting groups of foes ablaze.",
@@ -1690,6 +1747,7 @@
     },
     {
         "id": 112,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
@@ -1704,6 +1762,7 @@
     },
     {
         "id": 113,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Warlock. In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon demonic minions to fight beside them. At first, they command only the service of Imps, but as a warlock's knowledge grows, seductive Succubi, loyal Voidwalkers, and horrific Felhunters join the dark sorcerer's ranks to wreak havoc on anyone who stands in their master's way.",
@@ -1718,6 +1777,7 @@
     },
     {
         "id": 114,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Warrior. For as long as war has raged, heroes from every races have aimed to master the art of battle. Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in glorious combat.",
@@ -1732,6 +1792,7 @@
     },
 {
         "id": 115,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -1746,6 +1807,7 @@
     },
     {
         "id": 116,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Paladin. This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish evil from the darkest corners of the world. These holy warriors are equipped with plate armor so they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds and, in some cases, even restore life to the dead.",
@@ -1760,6 +1822,7 @@
     },
     {
         "id": 116,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Druid. Druids harness the vast powers of nature to preserve balance and protect life. With experience, druids can unleash nature's raw energy against their enemies, raining celestial fury on them from a great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.",
@@ -1774,6 +1837,7 @@
     },
     {
         "id": 117,
+        "question": "The results are in!",
         "factions": "Horde",
         "roles": "DPS",
         "classes": "Rogue. For rogues, the only code is the contract, and their honor is purchased in gold. Free from the constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins and masters of stealth, they will approach their marks from behind, piercing a vital organ and vanishing into the shadows before the victim hits the ground.",
