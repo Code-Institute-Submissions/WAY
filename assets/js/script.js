@@ -93,18 +93,31 @@ const showQuestion = (questionIndex) => {
  * the final result by id
  */
 
-const displayResults = () => {
-    const displayResults = () => {
-    if (nextQuestion <= 53) {
-        displayResults();
-    } else {
-        
-    }
-    }
-    console.log(displayResults);
-    factionRef.innerHTML = questions.faction;
-
+const factions = questions.factions;    
+    for (let i = 0; i < factionRef.length; i++) {
+        if (i < factions.length) {
+    factionRef[i].innerHTML = questions.faction;
+    };
+const roles = questions.roles;
+    for (let i = 0; i < roleRef.length; i++) {
+        if (i < roles.length) {
+            roleRef[i].innerHTML = questions.role;
+        };
+const classes = questions.classes;
+    for (let i = 0; i < classRef.length; i++) {
+        if (i < classes.length) {
+            classRef[i].innerHTML = questions.class;
+        };
+const races = questions.races;
+    for (let i = 0; i < raceRef.length; i++) {
+        if (i < races.length) {
+            classRef[i].innerHTML = questions.race;
+        }
+    }        
+    }        
+}    
     
+
 roleRef.innerHTML = questions.role;
 classRef.innerHTML = questions.class;
 raceRef.innerHTML = questions.race;
@@ -128,4 +141,4 @@ const selectAnswer = (id) => {
     } else {
         showQuestion(nextQuestion);
     }
-};
+}
