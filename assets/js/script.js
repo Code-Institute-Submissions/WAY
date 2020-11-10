@@ -97,7 +97,7 @@ console.log(factions);
     for (let i = 0; i < factionRef.length; i++) {
         if (i < factions.length) {
             if (questions[i].factions != null){
-                factionRef[i].classList.remove("hide");        
+                factionRef[i].classList.remove("hide");   //wont work as it is an id and not a class     
                 factionRef[i].innerHTML = 'Your role is:' + questions.factions;
     }
     else {
