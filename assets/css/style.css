@@ -75,10 +75,15 @@ body {
     color: #f7b10a;
 }
 
-/* Styling for results container section */
-#result-heading {
-    color: #f7b10a;  
+
+#factions,
+#roles,
+#classes,
+#races {
+    font-size: 1rem;
+    color:#f7b10a;
 }
+
 
 
 /* Social media buttons */

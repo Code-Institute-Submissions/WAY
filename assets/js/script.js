@@ -4,10 +4,10 @@ const questionRef = document.querySelector('#questions');
 const answerButtonRef = document.querySelectorAll('.answer-button');
 const imageRef = document.querySelectorAll('.image');
 
-const factionRef = document.querySelector('#factions');
-const roleRef = document.querySelector('#roles');
-const classRef = document.querySelector('#classes');
-const raceRef = document.querySelector('#races');
+const factionRef = document.getElementById('factions');
+const roleRef = document.getElementById('roles');
+const classRef = document.getElementById('classes');
+const raceRef = document.getElementById('races');
 
 let quiz;
 
@@ -74,7 +74,7 @@ const showQuestion = (questionIndex) => {
     const answers = questions.answers;
     for (let i = 0; i < imageRef.length; i++) {
         if (i < answers.length) {
-            if (answers[i].source !== null){
+            if (answers[i].source != null){
                 imageRef[i].classList.remove("hide");
                 imageRef[i].innerHTML = '<img src="' + answers[i].source + '" class="image">';
             }
@@ -85,70 +85,47 @@ const showQuestion = (questionIndex) => {
         }   else {
 // This is for when there are fewer answers than imageRefs
                 imageRef[i].classList.add("hide");
-        }
+        };
     }
 
 /** Function for displaying
  * the final result by id
  */
 
-const factions = questions.factions;
-console.log(factions);    
-    for (let i = 0; i < factionRef.length; i++) {
-        if (i < factions.length) {
-            if (questions[i].factions !== null){
-                factionRef[i].classList.remove("hide");   //wont work as it is an id and not a class     
-                factionRef[i].innerHTML = 'Your role is:' + questions.factions;
-    }
-    else {
-                factionRef[i].classList.add("hide");
-    }
-}
-    }
 
-const roles = questions.roles;
-console.log(roles);
-    for (let i = 0; i < roleRef.length; i++) {
-        if (i < roles.length) {
-            if (questions[i].roles !== null){
-                roleRef[i].classList.remove("hide");
-                roleRef[i].innerHTML = 'Your role is:' + questions.roles;
-        }
-        else {
-                roleRef[i].classList.add("hide");
-        }
-    }
+factionRef.innerHTML = 'Your faction is: ' + questions.factions;
+/**if (questions.factions !== null){
+    factionRef.remove("hide");
 }
-const classes = questions.classes;
-console.log(classes);
-    for (let i = 0; i < classRef.length; i++) {
-        if (i < classes.length) {
-            if (questions[i].classes !== null){
-                classRef[i].classList.remove("hide");    
-                classRef[i].innerHTML = 'Your class is:' + questions.classes;
-        }
-        else {
-            classRef[i].classList.add("hide");
-        }
-    }
+else {
+    factionRef.add("hide");
 }
-const races = questions.races;
-console.log(races);
-    for (let i = 0; i < raceRef.length; i++) {
-        if (i < races.length) {
-            if (questions[i].races !== null){
-                raceRef[i].classList.remove("hide");    
-                raceRef[i].innerHTML = 'Your race is:' + questions.races;
-        }
-        else {
-            raceRef[i].classList.add("hide");
-        }
-    }        
-    }         
-};  
+*/
+roleRef.innerHTML = 'Your role is: ' + questions.roles;
+if (questions.roles !== null) {
+    roleRef.remove("hide");
+}
+else {
+    roleRef.add("hide");
+}
 
-//imageRef[i].innerHTML = '<img src="' + questions[i].source + '" class="image">';
+classRef.innerHTML = 'Your class is: ' + questions.classes;
+if (questions.classes !== null) {
+    classRef.remove("hide");
+}
+else {
+    classRef.add("hide");
+}
 
+raceRef.innerHTML = 'Your race is: ' + questions.races;
+if (questions.races !== null) {
+    raceRef.remove("hide");
+}
+else {
+    raceRef.add("hide");
+}
+//imageRef.innerHTML = '<img src="' + questions.source + '" class="image">';
+}
 
 /** Function to get
  * the next question by id
@@ -161,4 +138,5 @@ const selectAnswer = (id) => {
     } else {
         showQuestion(nextQuestion);
     }
-};
+}
+
