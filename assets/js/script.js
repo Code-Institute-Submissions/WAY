@@ -67,14 +67,14 @@ const showQuestion = (questionIndex) => {
             } else {
                 answerButtonRef[i].classList.add("hide");
             }
-        };
+        }
     }
     
 // When an image is available, this will make it visible in the DOM 
     const answers = questions.answers;
     for (let i = 0; i < imageRef.length; i++) {
         if (i < answers.length) {
-            if (answers[i].source != null){
+            if (answers[i].source !== null){
                 imageRef[i].classList.remove("hide");
                 imageRef[i].innerHTML = '<img src="' + answers[i].source + '" class="image">';
             }
@@ -85,7 +85,7 @@ const showQuestion = (questionIndex) => {
         }   else {
 // This is for when there are fewer answers than imageRefs
                 imageRef[i].classList.add("hide");
-        };
+        }
     }
 
 /** Function for displaying
@@ -96,13 +96,13 @@ const factions = questions.factions;
 console.log(factions);    
     for (let i = 0; i < factionRef.length; i++) {
         if (i < factions.length) {
-            if (questions[i].factions != null){
+            if (questions[i].factions !== null){
                 factionRef[i].classList.remove("hide");   //wont work as it is an id and not a class     
                 factionRef[i].innerHTML = 'Your role is:' + questions.factions;
     }
     else {
                 factionRef[i].classList.add("hide");
-    };
+    }
 }
     }
 
@@ -110,39 +110,39 @@ const roles = questions.roles;
 console.log(roles);
     for (let i = 0; i < roleRef.length; i++) {
         if (i < roles.length) {
-            if (questions[i].roles != null){
+            if (questions[i].roles !== null){
                 roleRef[i].classList.remove("hide");
                 roleRef[i].innerHTML = 'Your role is:' + questions.roles;
         }
         else {
                 roleRef[i].classList.add("hide");
-        };
+        }
     }
 }
 const classes = questions.classes;
 console.log(classes);
     for (let i = 0; i < classRef.length; i++) {
         if (i < classes.length) {
-            if (questions[i].classes != null){
+            if (questions[i].classes !== null){
                 classRef[i].classList.remove("hide");    
                 classRef[i].innerHTML = 'Your class is:' + questions.classes;
         }
         else {
             classRef[i].classList.add("hide");
-        };
+        }
     }
 }
 const races = questions.races;
 console.log(races);
     for (let i = 0; i < raceRef.length; i++) {
         if (i < races.length) {
-            if (questions[i].races != null){
+            if (questions[i].races !== null){
                 raceRef[i].classList.remove("hide");    
                 raceRef[i].innerHTML = 'Your race is:' + questions.races;
         }
         else {
             raceRef[i].classList.add("hide");
-        };
+        }
     }        
     }         
 };  
