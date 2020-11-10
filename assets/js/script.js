@@ -4,10 +4,10 @@ const questionRef = document.querySelector('#questions');
 const answerButtonRef = document.querySelectorAll('.answer-button');
 const imageRef = document.querySelectorAll('.image');
 
-const factionRef = document.querySelector('.factions');
-const roleRef = document.querySelector('.roles');
-const classRef = document.querySelector('.classes');
-const raceRef = document.querySelector('.races');
+const factionRef = document.querySelector('#factions');
+const roleRef = document.querySelector('#roles');
+const classRef = document.querySelector('#classes');
+const raceRef = document.querySelector('#races');
 
 let quiz;
 
@@ -87,6 +87,7 @@ const showQuestion = (questionIndex) => {
                 imageRef[i].classList.add("hide");
         };
     }
+
 /** Function for displaying
  * the final result by id
  */
