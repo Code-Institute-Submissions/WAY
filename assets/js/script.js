@@ -145,7 +145,7 @@ console.log(races);
         };
     }        
     }         
-}  
+};  
 
 //imageRef[i].innerHTML = '<img src="' + questions[i].source + '" class="image">';
 
@@ -161,4 +161,4 @@ const selectAnswer = (id) => {
     } else {
         showQuestion(nextQuestion);
     }
-}
+};
