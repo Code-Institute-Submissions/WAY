@@ -87,7 +87,7 @@ const showQuestion = (questionIndex) => {
                 imageRef[i].classList.add("hide");
         };
     }
-    /** Function for displaying
+/** Function for displaying
  * the final result by id
  */
 
@@ -97,7 +97,7 @@ console.log(factions);
         if (i < factions.length) {
             if (questions[i].factions != null){
                 factionRef[i].classList.remove("hide");        
-                factionRef[i].innerHTML = 'Your faction is:' + questions.factions;
+                factionRef[i].innerHTML = 'Your role is:' + questions.factions;
     }
     else {
                 factionRef[i].classList.add("hide");
