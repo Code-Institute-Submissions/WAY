@@ -302,6 +302,13 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 
 * Everybody at Slack for their support, tips and humor, especially tutors Tim, Roman and Kevin.
 
+**Personal note**
+
+These are trying times...
+During this project I had some major life events, not to mention, the whole COVID-19 pandemic which has touched us all.
+
+I have never had so much things going on that have impacted me in ways I didnt expected. A move, some serious illness and other stuff, have forced me to make some tough decisions and really focus on what matters most. Code Institute has been invaluable in attaining this, so a MASSIVE thank you! 
+
 **Site for educational purposes only!**
 
 
