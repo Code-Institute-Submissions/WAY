@@ -185,6 +185,8 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 
 * For [class](https://wowwiki.fandom.com/wiki/Class) descriptions.
 
+* For the **questions** I used [this](https://nl.pinterest.com/pin/32299322315435071/) and [this](https://nl.pinterest.com/pin/308144799504856672/), found on pinterest.
+
 **Images used**
 
 * [Body background-factions](https://wallpaperplay.com/walls/full/9/1/3/41117.jpg)
