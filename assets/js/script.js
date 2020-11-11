@@ -88,13 +88,17 @@ const showQuestion = (questionIndex) => {
         };
     }
 
-/** Function for displaying
- * the final result by id
+/** Displaying the 
+ * results
  */
 
 
 factionRef.innerHTML = 'Your faction is: ' + questions.factions;
-/**if (questions.factions !== null){
+
+
+/** Need to hide when there is nothing to display (undefined)
+ *  "hide" is a class; this is an id
+ * if (questions.factions !== null){
     factionRef.remove("hide");
 }
 else {
@@ -124,6 +128,10 @@ if (questions.races !== null) {
 else {
     raceRef.add("hide");
 }
+
+/**
+ * Add an image to the result, might need the class to change, maybe results-image class?
+ */
 //imageRef.innerHTML = '<img src="' + questions.source + '" class="image">';
 }
 
@@ -132,7 +140,7 @@ else {
  */
 
 const selectAnswer = (id) => {
-    nextQuestion = parseInt(id, 10);
+    nextQuestion = parseInt(id, 10); //something something ! (lost notes from previous call...)
     if (nextQuestion <= 0) {
         showQuestion(1);
     } else {

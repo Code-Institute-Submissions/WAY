@@ -11,7 +11,8 @@ The **ultimate quiz** to decide for **once and for all** which faction, race, cl
 The **goal** for this project is to **entertain** users.
 
 While I at first intended to use all playable classes, races and roles, I soon found out that was a bit to much, so I decided to include all playable classes, races and roles up to and including the [Original World of Warcraft Classic Game](https://worldofwarcraft.com/en-us/wowclassic).
-I had a really hard time getting my data in a structure I could work with. So I decided to compress a lot of questions and not use three json files, but instead use one, just to make it more easy ono myself as I was approaching a point to I almost had a burn-out.
+I had a really hard time getting my data in a structure I could work with. So I decided to compress a lot of questions and not use three json files, but instead use one, just to make it more easy on myself as I was approaching a point to I almost had a burn-out.
+
 ### User Goals ###
 * **Find** out which [World of Warcraft](https://worldofwarcraft.com/en-us/) faction, race, class and role you are.
 * Be **entertained**.
@@ -28,14 +29,13 @@ I had a really hard time getting my data in a structure I could work with. So I 
 ### User Requirements and Expectations ###
 
 **Requirements**
-* **Navigate** the website using the navbar.
+
 * Have a **intuitive** layout that is easy to use.
 * **Fun questions** that lead to an **equally fun** (and perhaps true) **outcome**.
-* Be able to **share** results on **social media**.
+* **social media** buttons in the footer.
 
 **Expectations**
 * Quiz is **easy** to use and gives **no errors**.
-* Result is **sharable** through **social media** share buttons at the results location.
 * Content is **appealing**.
 
 ### Design Choices ###
@@ -45,6 +45,7 @@ I've looked at [**other quizzes**](https://www.zimbio.com/quiz/xB6XYrSQXCE/World
 **Fonts**
 
 For titles i've used [Open Sans](https://fonts.google.com/specimen/Open+Sans?query=open+sans) and for the text i've used [Montserrat](https://fonts.google.com/specimen/Montserrat?query=mont) which come pretty close to the fonts Blizzard uses for their World of Warcraft site.
+I also used a **custom font** that is used my Blizzard itself; [LifeCraft](https://www.dafont.com/lifecraft.font) which i've used for the title.
 
 **Icons**
 
