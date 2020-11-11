@@ -87,7 +87,10 @@ body {
 
 
 /* Social media buttons */
-
+#social {
+    font-size: 2rem;
+    color:#f7b10a;
+}
 /* General styling */
 .hide {
     display: none;
