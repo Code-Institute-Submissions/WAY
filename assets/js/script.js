@@ -92,47 +92,36 @@ const showQuestion = (questionIndex) => {
  * results
  */
 
+//For faction:
+    factionRef.innerHTML = 'Your faction is: ' + questions.factions;
 
-factionRef.innerHTML = 'Your faction is: ' + questions.factions;
 
-
-/** Need to hide when there is nothing to display (undefined)
+/** Need to hide when there is nothing to display (undefined in console)
  *  "hide" is a class; this is an id
+ * 
  * if (questions.factions !== null){
-    factionRef.remove("hide");
-}
-else {
-    factionRef.add("hide");
-}
-*/
-roleRef.innerHTML = 'Your role is: ' + questions.roles;
-if (questions.roles !== null) {
-    roleRef.remove("hide");
-}
-else {
-    roleRef.add("hide");
-}
+ * factionRef.remove("hide");
+ * }
+ * else {
+ * factionRef.add("hide");
+ * }
+ */
 
-classRef.innerHTML = 'Your class is: ' + questions.classes;
-if (questions.classes !== null) {
-    classRef.remove("hide");
-}
-else {
-    classRef.add("hide");
-}
 
-raceRef.innerHTML = 'Your race is: ' + questions.races;
-if (questions.races !== null) {
-    raceRef.remove("hide");
-}
-else {
-    raceRef.add("hide");
-}
+//For role:
+    roleRef.innerHTML = 'Your role is: ' + questions.roles;
+
+//For class:
+    classRef.innerHTML = 'Your class is: ' + questions.classes;
+
+//For race:
+    raceRef.innerHTML = 'Your race is: ' + questions.races;
+
 
 /**
  * Add an image to the result, might need the class to change, maybe results-image class?
  */
-//imageRef.innerHTML = '<img src="' + questions.source + '" class="image">';
+//imageRef.innerHTML = '<img src="' + questions.source + '" class="result-image">';
 }
 
 /** Function to get
