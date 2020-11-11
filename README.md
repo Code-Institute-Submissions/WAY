@@ -187,6 +187,105 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 
 **Images used**
 
+* [Body background-factions](https://wallpaperplay.com/walls/full/9/1/3/41117.jpg)
+
+* [Crests](https://wowwiki.fandom.com/wiki/Crests)
+
+* [Kel’Thuzad](https://esports.hollywood.com/heroes-of-the-storm-kelthuzad-enters-the-nexus-c173b544737)
+
+<details>
+  <summary><strong>Images for results section:</strong></summary>
+
+[Troll Priest](https://www.deviantart.com/daverapoza/art/Troll-priest-112064760) 
+
+[Troll Warrior](https://www.artstation.com/artwork/L2X1bR)
+
+[Troll Hunter](https://www.artstation.com/artwork/WLdAN)
+
+[Troll Mage](https://www.deviantart.com/raben-aas/art/Female-Troll-Mage-733038382)
+
+[Troll Rogue](https://worldofwarcraftthings.tumblr.com/post/105648297575/nickroblesart-zelujin-paint-sketch-digital)
+
+[Troll Shaman](https://www.deviantart.com/vanharmontt/art/Troll-Shaman-1-833726134)
+
+[Troll Paladin](https://i.imgur.com/wXj4JVj.jpg) 
+
+[Tauren Druid](https://www.deviantart.com/vanharmontt/art/Tauren-Druid-832030308)
+
+[Tauren Warrior](https://www.deviantart.com/rogierb/art/Tauren-Warrior-569059971)
+
+[Tauren Hunter](https://i.redd.it/a7y6vjfkbvs21.jpg)
+
+[Tauren Shaman](https://www.artstation.com/artwork/eaRolb)
+
+[Tauren Rogue](https://wow.gamepedia.com/File:Tauren_rogue2.jpg) 
+
+[Undead Priest](https://www.deviantart.com/phamoz/art/WoW-Undead-Priest-811200130)
+
+[Undead Paladin](https://www.wowhead.com/outfit=6479/undead-paladin#screenshots) 
+
+[Undead Warrior](https://www.reddit.com/r/wow/comments/9c3da4/undead_warrior_grevant_by_me/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage)
+
+[Undead Mage](https://www.deviantart.com/thiago-almeida/art/Undead-Mage-286342400)
+
+[Undead Rogue](https://www.deviantart.com/anotherwanderer/art/Undead-Rogue-715219145)
+
+[Undead Warlock](https://www.deviantart.com/kueshkaart/art/Gothess-Undead-Warlock-commission-work-846482734)
+
+[Orc Warrior](https://www.deviantart.com/jordankerbow/art/Warcraft-Female-Orc-Warrior-625504789)
+
+[Orc Hunter](https://www.inprnt.com/gallery/sulamoon/orc-hunter/?__cf_chl_jschl_tk__=278fb2245c5599cf884ad1ca35e7ee7c67759c28-1600778797-0-AdSoF5KVbyhum5fmb0vMfmQGKbyC59QZk8HUqjznLVRZ3bub7JnNpVgMbsBgdMzUcH3u58EK4Lkksh_5O1iKcNAO92VJFUNw8qu4A6gPuv9nIAAqaU89pwRRlKNz_ZF1YjlN1RxkzZS-LHzYwZ3iyanJ2Wo-Cu1tnbzjTiBcGc16HzWYznI7I8Aj2Ba6ZIIW9WxZyEtWbds2383Mpcb4JLulT4huNHEMDSmgZzzvugAEyv-1X9eEHpFQd35c0UzutE5Vzp0rvNngK9gBZiPsIZ3CY5ivLZSrK09U7u7ieO5sJgUg1dyrcdb_MmbvUPZ3N4ktiuESqP3yuFrLTWspSyNOLDGWsbGT2f-rrBsoefDAvhrI22QsztFliEiomZVHTw)
+
+[Orc Rogue](https://www.deviantart.com/weremagnus/art/orc-rogue-35394744)
+
+[Orc Shaman](https://www.deviantart.com/koz23/art/Female-Orc-Shaman-703050797)
+
+[Orc Warlock](https://www.deviantart.com/pokketmowse/art/Orc-Warlock-165451843?q=gallery:pokketmowse/30493974&qo=10)
+
+[Human Priest](http://media.blizzard.com/wow/media/fanart/fanart-0654-full.jpg)
+
+[Human Paladin](https://www.deviantart.com/angevere/art/Paladin-667232071)
+
+[Human Warrior](https://www.reddit.com/r/wow/comments/g95wrb/human_warrior_commission_work_by_me_oksana_kerro/)
+
+[Human Mage](https://www.deviantart.com/ozornin-art/art/Mage-Kirin-Tor-567442162)
+
+[Human Rogue](https://www.deviantart.com/glennraneart/art/World-of-Warcraft-Human-Rogue-157820160)
+
+[Human Warlock](https://www.deviantart.com/ludvikskp/art/World-of-Warcraft-Human-Warlock-739252484)
+
+[Dwarf Priest](https://www.artstation.com/artwork/PmZe3y)
+
+[Dwarf Paladin](https://www.deviantart.com/vanharmontt/art/dwarf-paladin-787325284)
+
+[Dwarf Hunter](https://wall.alphacoders.com/big.php?i=229515&lang=Russian)
+
+[Dwarf Rogue](https://wow.gamepedia.com/File:MadreaBluntbrew.jpg)
+
+[Dwarf Warlock](https://www.wow-accountshop.com/wp-content/uploads/2020/05/lock.jpg)
+
+[Dwarf Warrior](https://www.deviantart.com/lavam00/art/Dwarf-Warrior-828041537) 
+
+[Night Elf Priest](https://www.artstation.com/artwork/rd6R6)
+
+[Night Elf Druid](https://www.artstation.com/artwork/WL2D2)
+
+[Night Elf Warrior](https://www.artstation.com/artwork/APDEq)
+
+[Night Elf Hunter](https://www.deviantart.com/imdrunkontea/art/Night-Elf-Archer-818463468)
+
+[Night Elf Rogue](https://www.artstation.com/artwork/YaJvwK)
+
+[Gnome warrior](https://www.deviantart.com/artlon/art/Commission-Jilette-Sawblaster-533852890)
+
+[Gnome mage](https://www.artstation.com/artwork/xk9nE)
+
+[Gnome warlock](https://www.artstation.com/artwork/1e3WX)
+
+[Gnome Rogue](https://www.storenvy.com/products/4184291-timmo-shadestep)
+</details>
+
+
 **Special thanks**
 
 * As always, my mentor [Simen Daehlin](https://github.com/Eventyret), for his support and Yoda-guidance.
