@@ -32,7 +32,6 @@ $(document).ready(function() {
  * Fetch for shared 
  * questions at start 
  * game 
- * 
  */
 
 const fetchData = (jsonFile) => {
@@ -57,7 +56,6 @@ const fetchData = (jsonFile) => {
 const showQuestion = (questionIndex) => {
     const questions = quiz.find(questions => questions.id === questionIndex);
     const answerStrings = questions.answers;
-
     questionRef.innerHTML = questions.question;
     for (let i = 0; i < answerButtonRef.length; i++) {
         if (questions.answers) {
@@ -70,7 +68,11 @@ const showQuestion = (questionIndex) => {
             }
         }
     }
-    //When an image is available, this will make it visible in the DOM
+/**
+ * When an image is available,
+ * this will make it visible 
+ * in the DOM
+ */
     showImages(questions);
 };
     const showImages = (questions)=>{
@@ -89,32 +91,30 @@ const showQuestion = (questionIndex) => {
         };
     }
     
-/** Displaying the 
+/** 
+ * Displaying the 
  * results
  */
-
-//For faction:
     factionRef.innerHTML = 'Your faction is: ' + questions.factions;
 
-//For role:
     roleRef.innerHTML = 'Your role is: ' + questions.roles;
 
-//For class:
     classRef.innerHTML = 'Your class is: ' + questions.classes;
 
-//For race:
     raceRef.innerHTML = 'Your race is: ' + questions.races;
 
 
-  //  restartButtonRef.innerText = answerStrings.text;
-/**
- * Add an image to the result, might need the class to change, maybe results-image class?
- */
+//restartButtonRef.innerText = answerStrings.text;
+
+//Add an image to the result, might need the class to change, maybe results-image class?
+
 //imageRef.innerHTML = '<img src="' + questions.source + '" class="result-image">';
 }
 
-/** Function to get
- * the next question by id
+/** 
+ * Function to get
+ * the next question
+ * by id
  */
 
 const selectAnswer = (id) => {
