@@ -8,6 +8,7 @@ const factionRef = document.getElementById('factions');
 const roleRef = document.getElementById('roles');
 const classRef = document.getElementById('classes');
 const raceRef = document.getElementById('races');
+const restartButtonRef = document.getElementById('restart-btn');
 
 let quiz;
 
@@ -95,19 +96,6 @@ const showQuestion = (questionIndex) => {
 //For faction:
     factionRef.innerHTML = 'Your faction is: ' + questions.factions;
 
-
-/** Need to hide when there is nothing to display (undefined in console)
- *  "hide" is a class; this is an id
- * 
- * if (questions.factions !== null){
- * factionRef.remove("hide");
- * }
- * else {
- * factionRef.add("hide");
- * }
- */
-
-
 //For role:
     roleRef.innerHTML = 'Your role is: ' + questions.roles;
 
@@ -118,6 +106,7 @@ const showQuestion = (questionIndex) => {
     raceRef.innerHTML = 'Your race is: ' + questions.races;
 
 
+    restartButtonRef.innerText = answerStrings.text;
 /**
  * Add an image to the result, might need the class to change, maybe results-image class?
  */
