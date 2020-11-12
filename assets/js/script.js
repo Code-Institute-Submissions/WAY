@@ -70,8 +70,10 @@ const showQuestion = (questionIndex) => {
             }
         }
     }
-    
-// When an image is available, this will make it visible in the DOM 
+    //When an image is available, this will make it visible in the DOM
+    showImages(questions);
+};
+    const showImages = (questions)=>{
     const answers = questions.answers;
     for (let i = 0; i < imageRef.length; i++) {
         if (i < answers.length) {
@@ -80,15 +82,13 @@ const showQuestion = (questionIndex) => {
                 imageRef[i].innerHTML = '<img src="' + answers[i].source + '" class="image">';
             }
             else {
-// This is for when answers don't have sources
                 imageRef[i].classList.add("hide");
             }  
         }   else {
-// This is for when there are fewer answers than imageRefs
                 imageRef[i].classList.add("hide");
         };
     }
-
+    
 /** Displaying the 
  * results
  */
@@ -106,7 +106,7 @@ const showQuestion = (questionIndex) => {
     raceRef.innerHTML = 'Your race is: ' + questions.races;
 
 
-    restartButtonRef.innerText = answerStrings.text;
+  //  restartButtonRef.innerText = answerStrings.text;
 /**
  * Add an image to the result, might need the class to change, maybe results-image class?
  */
