@@ -1,5 +1,5 @@
 /* Google font import link */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:ital,wght@0,400;0,700;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 @font-face {
     font-family: 'lifeCraft';
@@ -10,6 +10,7 @@
 html {
     scroll-behavior: smooth;
     min-height: 100vh;
+    font-size: 62.5%;
 }
 
 body {
@@ -19,8 +20,8 @@ body {
     background-position: center;
     background-size: cover;
     height: 100vh;
-    font-family: "Montserrat";
-    font-size: 62.5%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.6rem;
     overflow-x: hidden;
     position: relative;
 }
