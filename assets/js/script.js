@@ -1,5 +1,4 @@
 //jshint esversion: 6
-//$(document).ready(function() {
 const questionRef = document.querySelector("#questions");
 const answerButtonRef = document.querySelectorAll(".answer-button");
 const imageRef = document.querySelectorAll(".image");
@@ -78,18 +77,16 @@ const showImages = (questions) => {
         imageRef[i].innerHTML =
           '<img src="' + answers[i].source + '" class="image">';
       } else {
-        // This is for when answers don't have sources
         imageRef[i].classList.add("hide");
       }
     } else {
-        if (answers === undefined) {
+      if (answers === undefined) {
         displayResult(questions);
         imageRef[i].classList.add("hide");
         for (let j = 0; j < answerButtonRef.length; j++) {
-            answerButtonRef[j].classList.add("hide");
+          answerButtonRef[j].classList.add("hide");
         }
       } else {
-        // This is for when answers don't have sources
         imageRef[i].classList.add("hide");
       }
     }
@@ -100,34 +97,20 @@ const showImages = (questions) => {
  * results
  */
 
-//check against undefined, when undefined, empty div "" empty string? (hide), when not undefined, display div result
-// hide/show result div, fill the faction/role etc div id's with results
-
 const displayResult = (questions) => {
   if (questions.question === "The results are in!") {
     factionRef.innerHTML = "Your faction is: " + questions.factions;
-
     roleRef.innerHTML = "Your role is: " + questions.roles;
-
     classRef.innerHTML = "Your class is: " + questions.classes;
-
     raceRef.innerHTML = "Your race is: " + questions.races;
-
-    resultImageRef.innerHTML = '<img src="' + questions.source + '" class="result-image">';
-    console.log(resultImageRef);
-
-    //show result div
+    resultImageRef.innerHTML =
+      '<img src="' + questions.source + '" class="result-image">';
     resultRef.classList.remove("hide");
-    //hide questions div
     questionRef.classList.add("hide");
   } else {
     resultRef.classList.add("hide");
   }
 };
-
-//Add an image to the result, might need the class to change, maybe results-image class?
-
-//imageRef.innerHTML = '<img src="' + questions.source + '" class="result-image">';
 
 /**
  * Function to get
