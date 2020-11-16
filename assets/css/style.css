@@ -75,7 +75,6 @@ body {
     color: #f7b10a;
 }
 
-
 #factions,
 #roles,
 #classes,
@@ -84,7 +83,9 @@ body {
     color:#f7b10a;
 }
 
-
+/* #result {
+    display: none;
+    }
 
 /* Social media buttons */
 #social {

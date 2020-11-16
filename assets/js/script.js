@@ -4,6 +4,7 @@ const questionRef = document.querySelector('#questions');
 const answerButtonRef = document.querySelectorAll('.answer-button');
 const imageRef = document.querySelectorAll('.image');
 
+const resultRef = document.querySelector('#result');
 const factionRef = document.getElementById('factions');
 const roleRef = document.getElementById('roles');
 const classRef = document.getElementById('classes');
@@ -15,8 +16,8 @@ let quiz;
 
 $(document).ready(function() {
     $("#WAY").fadeIn("slow");
-    $("#game-container").toggle();
-    $("#result").toggle();
+    $("#game-container, #result").toggle();
+    
     $("#start-btn").click(function() {
         $("#landing-page, #game-container").toggle();
     });
@@ -89,27 +90,43 @@ const showImages = (questions) => {
                 imageRef[i].classList.add("hide");
     };
     }	
+  //  displayResult(questions);
 }  
 /** 
  * Displaying the 
  * results
-*/
-
-    factionRef.innerHTML = 'Your faction is: ' + questions.factions;
-
-    roleRef.innerHTML = 'Your role is: ' + questions.roles;
-
-    classRef.innerHTML = 'Your class is: ' + questions.classes;
-
-    raceRef.innerHTML = 'Your race is: ' + questions.races;
 
 
-//restartButtonRef.innerText = answerStrings.text;
+//check against undefined, when undefined, empty div "" empty string? (hide), when not undefined, display div result
+// hide/show result div, fill the faction/role etc div id's with results
+
+const displayResult = (questions) => {
+    if (questions?.factions?) {
+    //hide result div
+    $(#result).hide();
+}
+
+else {
+    // this needs to go in there respective result div:
+    factionRef.innerHTML = 'Your faction is: ' + questions.factions; (#faction)
+
+    roleRef.innerHTML = 'Your role is: ' + questions.roles; (#role)
+
+    classRef.innerHTML = 'Your class is: ' + questions.classes; (#classes)
+
+    raceRef.innerHTML = 'Your race is: ' + questions.races; (#races)
+
+    and: 
+    
+    //show result div
+    $(#result).show();
+}
+}
 
 //Add an image to the result, might need the class to change, maybe results-image class?
 
 //imageRef.innerHTML = '<img src="' + questions.source + '" class="result-image">';
-
+*/
 
 /** 
  * Function to get
@@ -118,7 +135,6 @@ const showImages = (questions) => {
  */
 
 const selectAnswer = (id) => {
-    console.log(selectAnswer);
     nextQuestion = parseInt(id, 10);
     if (nextQuestion <= 0) {
         showQuestion(1);
