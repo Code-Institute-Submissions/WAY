@@ -4,19 +4,19 @@ const questionRef = document.querySelector('#questions');
 const answerButtonRef = document.querySelectorAll('.answer-button');
 const imageRef = document.querySelectorAll('.image');
 
-const resultRef = document.querySelector('#result');
+const resultRef = document.getElementById('#result');
 const factionRef = document.getElementById('factions');
 const roleRef = document.getElementById('roles');
 const classRef = document.getElementById('classes');
 const raceRef = document.getElementById('races');
-const restartButtonRef = document.getElementById('restart-btn');
+
 
 let quiz;
 
 
 $(document).ready(function() {
     $("#WAY").fadeIn("slow");
-    $("#game-container, #result").toggle();
+    $("#game-container").toggle();
     
     $("#start-btn").click(function() {
         $("#landing-page, #game-container").toggle();
@@ -88,45 +88,45 @@ const showImages = (questions) => {
         }   else {	
 // This is for when there are fewer answers than imageRefs
                 imageRef[i].classList.add("hide");
-    };
+    }
     }	
-  //  displayResult(questions);
-}  
+displayResult(questions);
+};  
 /** 
  * Displaying the 
  * results
-
+*/
 
 //check against undefined, when undefined, empty div "" empty string? (hide), when not undefined, display div result
 // hide/show result div, fill the faction/role etc div id's with results
 
 const displayResult = (questions) => {
-    if (questions?.factions?) {
+    if (resultRef.style.display==="undefined") {
     //hide result div
-    $(#result).hide();
+    resultRef.style.display="none";
 }
 
 else {
     // this needs to go in there respective result div:
-    factionRef.innerHTML = 'Your faction is: ' + questions.factions; (#faction)
+    factionRef.innerHTML = 'Your faction is: ' + questions.factions;
 
-    roleRef.innerHTML = 'Your role is: ' + questions.roles; (#role)
+    roleRef.innerHTML = 'Your role is: ' + questions.roles;
 
-    classRef.innerHTML = 'Your class is: ' + questions.classes; (#classes)
+    classRef.innerHTML = 'Your class is: ' + questions.classes;
 
-    raceRef.innerHTML = 'Your race is: ' + questions.races; (#races)
+    raceRef.innerHTML = 'Your race is: ' + questions.races;
 
-    and: 
-    
     //show result div
-    $(#result).show();
+    resultRef.style.display="block";
+    //hide questions div
+    questionRef.style.display="none";
 }
-}
+};
 
 //Add an image to the result, might need the class to change, maybe results-image class?
 
 //imageRef.innerHTML = '<img src="' + questions.source + '" class="result-image">';
-*/
+
 
 /** 
  * Function to get
@@ -141,5 +141,5 @@ const selectAnswer = (id) => {
     } else {
         showQuestion(nextQuestion);
     }
-}	
+};	
 
