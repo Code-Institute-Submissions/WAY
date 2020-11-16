@@ -14,7 +14,7 @@ html {
 
 body {
     background-image: url("../images/factions.png");
-    background-color: black;
+    background-color: #000; 
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -26,20 +26,19 @@ body {
 }
 
 .bold-text-logo {
-    
     font-family: 'lifeCraft';
     font-size: 4rem;
     color: #f7b10a;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.5);
 }
 .bold-text {
     color: #f7b10a;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.5);
     
 }
 /* Styling for images */
 .img-fluid {
-    max-width: 50vh;
+    max-width: 50vw;
     height: auto;
 }
 .image {
@@ -68,8 +67,8 @@ body {
 
 /* Styling for game container section */
 #game-container {
-    background: rgba(0, 0, 0, 0.7);
-    width: 80vh;
+    background: rgba(0, 0, 0, 0.5);
+    width: 80vw;
 }
 #questions {
     color: #f7b10a;

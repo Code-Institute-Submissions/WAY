@@ -16,6 +16,7 @@ let quiz;
 $(document).ready(function() {
     $("#WAY").fadeIn("slow");
     $("#game-container").toggle();
+    $("#result").toggle();
     $("#start-btn").click(function() {
         $("#landing-page, #game-container").toggle();
     });
@@ -67,34 +68,30 @@ const showQuestion = (questionIndex) => {
                 answerButtonRef[i].classList.add("hide");
             }
         }
-    }
-/**
- * When an image is available,
- * this will make it visible 
- * in the DOM
- */
-    showImages(questions);
-};
-    const showImages = (questions)=>{
+    }    
+// When an image is available, this will make it visible in the DOM
     const answers = questions.answers;
     for (let i = 0; i < imageRef.length; i++) {
         if (i < answers.length) {
             if (answers[i].source != null){
                 imageRef[i].classList.remove("hide");
                 imageRef[i].innerHTML = '<img src="' + answers[i].source + '" class="image">';
-            }
-            else {
+            }	            
+            else {	
+// This is for when answers don't have sources
                 imageRef[i].classList.add("hide");
-            }  
-        }   else {
+            }  	            
+        }   else {	
+// This is for when there are fewer answers than imageRefs
                 imageRef[i].classList.add("hide");
-        };
-    }
-    
+    };
+    }	
+}  
 /** 
  * Displaying the 
  * results
- */
+
+
     factionRef.innerHTML = 'Your faction is: ' + questions.factions;
 
     roleRef.innerHTML = 'Your role is: ' + questions.roles;
@@ -102,14 +99,14 @@ const showQuestion = (questionIndex) => {
     classRef.innerHTML = 'Your class is: ' + questions.classes;
 
     raceRef.innerHTML = 'Your race is: ' + questions.races;
-
+*/
 
 //restartButtonRef.innerText = answerStrings.text;
 
 //Add an image to the result, might need the class to change, maybe results-image class?
 
 //imageRef.innerHTML = '<img src="' + questions.source + '" class="result-image">';
-}
+
 
 /** 
  * Function to get
@@ -118,11 +115,12 @@ const showQuestion = (questionIndex) => {
  */
 
 const selectAnswer = (id) => {
-    nextQuestion = parseInt(id, 10); //something something ! (lost notes from previous call...)
+    console.log(selectAnswer);
+    nextQuestion = parseInt(id, 10);
     if (nextQuestion <= 0) {
         showQuestion(1);
     } else {
         showQuestion(nextQuestion);
     }
-}
+}	
 
