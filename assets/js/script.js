@@ -1,5 +1,5 @@
 //jshint esversion: 6
-
+//$(document).ready(function() {
 const questionRef = document.querySelector('#questions');
 const answerButtonRef = document.querySelectorAll('.answer-button');
 const imageRef = document.querySelectorAll('.image');
@@ -101,7 +101,10 @@ displayResult(questions);
 // hide/show result div, fill the faction/role etc div id's with results
 
 const displayResult = (questions) => {
-    if (resultRef.style.display==="undefined") {
+    console.log(resultRef);
+    if (resultRef.classList.includes("hide")) {
+
+        console.log(resultRef);
     //hide result div
     resultRef.style.display="none";
 }
