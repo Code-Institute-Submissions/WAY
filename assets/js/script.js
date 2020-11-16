@@ -68,8 +68,11 @@ const showQuestion = (questionIndex) => {
                 answerButtonRef[i].classList.add("hide");
             }
         }
-    }    
+    }  
+    showImages(questions);
+};  
 // When an image is available, this will make it visible in the DOM
+const showImages = (questions) => { 
     const answers = questions.answers;
     for (let i = 0; i < imageRef.length; i++) {
         if (i < answers.length) {
@@ -90,7 +93,7 @@ const showQuestion = (questionIndex) => {
 /** 
  * Displaying the 
  * results
-
+*/
 
     factionRef.innerHTML = 'Your faction is: ' + questions.factions;
 
@@ -99,7 +102,7 @@ const showQuestion = (questionIndex) => {
     classRef.innerHTML = 'Your class is: ' + questions.classes;
 
     raceRef.innerHTML = 'Your race is: ' + questions.races;
-*/
+
 
 //restartButtonRef.innerText = answerStrings.text;
 
