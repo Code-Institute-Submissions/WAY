@@ -46,13 +46,17 @@ body {
     width: 9vw;
     height: auto;
 }
+.result-image {
+    width: 45vw;
+    height: auto;
+}
 /* Button styling */
 .btn-danger,
 .btn-danger:hover,
 .btn-danger:not(:disabled):not(.disabled).active, .btn-danger:not(:disabled):not(.disabled):active, .show>.btn-danger.dropdown-toggle,
 .btn-danger.focus, .btn-danger:focus 
 {
-    color: #fff;
+    color: #000;
     background-color: #f7b10a;
     border-color: #f7b10a;
     box-shadow:none;
@@ -60,7 +64,7 @@ body {
 .btn-outline-danger,
 .btn-outline-danger:hover
 {
-    color: #fff;
+    color: #000;
     border-color: #f7b10a;
     background-color: #f7b10a;
     box-shadow: none;
@@ -83,9 +87,6 @@ body {
     color:#f7b10a;
 }
 
-#result {
-    display: none;
-    }
 
 /* Social media buttons */
 #social {
