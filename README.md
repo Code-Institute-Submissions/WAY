@@ -55,7 +55,7 @@ I also used a **custom font** that is used my Blizzard itself; [LifeCraft](https
 Colors that are used, are based on the World of Warcraft colors.
 * For body background: Black #000000
 * For buttons:  Yellow #F7B10A, Blue #009AE4 and Red #EA3012
-* For text: Yellow #F7B10A.
+* For text: Yellow #F7B10A, Blue #009AE4 and Red #EA3012.
 
 ![Color Scheme](/wireframes/way.png)
 
