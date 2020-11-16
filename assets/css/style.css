@@ -47,7 +47,7 @@ body {
     height: auto;
 }
 .result-image {
-    width: 45vw;
+    width: 30vw;
     height: auto;
 }
 /* Button styling */
@@ -60,6 +60,7 @@ body {
     background-color: #f7b10a;
     border-color: #f7b10a;
     box-shadow:none;
+    font-size: 1.3rem;
 }
 .btn-outline-danger,
 .btn-outline-danger:hover
@@ -83,7 +84,7 @@ body {
 #roles,
 #classes,
 #races {
-    font-size: 1rem;
+    font-size: 1.5rem;
     color:#f7b10a;
 }
 
