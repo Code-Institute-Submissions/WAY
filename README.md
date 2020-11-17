@@ -99,13 +99,13 @@ To be more precise:
 ## Technologies used ##
 ---
 **Languages**
-
+:speak_no_evil:
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JS](https://nl.wikipedia.org/wiki/JavaScript)
 
 **Tools & Libraries**
-
+:see_no_evil:
 * [Git](https://git-scm.com/)
 * [Bootstrap](https://getbootstrap.com/)
 * [Font-Awesome](https://fontawesome.com/icons?d=gallery)
