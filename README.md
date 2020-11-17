@@ -141,7 +141,7 @@ I've tested everything extensively through **chrome developer tools**, making su
     * [Test2](https://github.com/byIlsa/WAY/blob/master/assets/images/HTMLtest2.png)
         * **Result:** No more errors.
 
-* Testing for browsercompatability was done through [Lambdatest](www.lambdatest.com). I've made a report, check it out [here]()        
+* Testing for browsercompatability was done through [Lambdatest](www.lambdatest.com). I've made a report, check it out [here](https://github.com/byIlsa/WAY/blob/master/assets/images/browserTest.png). The **results** are being discussed in the **bug section** of this readme.       
 
 
 **Responsiveness**
@@ -191,7 +191,7 @@ Part of this was having a array like collection which led to me not being able t
 
 :heavy_check_mark: **Solution:** Check flow of json and changed a few id's so the correct result id's show.
 
-:bug: **Bug:** Game not displaying correct on **Edge and Firefox browser**, due to those browsers **not** having **compatability** for **Optional Chaining Operators**. Boohoo....
+:bug: **Bug:** (As from lambdatest:) Game not displaying correct on **Edge and Firefox browser**, due to those browsers **not** having **compatability** for **Optional Chaining Operators**. Boohoo....
 
 :heavy_check_mark: **Solution:** Use a standard `for loop` instead of the fancy **Optional Chaining Operators**.
 
