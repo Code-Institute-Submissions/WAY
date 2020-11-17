@@ -132,24 +132,35 @@ To be more precise:
 I've tested everything extensively through **chrome developer tools**, making sure responsiveness was reacting the way it should. 
 
 * I've used **JSHint** to check the javascript code, which did not reveal a problem.
+
 * Ive tested the CSS with [CSS Validator](http://jigsaw.w3.org/css-validator/) which told me that all was **good**.
+
 * The HTML I've tested with [HTML Validator](https://validator.w3.org/) which gave me the following **results:**
-    * [Test1]()
+    * [Test1](https://github.com/byIlsa/WAY/blob/master/assets/images/HTMLtest1.png)
+        * This gave me an **error**. I needed to give the h3 class a title. I changed it and tested again;
+    * [Test2](https://github.com/byIlsa/WAY/blob/master/assets/images/HTMLtest2.png)
+        * **Result:** No more errors.
 
 
 **Responsiveness**
 
 :horse_racing:
-* **Implementation**
-* **Results**
-* **Verdict**
+* **Implementation**     Ive used **Bootstrap** throughout the project to ensure **maximum** responsibility. Ive tested with **devtools** and **Lambdatest**.
+
+* **Results**   **Responsiveness** was as to be expected.
+
+* **Verdict**    The test has **passed**.
 
 **Design**
 
 :crown:
-* **Implementation**
-* **Results**
-* **Verdict**
+* **Implementation**   The **design** of the site was based on the design of the **World of Warcarf** website, using 'look-a-like' fonts, as the fonts used are custom for them. I used some of the colors and styles for a sense of familiarity for people who know the game
+and would attract people who dont know the game yet.
+
+* **Results** I feel the use of fonts and colors really add up to the **content** and make for a **well balanced** whole.
+
+* **Verdict** Everything is working and looks good. So this test has **passed**.
+
 
 ## Bugs ##
 ---
