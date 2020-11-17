@@ -141,6 +141,8 @@ I've tested everything extensively through **chrome developer tools**, making su
     * [Test2](https://github.com/byIlsa/WAY/blob/master/assets/images/HTMLtest2.png)
         * **Result:** No more errors.
 
+* Testing for browsercompatability was done through [Lambdatest](www.lambdatest.com). I've made a report, check it out [here]()        
+
 
 **Responsiveness**
 
