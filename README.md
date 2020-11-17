@@ -117,13 +117,13 @@ To be more precise:
 ## Testing ##
 ---
 **Responsiveness**
-
+:horse_racing:
 * **Implementation**
 * **Results**
 * **Verdict**
 
 **Design**
-
+:crown:
 * **Implementation**
 * **Results**
 * **Verdict**
@@ -160,6 +160,7 @@ Part of this was having a array like collection which led to me not being able t
 ## Deployment ##
 ---
 WAY! was **developed** on **GitPod**, using **git** and **GitHub** to host the repository.
+:rainbow:
 
 When deploying WAY! using **GitHub Pages** the following steps were made:
 
@@ -174,6 +175,7 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 * Aloy: from Outcast tot Heroine now **live** on **GitHub Pages**.
 
 **Running WAY! Locally**
+:office:
 
 **Cloning** WAY! from **GitHub**:
 
