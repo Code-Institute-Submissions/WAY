@@ -97,8 +97,6 @@ To be more precise:
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JS](https://nl.wikipedia.org/wiki/JavaScript)
-* [JQuery](https://jquery.com/)
-* [Popper](https://popper.js.org/)
 
 **Tools & Libraries**
 
@@ -107,6 +105,8 @@ To be more precise:
 * [Font-Awesome](https://fontawesome.com/icons?d=gallery)
 * [Google fonts](https://fonts.google.com/)
 * [Gimp](https://www.gimp.org/)
+* [JQuery](https://jquery.com/)
+* [Popper](https://popper.js.org/)
 
 ## Testing ##
 ---
