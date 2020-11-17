@@ -20,20 +20,17 @@
         "answers": [
             {
                 "text": "Someone that heals others and removes harmful diseases and poisons",
-                "nextQuestionId": 4,
-                "role": "Healer"
+                "nextQuestionId": 4
                 
             },
             {
                 "text": "I like to do as much damage as I possible can",
-                "nextQuestionId": 9,
-                "role": "DPS"
+                "nextQuestionId": 9
                 
             },
             {
                 "text": "I protect others from damage with my face or shield",
-                "nextQuestionId": 26,
-                "role": "Tank"
+                "nextQuestionId": 26
                 
             }
         ]
@@ -44,19 +41,16 @@
         "answers": [
             {
                 "text": "An angel of mercy, flying through the instance, carrying the noobs",
-                "nextQuestionId": 29,
-                "role": "Healer"
+                "nextQuestionId": 29
 
             },
             {
                 "text": "A legendary being who strikes all who oppose him",
-                "nextQuestionId": 34 ,
-                "role": "DPS"
+                "nextQuestionId": 34
             },
             {
                 "text": "A plate or leather wearing demi-god that stops the simple mortals from dying", 
-                "nextQuestionId": 49,
-                "role": "Tank"
+                "nextQuestionId": 49
             }
         ]
     },
@@ -66,7 +60,7 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestionId": 86
+                "nextQuestionId": 88
             },
             {
                 "text": "No",
@@ -95,12 +89,12 @@
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 87
+                "nextQuestionId": 89
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 85
+                "nextQuestionId": 87
             }
         ]
     },
@@ -125,17 +119,17 @@
             {
                 "text": "Orcs",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 88
+                "nextQuestionId": 90
             },
             {
                 "text": "Tauren",
                 "source": "assets\/images\/crests\/tauren.png",
-                "nextQuestionId": 89
+                "nextQuestionId": 91
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 90
+                "nextQuestionId": 92
             }
         ]
     },
@@ -160,17 +154,17 @@
             {
                 "text": "Orcs",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 105
+                "nextQuestionId": 107
             },
             {
                 "text": "Tauren",
                 "source": "assets\/images\/crests\/tauren.png",
-                "nextQuestionId": 106
+                "nextQuestionId": 108
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 96
+                "nextQuestionId": 98
             }
         ]
     },
@@ -180,7 +174,7 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestionId": 93
+                "nextQuestionId": 116
             },
             {
                 "text": "No",
@@ -209,17 +203,17 @@
             {
                 "text": "Orc",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 105
+                "nextQuestionId": 103
             },
             {
                 "text": "Tauren",
                 "source": "assets\/images\/crests\/tauren.png",
-                "nextQuestionId": 106
+                "nextQuestionId": 117
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 96
+                "nextQuestionId": 100
             }      
         ]
     },
@@ -244,12 +238,12 @@
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 109
+                "nextQuestionId": 111
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 97
+                "nextQuestionId": 99
             }
         ]
     },
@@ -275,12 +269,12 @@
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 113
+                "nextQuestionId": 115
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 114
+                "nextQuestionId": 116
             }
         ]
     },
@@ -305,17 +299,17 @@
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 110
+                "nextQuestionId": 112
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 98
+                "nextQuestionId": 100
             },
             {
                 "text": "Orc",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 101
+                "nextQuestionId": 103
             }
         ]
     },
@@ -345,12 +339,12 @@
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 99
+                "nextQuestionId": 101
             },
             {
                 "text": "Orc",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 103
+                "nextQuestionId": 105
             }
         ]
     },
@@ -375,12 +369,12 @@
             {
                 "text": "Orc",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 102
+                "nextQuestionId": 104
             },
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 111
+                "nextQuestionId": 113
             }
         ]
     },
@@ -405,22 +399,22 @@
             {
                 "text": "Orc",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 104
+                "nextQuestionId": 106
             },
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 112
+                "nextQuestionId": 114
             },
             {
                 "text": "Tauren",
                 "source": "assets\/images\/crests\/tauren.png",
-                "nextQuestionId": 108
+                "nextQuestionId": 110
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 100
+                "nextQuestionId": 102
             }
         ]
     },
@@ -459,22 +453,22 @@
             {
                 "text": "Orc",
                 "source": "assets\/images\/crests\/orcs.png",
-                "nextQuestionId": 92
+                "nextQuestionId": 94
             },
             {
                 "text": "Undead",
                 "source": "assets\/images\/crests\/undead.png",
-                "nextQuestionId": 95
+                "nextQuestionId": 97
             },
             {
                 "text": "Tauren",
                 "source": "assets\/images\/crests\/tauren.png",
-                "nextQuestionId": 94
+                "nextQuestionId": 96
             },
             {
                 "text": "Troll",
                 "source": "assets\/images\/crests\/troll.png",
-                "nextQuestionId": 91
+                "nextQuestionId": 93
             }
         ]
     }, 
@@ -513,12 +507,12 @@
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 59
+                "nextQuestionId": 63
             },
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 57
+                "nextQuestionId": 61
             }
         ]
     },
@@ -543,17 +537,17 @@
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 58
+                "nextQuestionId": 57
             },
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 56
+                "nextQuestionId": 55
             },
             {
                 "text": "Night Elves",
                 "source": "assets\/images\/crests\/nightelf.png",
-                "nextQuestionId": 60
+                "nextQuestionId": 59
             }
         ]
     },
@@ -563,7 +557,7 @@
         "answers": [
             {   
                 "text": "Yes",
-                "nextQuestionId": 73
+                "nextQuestionId": 60
             },
             {
                 "text": "No",
@@ -592,7 +586,7 @@
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 77
+                "nextQuestionId": 76
             },
             {
                 "text": "Night Elves",
@@ -622,7 +616,7 @@
             {
                 "text": "Gnome",
                 "source": "assets\/images\/crests\/gnome.png",
-                "nextQuestionId": 81
+                "nextQuestionId": 79
             },
             {
                 "text": "Human",
@@ -652,7 +646,7 @@
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 80
+                "nextQuestionId": 78
             },
             {
                 "text": "Human",
@@ -682,17 +676,17 @@
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 85
+                "nextQuestionId": 83
             },
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 86
+                "nextQuestionId": 84
             },
             {
                 "text": "Night Elves",
                 "source": "assets\/images\/crests\/nightelf.png",
-                "nextQuestionId": 87
+                "nextQuestionId": 85
             }
         ]
     },
@@ -732,7 +726,7 @@
             {
                 "text": "Gnome",
                 "source": "assets\/images\/crests\/gnome.png",
-                "nextQuestionId": 81
+                "nextQuestionId": 80
             }
         ]
     },
@@ -762,7 +756,7 @@
             {
                 "text": "Gnome",
                 "source": "assets\/images\/crests\/gnome.png",
-                "nextQuestionId": 83
+                "nextQuestionId": 82
             }
         ]
     },
@@ -797,7 +791,7 @@
             {
                 "text": "Gnome",
                 "source": "assets\/images\/crests\/gnome.png",
-                "nextQuestionId": 82
+                "nextQuestionId": 81
             }
         ]
     },
@@ -807,7 +801,7 @@
         "answers": [
             {
                 "text": "Yes",
-                "nextQuestionId": 65
+                "nextQuestionId": 64
             },
             {
                 "text": "No",
@@ -836,12 +830,12 @@
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 64
+                "nextQuestionId": 63
             },
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 62
+                "nextQuestionId": 61
             }
         ]
     },
@@ -866,22 +860,22 @@
             {
                 "text": "Dwarf",
                 "source": "assets\/images\/crests\/dwarf.png",
-                "nextQuestionId": 68
+                "nextQuestionId": 67
             },
             {
                 "text": "Human",
                 "source": "assets\/images\/crests\/human.png",
-                "nextQuestionId": 63
+                "nextQuestionId": 62
             },
             {
                 "text": "Night Elves",
                 "source": "assets\/images\/crests\/nightelf.png",
-                "nextQuestionId": 66
+                "nextQuestionId": 65
             },
             {
                 "text": "Gnome",
                 "source": "assets\/images\/crests\/gnome.png",
-                "nextQuestionId": 67
+                "nextQuestionId": 6
             }
         ]
     },
