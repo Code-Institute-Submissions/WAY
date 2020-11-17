@@ -133,6 +133,8 @@ I've tested everything extensively through **chrome developer tools**, making su
 
 * I've used **JSHint** to check the javascript code, which did not reveal a problem.
 * Ive tested the CSS with [CSS Validator](http://jigsaw.w3.org/css-validator/) which told me that all was **good**.
+* The HTML I've tested with [HTML Validator](https://validator.w3.org/) which gave me the following **results:**
+    * [Test1]()
 
 
 **Responsiveness**
