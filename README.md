@@ -141,6 +141,10 @@ Part of this was having a array like collection which led to me not being able t
 
 **From validation/testing**
 
+**Bug:** Boyfriend test: Wrong result id showing.
+
+**Solution:** Check flow of json and changed a few id's so the correct result id's show.
+
 **From peer code review**
 
 ## Deployment ##
