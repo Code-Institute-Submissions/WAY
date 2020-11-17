@@ -189,7 +189,9 @@ Part of this was having a array like collection which led to me not being able t
 
 :heavy_check_mark: **Solution:** Check flow of json and changed a few id's so the correct result id's show.
 
-:bug: **Bug:** Game not displaying correct on **Edge and Firefox browser**, due to those browsers **not** having **compatability** for **Optional Chaining Operators**. Boohoo.... 
+:bug: **Bug:** Game not displaying correct on **Edge and Firefox browser**, due to those browsers **not** having **compatability** for **Optional Chaining Operators**. Boohoo....
+
+:heavy_check_mark: **Solution:** Use a standard `for loop` instead of the fancy **Optional Chaining Operators**.
 
 **From peer code review**
 

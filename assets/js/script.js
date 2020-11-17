@@ -78,6 +78,7 @@ if (answers){
       } else {
         imageRef[i].classList.add("hide");
       }
+    }
     } else {
       if (answers === undefined) {
         displayResult(questions);
@@ -89,7 +90,6 @@ if (answers){
         imageRef[i].classList.add("hide");
       }
     }
-}
   };
 };
 /**
