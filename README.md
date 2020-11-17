@@ -191,6 +191,8 @@ Part of this was having a array like collection which led to me not being able t
 
 **From peer code review**
 
+Unfortunately, due to time constraints, I've only let my partner and one friend test the app. That result is talked about in the validation/testing section.
+
 ## Deployment ##
 ---
 WAY! was **developed** on **GitPod**, using **git** and **GitHub** to host the repository.
