@@ -23,6 +23,8 @@
 
 ---
 ## UX (User Experience) ##
+
+![amiresponsive?](assets/images/responsive.png)
 ---
 ### Project Goals ###
 The **ultimate quiz** to decide for **once and for all** which faction, race, class and role you belong to in the popular MMORPG [World of Warcraft](https://worldofwarcraft.com/en-us/).
