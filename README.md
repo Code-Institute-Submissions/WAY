@@ -42,21 +42,29 @@ I had a really hard time getting my data in a structure I could work with. So I 
 * Content is **appealing**.
 
 ### Design Choices ###
+
 :video_game:
+
 When **designing** this site, I mainly did a **lot of thinking**. Where **coming up** with the idea wasn't all that hard, the **getting the data structured and usable**, was a whole different ball game.
 I've looked at [**other quizzes**](https://www.zimbio.com/quiz/xB6XYrSQXCE/World+Warcraft+Class) that follow a path that is similar to mine and went from there.
 
 **Fonts**
+
 :heart_eyes:
+
 For the text i've used [Montserrat](https://fonts.google.com/specimen/Montserrat?query=mont) which come pretty close to the fonts Blizzard uses for their World of Warcraft site.
 I also used a **custom font** that is used my Blizzard itself; [LifeCraft](https://www.dafont.com/lifecraft.font) which i've used for the title.
 
 **Icons**
+
 :bell:
+
 **Icons** used where provided by [Font Awesome](https://fontawesome.com/), used in **moderation** and are self explanatory.
 
 **Colors**
+
 :hearts:
+
 Colors that are used, are based on the World of Warcraft colors.
 * For body background: Black #000000
 * For buttons:  Yellow #F7B10A, Blue #009AE4 and Red #EA3012
@@ -65,6 +73,7 @@ Colors that are used, are based on the World of Warcraft colors.
 ![Color Scheme](/wireframes/way.png)
 
 ## Wireframing ##
+
 :clipboard:
 For **wireframing** I used [Pencil Prototyping](https://pencil.evolus.vn/).
 
@@ -79,12 +88,14 @@ To be more precise:
 ## Features ##
 ---
 **Features** that have been **implemented:**
+
 :muscle:
 * A **fun** and perhaps **informative** quiz.
 * Social Media **buttons**.
 * **Images** that are **appealing**.
 
 **Features** that will be **implemented** in the **future:**
+
 :raised_hands:
 * **Fantasy name generator**: Let's user generate a **character name** to go with the **outcome of the quiz**.
 * Option to **check** if that **name** is already **taken** (through an API).
@@ -99,12 +110,14 @@ To be more precise:
 ## Technologies used ##
 ---
 **Languages**
+
 :speak_no_evil:
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [JS](https://nl.wikipedia.org/wiki/JavaScript)
 
 **Tools & Libraries**
+
 :see_no_evil:
 * [Git](https://git-scm.com/)
 * [Bootstrap](https://getbootstrap.com/)
@@ -117,12 +130,14 @@ To be more precise:
 ## Testing ##
 ---
 **Responsiveness**
+
 :horse_racing:
 * **Implementation**
 * **Results**
 * **Verdict**
 
 **Design**
+
 :crown:
 * **Implementation**
 * **Results**
@@ -160,6 +175,7 @@ Part of this was having a array like collection which led to me not being able t
 ## Deployment ##
 ---
 WAY! was **developed** on **GitPod**, using **git** and **GitHub** to host the repository.
+
 :rainbow:
 
 When deploying WAY! using **GitHub Pages** the following steps were made:
@@ -175,6 +191,7 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 * Aloy: from Outcast tot Heroine now **live** on **GitHub Pages**.
 
 **Running WAY! Locally**
+
 :office:
 
 **Cloning** WAY! from **GitHub**:
