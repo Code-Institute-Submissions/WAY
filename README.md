@@ -117,33 +117,32 @@ To be more precise:
 * **Results**
 * **Verdict**
 
-## Bugs ##
+:snake: ## Bugs ##
 ---
 **During development**
 
 :bug: **Bug:** Buttons not reacting the way I expected.
 
-**Description:** I was looping through the answers array with a `forEach loop`, but couldn't make the answers being injected into the buttons. And the buttons where underneath each other, instead of hiding when an answer was clicked.
+:memo: **Description:** I was looping through the answers array with a `forEach loop`, but couldn't make the answers being injected into the buttons. And the buttons where underneath each other, instead of hiding when an answer was clicked.
 This has been very frustrating for me, as I felt I was throwing everything I knew at it, including and not limited to documentation, video's and asking help on Slack.
 I asked tutor support in the end, who have helped me figure this out. Their hints combined with the help of Mr Bim, has led me to understand what was causing this and how to solve it. 
 Part of this was having a array like collection which led to me not being able to use a `forEach loop` which started this whole thing.
 
-**Solution:** Change the `document.querySelector` to be `document.querySelectorAll()` and use `for loops` so the answers where actually being appended to the amount of buttons that where needed.
+:heavy_check_mark: **Solution:** Change the `document.querySelector` to be `document.querySelectorAll()` and use `for loops` so the answers where actually being appended to the amount of buttons that where needed.
 
+:bug: **Bug:** Some loops in the questions weren't leading to a 'null no yes' solution but seemed infinite. 
 
-**Bug:** Some loops in the questions weren't leading to a 'null no yes' solution but seemed infinite. 
+:heavy_check_mark: **Solution:** Found out which question wasn't referring to the right ID number and fixed that. 
 
-**Solution:** Found out which question wasn't referring to the right ID number and fixed that. 
+:bug: **Bug:** The restart function wasn't working. This one had my head spinning and was very easy to solve! 
 
-**Bug:** The restart function wasn't working. This one had my head spinning and was very easy to solve! 
-
-**Solution:** Install a code spell checker... It took a mentor to point to a spelling mistake in the word "answers"... Won't happen again; code spell checker installed. :thumbsup: 
+:heavy_check_mark: **Solution:** Install a code spell checker... It took a mentor to point to a spelling mistake in the word "answers"... Won't happen again; code spell checker installed. :thumbsup: 
 
 **From validation/testing**
 
-**Bug:** Boyfriend test: Wrong result id showing.
+:bug: **Bug:** Boyfriend test: Wrong result id showing.
 
-**Solution:** Check flow of json and changed a few id's so the correct result id's show.
+:heavy_check_mark: **Solution:** Check flow of json and changed a few id's so the correct result id's show.
 
 **From peer code review**
 
