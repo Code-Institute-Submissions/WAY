@@ -5,7 +5,7 @@
 ---
 ## UX (User Experience) ##
 ---
-### Project Goals ###
+:punch: ### Project Goals ###
 The **ultimate quiz** to decide for **once and for all** which faction, race, class and role you belong to in the popular MMORPG [World of Warcraft](https://worldofwarcraft.com/en-us/).
 
 The **goal** for this project is to **entertain** users.
@@ -117,7 +117,7 @@ To be more precise:
 * **Results**
 * **Verdict**
 
-:snake: ## Bugs ##
+:snake:## Bugs ##
 ---
 **During development**
 
