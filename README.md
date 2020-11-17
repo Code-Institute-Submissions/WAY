@@ -375,7 +375,9 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 These are trying times...
 During this project I had some major life events, not to mention, the whole COVID-19 pandemic which has touched us all.
 
-I have never had so much things going on that have impacted me in ways I didnt expected. A move, some serious illness and other stuff, have forced me to make some tough decisions and really focus on what matters most. Code Institute has been invaluable in attaining this, so a MASSIVE thank you! 
+I have never had so much things going on that have impacted me in ways I didn't expected. A move, some serious illness and other stuff, have forced me to make some tough decisions and really focus on what matters most. Code Institute has been invaluable in attaining this, so a MASSIVE thank you! 
+
+Also, I have never been more proud of myself, with seeing this through! They say raising a child requires a village... I encountered first hand that finishing one of the toughest things I have ever done, requires a village as well!
 
 **Site for educational purposes only!**
 
