@@ -65,7 +65,7 @@ Colors that are used, are based on the World of Warcraft colors.
 ![Color Scheme](/wireframes/way.png)
 
 ## Wireframing ##
-
+:clipboard:
 For **wireframing** I used [Pencil Prototyping](https://pencil.evolus.vn/).
 
 View my wireframes [here](https://github.com/byIlsa/WAY/tree/master/wireframes).
@@ -79,16 +79,22 @@ To be more precise:
 ## Features ##
 ---
 **Features** that have been **implemented:**
-
+:muscle:
 * A **fun** and perhaps **informative** quiz.
 * Social Media **buttons**.
+* **Images** that are **appealing**.
 
 **Features** that will be **implemented** in the **future:**
-
+:raised_hands:
 * **Fantasy name generator**: Let's user generate a **character name** to go with the **outcome of the quiz**.
 * Option to **check** if that **name** is already **taken** (through an API).
 * Option to choose between the **different expansions**. With **every new expansion**, **more classes and races** were added. For future features, I would like to **include** them as well.
 * Social media **share buttons**.
+
+**Features** that where in the **wireframes** but did not make it in **this version:**
+
+* **Change of color** when choosing a faction. 
+    * Sadly, due to time constraints, I wasn't able to add this feature. :disappointed:
 
 ## Technologies used ##
 ---
