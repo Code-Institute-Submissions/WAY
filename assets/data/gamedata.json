@@ -88,12 +88,12 @@
         "answers": [
             {
                 "text": "Undead",
-                "source": "assets\/images\/crests\/undead.png",
+                "source": "assets\/images\/crests\/undead.jpg",
                 "nextQuestionId": 89
             },
             {
                 "text": "Troll",
-                "source": "assets\/images\/crests\/troll.png",
+                "source": "assets\/images\/crests\/troll.jpg",
                 "nextQuestionId": 87
             }
         ]
@@ -118,17 +118,17 @@
         "answers": [
             {
                 "text": "Orcs",
-                "source": "assets\/images\/crests\/orcs.png",
+                "source": "assets\/images\/crests\/orcs.jpg",
                 "nextQuestionId": 90
             },
             {
                 "text": "Tauren",
-                "source": "assets\/images\/crests\/tauren.png",
+                "source": "assets\/images\/crests\/tauren.jpg",
                 "nextQuestionId": 91
             },
             {
                 "text": "Troll",
-                "source": "assets\/images\/crests\/troll.png",
+                "source": "assets\/images\/crests\/troll.jpg",
                 "nextQuestionId": 92
             }
         ]
@@ -153,17 +153,17 @@
         "answers": [
             {
                 "text": "Orcs",
-                "source": "assets\/images\/crests\/orcs.png",
+                "source": "assets\/images\/crests\/orcs.jpg",
                 "nextQuestionId": 107
             },
             {
                 "text": "Tauren",
-                "source": "assets\/images\/crests\/tauren.png",
+                "source": "assets\/images\/crests\/tauren.jpg",
                 "nextQuestionId": 108
             },
             {
                 "text": "Troll",
-                "source": "assets\/images\/crests\/troll.png",
+                "source": "assets\/images\/crests\/troll.jpg",
                 "nextQuestionId": 98
             }
         ]
@@ -202,17 +202,17 @@
         "answers": [
             {
                 "text": "Orc",
-                "source": "assets\/images\/crests\/orcs.png",
+                "source": "assets\/images\/crests\/orcs.jpg",
                 "nextQuestionId": 103
             },
             {
                 "text": "Tauren",
-                "source": "assets\/images\/crests\/tauren.png",
+                "source": "assets\/images\/crests\/tauren.jpg",
                 "nextQuestionId": 117
             },
             {
                 "text": "Troll",
-                "source": "assets\/images\/crests\/troll.png",
+                "source": "assets\/images\/crests\/troll.jpg",
                 "nextQuestionId": 100
             }      
         ]
@@ -237,12 +237,12 @@
         "answers": [
             {
                 "text": "Undead",
-                "source": "assets\/images\/crests\/undead.png",
+                "source": "assets\/images\/crests\/undead.jpg",
                 "nextQuestionId": 111
             },
             {
                 "text": "Troll",
-                "source": "assets\/images\/crests\/troll.png",
+                "source": "assets\/images\/crests\/troll.jpg",
                 "nextQuestionId": 99
             }
         ]
@@ -268,12 +268,12 @@
         "answers": [
             {
                 "text": "Undead",
-                "source": "assets\/images\/crests\/undead.png",
+                "source": "assets\/images\/crests\/undead.jpg",
                 "nextQuestionId": 115
             },
             {
                 "text": "Troll",
-                "source": "assets\/images\/crests\/troll.png",
+                "source": "assets\/images\/crests\/troll.jpg",
                 "nextQuestionId": 116
             }
         ]
@@ -298,17 +298,17 @@
         "answers": [
             {
                 "text": "Undead",
-                "source": "assets\/images\/crests\/undead.png",
+                "source": "assets\/images\/crests\/undead.jpg",
                 "nextQuestionId": 112
             },
             {
                 "text": "Troll",
-                "source": "assets\/images\/crests\/troll.png",
+                "source": "assets\/images\/crests\/troll.jpg",
                 "nextQuestionId": 100
             },
             {
                 "text": "Orc",
-                "source": "assets\/images\/crests\/orcs.png",
+                "source": "assets\/images\/crests\/orcs.jpg",
                 "nextQuestionId": 103
             }
         ]
@@ -333,17 +333,17 @@
         "answers": [
             {
                 "text": "Tauren",
-                "source": "assets\/images\/crests\/tauren.png",
+                "source": "assets\/images\/crests\/tauren.jpg",
                 "nextQuestionId": 109
             },
             {
                 "text": "Troll",
-                "source": "assets\/images\/crests\/troll.png",
+                "source": "assets\/images\/crests\/troll.jpg",
                 "nextQuestionId": 101
             },
             {
                 "text": "Orc",
-                "source": "assets\/images\/crests\/orcs.png",
+                "source": "assets\/images\/crests\/orcs.jpg",
                 "nextQuestionId": 105
             }
         ]
@@ -368,12 +368,12 @@
         "answers": [
             {
                 "text": "Orc",
-                "source": "assets\/images\/crests\/orcs.png",
+                "source": "assets\/images\/crests\/orcs.jpg",
                 "nextQuestionId": 104
             },
             {
                 "text": "Undead",
-                "source": "assets\/images\/crests\/undead.png",
+                "source": "assets\/images\/crests\/undead.jpg",
                 "nextQuestionId": 113
             }
         ]
@@ -398,22 +398,22 @@
         "answers": [
             {
                 "text": "Orc",
-                "source": "assets\/images\/crests\/orcs.png",
+                "source": "assets\/images\/crests\/orcs.jpg",
                 "nextQuestionId": 106
             },
             {
                 "text": "Undead",
-                "source": "assets\/images\/crests\/undead.png",
+                "source": "assets\/images\/crests\/undead.jpg",
                 "nextQuestionId": 114
             },
             {
                 "text": "Tauren",
-                "source": "assets\/images\/crests\/tauren.png",
+                "source": "assets\/images\/crests\/tauren.jpg",
                 "nextQuestionId": 110
             },
             {
                 "text": "Troll",
-                "source": "assets\/images\/crests\/troll.png",
+                "source": "assets\/images\/crests\/troll.jpg",
                 "nextQuestionId": 102
             }
         ]
@@ -452,22 +452,22 @@
         "answers": [
             {
                 "text": "Orc",
-                "source": "assets\/images\/crests\/orcs.png",
+                "source": "assets\/images\/crests\/orcs.jpg",
                 "nextQuestionId": 94
             },
             {
                 "text": "Undead",
-                "source": "assets\/images\/crests\/undead.png",
+                "source": "assets\/images\/crests\/undead.jpg",
                 "nextQuestionId": 97
             },
             {
                 "text": "Tauren",
-                "source": "assets\/images\/crests\/tauren.png",
+                "source": "assets\/images\/crests\/tauren.jpg",
                 "nextQuestionId": 96
             },
             {
                 "text": "Troll",
-                "source": "assets\/images\/crests\/troll.png",
+                "source": "assets\/images\/crests\/troll.jpg",
                 "nextQuestionId": 93
             }
         ]
@@ -506,12 +506,12 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\/images\/crests\/dwarf.png",
+                "source": "assets\/images\/crests\/dwarf.jpg",
                 "nextQuestionId": 63
             },
             {
                 "text": "Human",
-                "source": "assets\/images\/crests\/human.png",
+                "source": "assets\/images\/crests\/human.jpg",
                 "nextQuestionId": 61
             }
         ]
@@ -536,17 +536,17 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\/images\/crests\/dwarf.png",
+                "source": "assets\/images\/crests\/dwarf.jpg",
                 "nextQuestionId": 57
             },
             {
                 "text": "Human",
-                "source": "assets\/images\/crests\/human.png",
+                "source": "assets\/images\/crests\/human.jpg",
                 "nextQuestionId": 55
             },
             {
                 "text": "Night Elves",
-                "source": "assets\/images\/crests\/nightelf.png",
+                "source": "assets\/images\/crests\/nightelf.jpg",
                 "nextQuestionId": 59
             }
         ]
@@ -585,12 +585,12 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\/images\/crests\/dwarf.png",
+                "source": "assets\/images\/crests\/dwarf.jpg",
                 "nextQuestionId": 76
             },
             {
                 "text": "Night Elves",
-                "source": "assets\/images\/crests\/nightelf.png",
+                "source": "assets\/images\/crests\/nightelf.jpg",
                 "nextQuestionId": 74
             }
         ]
@@ -615,12 +615,12 @@
         "answers": [
             {
                 "text": "Gnome",
-                "source": "assets\/images\/crests\/gnome.png",
+                "source": "assets\/images\/crests\/gnome.jpg",
                 "nextQuestionId": 79
             },
             {
                 "text": "Human",
-                "source": "assets\/images\/crests\/human.png",
+                "source": "assets\/images\/crests\/human.jpg",
                 "nextQuestionId": 68
             }
         ]
@@ -645,12 +645,12 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\/images\/crests\/dwarf.png",
+                "source": "assets\/images\/crests\/dwarf.jpg",
                 "nextQuestionId": 78
             },
             {
                 "text": "Human",
-                "source": "assets\/images\/crests\/human.png",
+                "source": "assets\/images\/crests\/human.jpg",
                 "nextQuestionId": 71
             }
         ]
@@ -675,17 +675,17 @@
         "answers": [
             {
                 "text": "Human",
-                "source": "assets\/images\/crests\/human.png",
+                "source": "assets\/images\/crests\/human.jpg",
                 "nextQuestionId": 83
             },
             {
                 "text": "Dwarf",
-                "source": "assets\/images\/crests\/dwarf.png",
+                "source": "assets\/images\/crests\/dwarf.jpg",
                 "nextQuestionId": 84
             },
             {
                 "text": "Night Elves",
-                "source": "assets\/images\/crests\/nightelf.png",
+                "source": "assets\/images\/crests\/nightelf.jpg",
                 "nextQuestionId": 85
             }
         ]
@@ -710,22 +710,22 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\/images\/crests\/dwarf.png",
+                "source": "assets\/images\/crests\/dwarf.jpg",
                 "nextQuestionId": 77
             },
             {
                 "text": "Human",
-                "source": "assets\/images\/crests\/human.png",
+                "source": "assets\/images\/crests\/human.jpg",
                 "nextQuestionId": 69
             },
             {
                 "text": "Night Elves",
-                "source": "assets\/images\/crests\/nightelf.png",
+                "source": "assets\/images\/crests\/nightelf.jpg",
                 "nextQuestionId": 75
             },
             {
                 "text": "Gnome",
-                "source": "assets\/images\/crests\/gnome.png",
+                "source": "assets\/images\/crests\/gnome.jpg",
                 "nextQuestionId": 80
             }
         ]
@@ -750,12 +750,12 @@
         "answers": [
             {
                 "text": "Human",
-                "source": "assets\/images\/crests\/human.png",
+                "source": "assets\/images\/crests\/human.jpg",
                 "nextQuestionId": 70
             },
             {
                 "text": "Gnome",
-                "source": "assets\/images\/crests\/gnome.png",
+                "source": "assets\/images\/crests\/gnome.jpg",
                 "nextQuestionId": 82
             }
         ]
@@ -780,17 +780,17 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\/images\/crests\/dwarf.png",
+                "source": "assets\/images\/crests\/dwarf.jpg",
                 "nextQuestionId": 86
             },
             {
                 "text": "Human",
-                "source": "assets\/images\/crests\/human.png",
+                "source": "assets\/images\/crests\/human.jpg",
                 "nextQuestionId": 72
             },
             {
                 "text": "Gnome",
-                "source": "assets\/images\/crests\/gnome.png",
+                "source": "assets\/images\/crests\/gnome.jpg",
                 "nextQuestionId": 81
             }
         ]
@@ -829,12 +829,12 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\/images\/crests\/dwarf.png",
+                "source": "assets\/images\/crests\/dwarf.jpg",
                 "nextQuestionId": 63
             },
             {
                 "text": "Human",
-                "source": "assets\/images\/crests\/human.png",
+                "source": "assets\/images\/crests\/human.jpg",
                 "nextQuestionId": 61
             }
         ]
@@ -859,22 +859,22 @@
         "answers": [
             {
                 "text": "Dwarf",
-                "source": "assets\/images\/crests\/dwarf.png",
+                "source": "assets\/images\/crests\/dwarf.jpg",
                 "nextQuestionId": 67
             },
             {
                 "text": "Human",
-                "source": "assets\/images\/crests\/human.png",
+                "source": "assets\/images\/crests\/human.jpg",
                 "nextQuestionId": 62
             },
             {
                 "text": "Night Elves",
-                "source": "assets\/images\/crests\/nightelf.png",
+                "source": "assets\/images\/crests\/nightelf.jpg",
                 "nextQuestionId": 65
             },
             {
                 "text": "Gnome",
-                "source": "assets\/images\/crests\/gnome.png",
+                "source": "assets\/images\/crests\/gnome.jpg",
                 "nextQuestionId": 6
             }
         ]

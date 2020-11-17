@@ -216,6 +216,10 @@ Part of this was having a array like collection which led to me not being able t
 
 :heavy_check_mark: **Solution:** Use a standard `for loop` instead of the fancy **Optional Chaining Operators**.
 
+:bug: **Bug:** Footer not sticking to bottom of page.
+
+:heavy_check_mark: **Solution:** Due to time constraints this bug remains unsolved for now.
+
 **From peer code review**
 
 Unfortunately, due to time constraints, I've only let my partner and one friend test the app. That result is talked about in the validation/testing section.
