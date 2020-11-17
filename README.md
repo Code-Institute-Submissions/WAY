@@ -1,7 +1,7 @@
 # WAY! #
 *Who Are You in World of Warcraft*
 
-![Kel'Thuzad](assets/images/kelthuzad.jpeg)
+![Kel'Thuzad](assets/images/kelthuzad.jpg)
 
 ## Table of Content ##
 ---
@@ -24,7 +24,7 @@
 ---
 ## UX (User Experience) ##
 
-![amiresponsive?](assets/images/responsive.png)
+![amiresponsive?](assets/images/responsive.jpg)
 ---
 ### Project Goals ###
 The **ultimate quiz** to decide for **once and for all** which faction, race, class and role you belong to in the popular MMORPG [World of Warcraft](https://worldofwarcraft.com/en-us/).
@@ -91,7 +91,7 @@ Colors that are used, are based on the World of Warcraft colors.
 * For buttons:  Yellow #F7B10A, Blue #009AE4 and Red #EA3012
 * For text: Yellow #F7B10A, Blue #009AE4 and Red #EA3012.
 
-![Color Scheme](/wireframes/way.png)
+![Color Scheme](/wireframes/way.jpg)
 
 ## Wireframing ##
 
@@ -157,12 +157,12 @@ I've tested everything extensively through **chrome developer tools**, making su
 * Ive tested the CSS with [CSS Validator](http://jigsaw.w3.org/css-validator/) which told me that all was **good**.
 
 * The HTML I've tested with [HTML Validator](https://validator.w3.org/) which gave me the following **results:**
-    * [Test1](https://github.com/byIlsa/WAY/blob/master/assets/images/HTMLtest1.png)
+    * [Test1](https://github.com/byIlsa/WAY/blob/master/assets/images/HTMLtest1.jpg)
         * This gave me an **error**. I needed to give the h3 class a title. I changed it and tested again;
-    * [Test2](https://github.com/byIlsa/WAY/blob/master/assets/images/HTMLtest2.png)
+    * [Test2](https://github.com/byIlsa/WAY/blob/master/assets/images/HTMLtest2.jpg)
         * **Result:** No more errors.
 
-* Testing for browsercompatability was done through [Lambdatest](www.lambdatest.com). I've made a report, check it out [here](https://github.com/byIlsa/WAY/blob/master/assets/images/browserTest.png). The **results** are being discussed in the **bug section** of this readme.       
+* Testing for browser compatibility was done through [Lambdatest](www.lambdatest.com). I've made a report, check it out [here](https://github.com/byIlsa/WAY/blob/master/assets/images/browserTest.jpg). The **results** are being discussed in the **bug section** of this readme.       
 
 
 **Responsiveness**
