@@ -121,7 +121,7 @@ To be more precise:
 ---
 **During development**
 
-**Bug:** Buttons not reacting the way I expected.
+:bug: **Bug:** Buttons not reacting the way I expected.
 
 **Description:** I was looping through the answers array with a `forEach loop`, but couldn't make the answers being injected into the buttons. And the buttons where underneath each other, instead of hiding when an answer was clicked.
 This has been very frustrating for me, as I felt I was throwing everything I knew at it, including and not limited to documentation, video's and asking help on Slack.
