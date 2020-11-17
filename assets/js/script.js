@@ -69,7 +69,8 @@ const showQuestion = (questionIndex) => {
 const showImages = (questions) => {
   const answers = questions.answers;
   for (let i = 0; i < imageRef.length; i++) {
-    if (i < answers?.length) {
+if (answers){
+    if (i < answers.length) {
       if (answers[i].source != null) {
         imageRef[i].classList.remove("hide");
         imageRef[i].innerHTML =
@@ -88,6 +89,7 @@ const showImages = (questions) => {
         imageRef[i].classList.add("hide");
       }
     }
+}
   };
 };
 /**

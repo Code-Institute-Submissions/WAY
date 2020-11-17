@@ -189,6 +189,8 @@ Part of this was having a array like collection which led to me not being able t
 
 :heavy_check_mark: **Solution:** Check flow of json and changed a few id's so the correct result id's show.
 
+:bug: **Bug:** Game not displaying correct on **Edge and Firefox browser**, due to those browsers **not** having **compatability** for **Optional Chaining Operators**. Boohoo.... 
+
 **From peer code review**
 
 Unfortunately, due to time constraints, I've only let my partner and one friend test the app. That result is talked about in the validation/testing section.
@@ -209,7 +211,7 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 * Scrolled down to the **GitHub Pages** area.
 * Selected **Master Branch** from the **Source** dropdown menu.
 * Clicked to **confirm** my **selection**.
-* Aloy: from Outcast tot Heroine now **live** on **GitHub Pages**.
+* WAY! **live** on **GitHub Pages**.
 
 **Running WAY! Locally**
 
