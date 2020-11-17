@@ -193,10 +193,12 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 ---
 **Code Credit**
 
+:clap:
 * Epic thanks to [WebDevSimplified](https://github.com/WebDevSimplified) for his [JavaScript text adventure game](https://github.com/WebDevSimplified/JavaScript-Text-Adventure) which I have used as a base for my project.
 
 **Credit for text used on this website**
 
+:clap:
 * For [race](https://wowwiki.fandom.com/wiki/Race) descriptions.
 
 * For [class](https://wowwiki.fandom.com/wiki/Class) descriptions.
@@ -204,6 +206,8 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 * For the **questions** I used [this](https://nl.pinterest.com/pin/32299322315435071/) and [this](https://nl.pinterest.com/pin/308144799504856672/), found on pinterest.
 
 **Images used**
+
+:clap:
 
 * [Body background-factions](https://wallpaperplay.com/walls/full/9/1/3/41117.jpg)
 
@@ -306,6 +310,8 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 
 **Special thanks**
 
+:clap: :clap:
+
 * As always, my mentor [Simen Daehlin](https://github.com/Eventyret), for his support and Yoda-guidance.
 
 * And while Simen was away, I got helped by the awesome [Reuben Ferrante](https://github.com/arex18).
@@ -314,11 +320,13 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 
 * For her MoneyPot game, that has helped me kick off the JavaScript part of this project, [Neringa Bickmore](https://github.com/neringabickmore).
 
-* For his undying love and support and always being there, my love, you know who you are ;)
+* For his undying love and support and always being there, my love, you know who you are ;) :hearts: :hearts:
 
 * Everybody at Slack for their support, tips and humor, especially tutors Tim, Roman and Kevin.
 
 **Personal note**
+
+:relieved:
 
 These are trying times...
 During this project I had some major life events, not to mention, the whole COVID-19 pandemic which has touched us all.
