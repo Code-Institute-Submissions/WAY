@@ -201,7 +201,7 @@ Unfortunately, due to time constraints, I've only let my partner and one friend 
 
 ## Deployment ##
 ---
-WAY! was **developed** on **GitPod**, using **git** and **GitHub** to host the repository.
+WAY! was **developed** on **GitPod**, using **git** and **GitHub** to host the repository. I have used **branches** which I did not remove, so the **accessors** can see them as well. I am **aware** that these need to be **removed** in all other cases.
 
 :rainbow:
 
