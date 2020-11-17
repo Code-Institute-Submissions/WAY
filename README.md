@@ -2,6 +2,25 @@
 *Who Are You in World of Warcraft*
 
 ![Kel'Thuzad](assets/images/kelthuzad.jpeg)
+
+## Table of Content ##
+---
+  * [UX (User Experience)](#ux--user-experience-)
+    + [Project Goals](#project-goals)
+    + [User Goals](#user-goals)
+    + [User Stories](#user-stories)
+    + [Site Owner Goals](#site-owner-goals)
+    + [User Requirements and Expectations](#user-requirements-and-expectations)
+    + [Design Choices](#design-choices)
+  * [Wireframing](#wireframing)
+  * [Features](#features)
+  * [Technologies used](#technologies-used)
+  * [Testing](#testing)
+  * [Bugs](#bugs)
+  * [Deployment](#deployment)
+  * [Credits](#credits)
+
+
 ---
 ## UX (User Experience) ##
 ---
@@ -351,6 +370,7 @@ When deploying WAY! using **GitHub Pages** the following steps were made:
 [Gnome Rogue](https://www.storenvy.com/products/4184291-timmo-shadestep)
 </details>
 
+For generating a table of content: <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 **Special thanks**
 
