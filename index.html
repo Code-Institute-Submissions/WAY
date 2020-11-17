@@ -24,29 +24,28 @@
 <!-- Logo -->
 
     <section class="container-fluid">
-        <div class="row justify-content-center align-items-center text-center">
-            
-                <div class="col-12 bold-text-logo"> Who Are You?</div>
-                
-                <div class="col-12 bold-text-logo"> in</div>
-                <div class="col-12 bold-text-logo">World of Warcraft?</div>
+        <div class="row justify-content-center align-items-center mb-4">
+                <div class="col-12 text-center"> 
+                    <h1 class="bold-text-logo"> Who Are You? <br>
+                        in <br>
+                            World of Warcraft? <br>
+                    </h1>
+                </div>
         </div>
-            
-        
     </section>
 
 <!-- Landing Page -->
     <section class="container-fluid" id="landing-page">  
-        <div class="row justify-content-center align-items-center">
+        <div class="row justify-content-center align-items-center mb-4">
             <div class="col-12 text-center">
-                <h2 class ="bold-text"> Don't know what class to play? 
-                What role? Or even what faction you belong to? 
+                <h2 class ="bold-text"> Don't know what class to play? <br>
+                What role? <br>Or even what faction you belong to? <br>
                 Answer the following simple questions and find out!</h2>
             </div>
         </div>
             <div class="row justify-content-center align-items-center">
-                <div class="col-6 text-center">
-                    <a class="btn btn-outline-danger btn-lg mt-5" id="start-btn"
+                <div class="col-md-6 text-center">
+                    <a class="btn btn-lg mt-5" id="start-btn"
                         href="#" aria-label="Start">Enter at own risk</a>
                 </div>
             </div>       
@@ -59,28 +58,26 @@
                 <h3 class="text-center mt-3" id="questions"></h3>
                 <div class="row justify-content-center align-items-center mb-4" id="answer-btns">
                 <div class="image col-12 mt-3 justify-content-center"></div>
-                    <div class="col-12 text-center mt-3"><a href="#" class="btn btn-danger answer-button" data-next-question="" aria-label="Answer button">Answer 1</a></div>
+                    <div class="col-12 text-center mt-3"><a href="#" class="btn answer-button" data-next-question="" aria-label="Answer button">Answer 1</a></div>
                 <div class="image col-12 mt-3"></div>
-                    <div class="col-12 text-center mt-3"><a href="#" class="btn btn-danger answer-button" data-next-question="" aria-label="Answer button">Answer 2</a></div>
+                    <div class="col-12 text-center mt-3"><a href="#" class="btn answer-button" data-next-question="" aria-label="Answer button">Answer 2</a></div>
                         <div class="image col-12 mt-3"></div>
-                    <div class="col-12 text-center mt-3"><a href="#" class="btn btn-danger answer-button" data-next-question="" aria-label="Answer button">Answer 3</a></div>
+                    <div class="col-12 text-center mt-3"><a href="#" class="btn answer-button" data-next-question="" aria-label="Answer button">Answer 3</a></div>
                         <div class="image col-12 mt-3"></div>
-                    <div class="col-12 text-center mt-3"><a href="#" class="btn btn-danger answer-button" data-next-question="" aria-label="Answer button">Answer 4</a></div>
+                    <div class="col-12 text-center mt-3"><a href="#" class="btn answer-button" data-next-question="" aria-label="Answer button">Answer 4</a></div>
             </div>
                     <div class="row justify-content-center hide" id="result">
+                    <div class="col-6">
+                                <div class="result-image mb-3 justify-content-center"></div>
+                            </div>
                         <div class="row justify-content-center">
-                            <div class="col-md-6">
+                            <div class="col-12">
                                 <div class="factions mt-3" id="factions"></div>
                                     <div class="roles mt-3" id="roles"></div>
                                         <div class="classes mt-3" id="classes"></div>
-                                            <div class="races mt-3" id="races"></div>
+                                            <div class="races mt-3 mb-3" id="races"></div>
                             </div>
-                            <div class="row justify-content-center">
-                            <div class="col-md-6">
-                                <div class="result-image mt-3"></div>
-                            </div>
-                            </div>
-                            <div class="col-12 text-center mt-3 mb-3"><a href="index.html" class="btn btn-danger restart-btn" aria-label="Result button">Restart Game</a></div>
+                            <div class="col-12 text-center mt-3 mb-3"><a href="index.html" class="btn btn-lg restart-btn" aria-label="Result button">Restart Game</a></div>
                         </div>
                     </div>
             </div>
@@ -88,14 +85,63 @@
 </section>
 
 <!-- Footer - needs more work -->
-<footer class="container-fluid" id="social">
-    <div class="row justify-content-center align-items-center mt-4">
-        <span>Social</span>
-            <i class="fab fa-facebook"></i>
-            <i class="fab fa-twitter-square"></i>
-            <i class="fab fa-instagram"></i>
+<footer class="container-fluid mt-2">
+        <div class="row justify-content-center">
+            <div class="col-6 text-center">
+                <h5 class="social">Created:</h5>
+                <p class="footer-created">
+                    byIlsa
+                </p>
+            </div>
+            <div class="col-6 text-center" id="social">
+                <h5 class="social">Social:</h5>
+                <ul class="list-inline">
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://www.facebook.com/"
+                            aria-label="Find us on Facebook" rel="noopener">
+                            <i class="fab fa-facebook fa-md"></i>
+
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://twitter.com/?lang=en"
+                            aria-label="Find us on Twitter" rel="noopener">
+                            <i class="fab fa-twitter fa-md"></i>
+
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://www.linkedin.com/"
+                            aria-label="Find us on LinkedIn" rel="noopener">
+                            <i class="fab fa-linkedin fa-md"></i>
+
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://www.pinterest.com/"
+                            aria-label="Find us on Pinterest" rel="noopener">
+                            <i class="fab fa-pinterest fa-md"></i>
+
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://www.instagram.com/"
+                            aria-label="Find us on Instagram" rel="noopener">
+                            <i class="fab fa-instagram fa-md"></i>
+
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a target="_blank" href="https://www.youtube.com/"
+                            aria-label="Find us on YouTube" rel="noopener">
+                            <i class="fab fa-youtube fa-xl"></i>
+
+                        </a>
+                    </li>
+                </ul>
+            </div>
         </div>
-</footer>    
+    </footer>
     
 <!-- JS scripts -->        	
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

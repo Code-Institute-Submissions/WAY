@@ -1,100 +1,102 @@
 /* Google font import link */
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
 @font-face {
-    font-family: 'lifeCraft';
-    src: url('../css/fonts/LifeCraft_Font.ttf');
+  font-family: "lifeCraft";
+  src: url("../css/fonts/LifeCraft_Font.ttf");
 }
 
 /* General body styling */
 html {
-    scroll-behavior: smooth;
-    min-height: 100vh;
-    font-size: 62.5%;
+  scroll-behavior: smooth;
+  min-height: 100vh;
 }
 
 body {
-    background-image: url("../images/factions.png");
-    background-color: #000; 
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 100vh;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1.6rem;
-    overflow-x: hidden;
-    position: relative;
+  background-image: url("../images/factions.png");
+  background-color: #000;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  font-size: 62.5%;
+  overflow-x: hidden;
+  position: relative;
+}
+
+a {
+  color: #ea3012;
+  text-decoration: none;
 }
 
 .bold-text-logo {
-    font-family: 'lifeCraft';
-    font-size: 4rem;
-    color: #f7b10a;
-    background: rgba(0, 0, 0, 0.5);
+  font-family: "lifeCraft";
+  font-size: 4rem;
+  color: #f7b10a;
+  background: rgba(0, 0, 0, 0.5);
 }
 .bold-text {
-    color: #f7b10a;
-    background: rgba(0, 0, 0, 0.5);
-    
+  color: #f7b10a;
+  background: rgba(0, 0, 0, 0.5);
 }
+
 /* Styling for images */
 .img-fluid {
-    max-width: 50vw;
-    height: auto;
+  max-width: 50vw;
+  height: auto;
 }
 .image {
-    width: 9vw;
-    height: auto;
+  width: 9vw;
+  height: auto;
 }
 .result-image {
-    width: 30vw;
-    height: auto;
+  width: 20vw;
+  height: auto;
 }
+
 /* Button styling */
-.btn-danger,
-.btn-danger:hover,
-.btn-danger:not(:disabled):not(.disabled).active, .btn-danger:not(:disabled):not(.disabled):active, .show>.btn-danger.dropdown-toggle,
-.btn-danger.focus, .btn-danger:focus 
-{
-    color: #000;
-    background-color: #f7b10a;
-    border-color: #f7b10a;
-    box-shadow:none;
-    font-size: 1.3rem;
-}
-.btn-outline-danger,
-.btn-outline-danger:hover
-{
-    color: #000;
-    border-color: #f7b10a;
-    background-color: #f7b10a;
-    box-shadow: none;
+.btn {
+  background-color: #f7b10a;
+  border: #f7b10a;
 }
 
 /* Styling for game container section */
 #game-container {
-    background: rgba(0, 0, 0, 0.5);
-    width: 90vw;
+  background: rgba(0, 0, 0, 0.5);
+  width: 90vw;
+  height: auto;
 }
 #questions {
-    color: #f7b10a;
+  color: #f7b10a;
 }
 
 #factions,
 #roles,
 #classes,
 #races {
-    font-size: 1.5rem;
-    color:#f7b10a;
+  font-size: 1rem;
+  color: #f7b10a;
 }
 
-
-/* Social media buttons */
+/* Footer/Social media buttons */
 #social {
-    font-size: 2rem;
-    color:#f7b10a;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: 2rem;
+  color: #f7b10a;
 }
+.social {
+  font-size: 1rem;
+  color: #f7b10a;
+}
+.footer-created {
+  font-family: "lifeCraft";
+  font-size: 2rem;
+  color: #009ae4;
+}
+
 /* General styling */
 .hide {
-    display: none;
+  display: none;
 }

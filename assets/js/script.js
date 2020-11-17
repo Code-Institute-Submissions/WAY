@@ -37,7 +37,7 @@ const fetchData = (jsonFile) => {
     .then((res) => res.json())
     .then((gameFile) => {
       quiz = gameFile;
-      showQuestion(1);
+      showQuestion(55);
     })
     .catch((err) => console.log(err));
 };
@@ -99,10 +99,10 @@ const showImages = (questions) => {
 
 const displayResult = (questions) => {
   if (questions.question === "The results are in!") {
-    factionRef.innerHTML = "Your faction is: " + questions.factions;
-    roleRef.innerHTML = "Your role is: " + questions.roles;
-    classRef.innerHTML = "Your class is: " + questions.classes;
-    raceRef.innerHTML = "Your race is: " + questions.races;
+    factionRef.innerHTML = "<b>Your faction is:</b> <br>" + questions.factions;
+    roleRef.innerHTML = "<b>Your role is:</b> <br>" + questions.roles;
+    classRef.innerHTML = "<b>Your class is:</b> <br>" + questions.classes;
+    raceRef.innerHTML = "<b>Your race is:</b> <br>" + questions.races;
     resultImageRef.innerHTML =
       '<img src="' + questions.source + '" class="result-image">';
     resultRef.classList.remove("hide");
