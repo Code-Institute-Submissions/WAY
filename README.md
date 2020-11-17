@@ -129,6 +129,12 @@ To be more precise:
 
 ## Testing ##
 ---
+I've tested everything extensively through **chrome developer tools**, making sure responsiveness was reacting the way it should. 
+
+* I've used **JSHint** to check the javascript code, which did not reveal a problem.
+* Ive tested the CSS with [CSS Validator](http://jigsaw.w3.org/css-validator/) which told me that all was **good**.
+
+
 **Responsiveness**
 
 :horse_racing:

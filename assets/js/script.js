@@ -12,9 +12,7 @@ const raceRef = document.getElementById("races");
 let quiz;
 
 $(document).ready(function () {
-  $("#WAY").fadeIn("slow");
   $("#game-container").toggle();
-
   $("#start-btn").click(function () {
     $("#landing-page, #game-container").toggle();
   });
@@ -37,7 +35,7 @@ const fetchData = (jsonFile) => {
     .then((res) => res.json())
     .then((gameFile) => {
       quiz = gameFile;
-      showQuestion(55);
+      showQuestion(1);
     })
     .catch((err) => console.log(err));
 };
@@ -90,7 +88,7 @@ const showImages = (questions) => {
         imageRef[i].classList.add("hide");
       }
     }
-  }
+  };
 };
 /**
  * Displaying the
